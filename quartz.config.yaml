@@ -9,7 +9,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.error.ee
+  baseUrl: ai-wiki.error.ee
   ignorePatterns:
     - private
     - templates

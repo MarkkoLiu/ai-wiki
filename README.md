@@ -2,7 +2,7 @@
 
 Publishes the [llm-wiki](../llm-wiki) knowledge base — Estonia-focused tracking of
 AI agent identity, delegation, and governance news — as a browsable site with an
-Obsidian-style graph view at **wiki.error.ee**.
+Obsidian-style graph view at **ai-wiki.error.ee**.
 
 Built with [Quartz 5](https://quartz.jzhao.xyz/), which renders the vault's
 `[[wikilinks]]`, backlinks, and interactive graph out of the box.
@@ -66,12 +66,12 @@ to run once, by hand, somewhere with real internet access:
    publish the site.
 
 5. **Add the custom domain.** Still under Settings → Pages:
-   - Under "Custom domain", enter `wiki.error.ee` and click Save.
+   - Under "Custom domain", enter `ai-wiki.error.ee` and click Save.
    - At your DNS provider for `error.ee`, add a **CNAME** record:
      - Host/name: `wiki`
      - Value/target: `markkoliu.github.io`
    - Quartz's `cname` plugin (already enabled in `quartz.config.yaml`, with
-     `baseUrl: wiki.error.ee`) writes the `CNAME` file into the built site
+     `baseUrl: ai-wiki.error.ee`) writes the `CNAME` file into the built site
      automatically, so it should survive future deploys without extra work.
    - DNS can take anywhere from a few minutes to a few hours to propagate.
      GitHub will show a checkmark on the Pages settings page once it verifies.
@@ -86,7 +86,7 @@ git push                # you decide when this goes live
 ## Project layout
 
 - `content/` — mirrored wiki pages (populated by `sync_content.sh`, not hand-edited)
-- `quartz.config.yaml` — site config: title, `wiki.error.ee` base URL, theme,
+- `quartz.config.yaml` — site config: title, `ai-wiki.error.ee` base URL, theme,
   and the Obsidian-focused plugin set (graph view, backlinks, search, wikilinks)
 - `sync_content.sh` — pulls content from `../llm-wiki/wiki/`, commits locally, never pushes
 - `.github/workflows/deploy.yml` — builds and deploys to GitHub Pages on every push to `main`
