@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-09
+**Last updated**: 2026-09-14
 
 ---
 
@@ -34,6 +34,10 @@ A new Internet-Draft proposes the **Agent Authorization Envelope (AAE)**: a stru
 
 Separately, **EMVCo** — the card-payments standards body — opened feedback (until 30 September 2026) on a draft framework for card-based agentic payments, whose central question is establishing that a consumer delegated authority to an agent, including for recurring purchases, cumulative budgets, and post-transaction actions (source: 2026-09-09-ai-agent-identity-news.md, citing [EMVCo](https://www.emvco.com/news/emvco-requests-feedback-on-framework-for-secure-interoperable-and-scalable-card-based-agentic-payments/), 2026-09-01). This is the first **domain-specific** (payments) standards effort recorded in the wiki, distinct from the general-purpose identity/authorization work above. See [[agent-authorization-and-delegation]] for the delegation-model framing of both items.
 
+## 2026-09-14: research on authorization envelopes and execution-time enforcement
+
+The [[research]] page's first Monday roundup adds academic grounding to this layer: a preprint proposing an "Agentic Principal Chain" authorization envelope that only narrows (never widens) across a multi-agent delegation chain, and a separate experimental study finding that a deterministic guard at the point of action — not exposure of authority evidence to the planner — is what actually enforces authorization correctly (source: 2026-09-14-ai-agent-identity-news.md, citing [arXiv:2608.15888](https://arxiv.org/abs/2608.15888) and [arXiv:2609.08472](https://arxiv.org/abs/2609.08472)). See [[research]] for full summaries.
+
 ## Open questions (needs verification)
 
 - How a national trust registry (Estonia) would relate to, or interoperate with, workload-identity standards such as SPIFFE is not addressed in any source so far and needs verification.
@@ -48,3 +52,5 @@ Separately, **EMVCo** — the card-payments standards body — opened feedback (
 - [[2026-09-07-ai-agent-identity-news]]
 - [[2026-09-08-ai-agent-identity-news]]
 - [[2026-09-09-ai-agent-identity-news]]
+- [[2026-09-14-ai-agent-identity-news]]
+- [[research]]

@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-09-14
 
 ---
 
@@ -60,6 +60,14 @@ The UK's National Commission into the Regulation of AI in Healthcare published r
 
 No new Estonia development was found today; the 8 September correction (no personal ID codes; responsibility stays with the human) stands unchanged (source: 2026-09-11-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
 
+## 2026-09-14: enforcement pushed down to the agent harness, and research catches up
+
+Australia's Signals Directorate published primary cybersecurity guidance identifying the agent **"harness"** — the layer connecting a model to memory, data, tools, and execution environments — as where identity and access management, least privilege, approval gates, monitoring, audit logging, and incident response should actually be enforced, with accountability for results staying with a person (source: 2026-09-14-ai-agent-identity-news.md, citing [Australian Signals Directorate](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/agentic-ai-harnesses), 2026-09-11). See [[australia-ai-agent-policy]].
+
+This week's first Monday research roundup ([[research]]) independently converges on the same enforcement point: one preprint finds that exposing authority evidence to an agent's planner does not reliably produce safe decisions, but a deterministic guard placed at the point where an action actually takes effect blocked every tested unsafe intent while allowing all valid ones — direct empirical support for the ASD's harness-level framing. A second preprint proposes portable, signed "Run Capsules" as replayable audit evidence for agent runs, addressing accountability *after* an agent acts, with the caveat that only a fraction of tested workloads fully replayed. A third proposes an "Agentic Principal Chain" model in which delegated authority can only narrow, never widen, as it passes down a multi-agent delegation chain — directly extending the "limited, auditable, revocable" delegation model already recorded above for Estonia, the US bills, and EMVCo into recursive multi-agent settings.
+
+No new Estonia development was found today (source: 2026-09-14-ai-agent-identity-news.md); the 8 September correction stands unchanged.
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -80,3 +88,5 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-10-ai-agent-identity-news]]
 - [[2026-09-11-ai-agent-identity-news]]
+- [[2026-09-14-ai-agent-identity-news]]
+- [[research]]

@@ -4,6 +4,28 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-14
+
+**Source ingested**: `raw/2026-09-14-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-14-ai-agent-identity-news.md` — summary page for the source.
+- `wiki/research.md` — new concept page; first Monday research roundup (the raw report's Section 3 had no prior home). Covers NovaFabric (audit-grade replayable evidence for agent runs), "Beyond Agent Harnesses" (execution-time cross-substrate authority checks), and "Bounded Agents" (Agentic Principal Chain delegation-narrowing model), cross-linked to `agent-authorization-and-delegation`, `agent-standards-and-interoperability`, and `australia-ai-agent-policy`.
+
+**Pages updated**:
+- `wiki/australia-ai-agent-policy.md` — added a 2026-09-14 section on Australian Signals Directorate primary cybersecurity guidance placing identity/access/audit enforcement at the agent "harness" layer; partially (not fully) answers the page's existing "needs verification" question about whether Australia has an identity scheme, reworded accordingly. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-14 section connecting the ASD harness guidance to this week's research roundup (the "Beyond Agent Harnesses" paper's execution-time-guard finding, NovaFabric's replayable audit evidence, and the Agentic Principal Chain's narrowing-only delegation model); noted no new Estonia development. Updated Sources/Last updated.
+- `wiki/agent-standards-and-interoperability.md` — added a short 2026-09-14 section pointing to the research page's authorization-envelope and execution-time-enforcement findings. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest, the new `research` concept page, and updated the `australia-ai-agent-policy` one-line description.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` — today's report found only a repeat of the already-logged 2026-09-08 correction, consistent with the "skip clear repeats" practice used on 2026-09-09 and 2026-09-11.
+
+**Contradictions found**: none. No claim in this report conflicts with anything already in the wiki. Note recorded (not a contradiction, an observation): the ASD's harness-level enforcement guidance and the independently-authored "Beyond Agent Harnesses" preprint converge on the same architectural point in the same reporting week; flagged on `wiki/research.md` and `wiki/australia-ai-agent-policy.md` as noteworthy but unverified as to whether the convergence is causal.
+
+**Publishing**: attempted `../ai-wiki/sync_content.sh` per the Publishing section of `CLAUDE.md`. It failed during `build.py`'s `shutil.rmtree(PUBLIC)` step with `PermissionError: Operation not permitted` deleting a stale `.html` file in `ai-wiki/public/` (the connected-folder delete restriction). Called `mcp__cowork__allow_cowork_file_delete` to request permission; this scheduled run is unattended, so the request was auto-declined ("no one was available to approve it"). Did not retry further, per `CLAUDE.md`'s guidance not to block the ingest on the publishing step. **`wiki/content/` in `ai-wiki` was not synced or committed this run** — someone with an attended session needs to either approve the delete request or clear `ai-wiki/public/` manually, then re-run `sync_content.sh`.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-04
 
 **Source ingested**: `raw/2026-09-04-ai-agent-identity-news.md`
