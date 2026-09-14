@@ -9,12 +9,12 @@ Built with [Quartz 5](https://quartz.jzhao.xyz/), which renders the vault's
 
 ## How content gets here
 
-The actual pages are authored and maintained in the sibling `../llm-wiki/wiki/`
+The actual pages are authored and maintained in the sibling `../llm-wiki/llm-wiki/wiki/`
 vault (see that repo's `CLAUDE.md`). This repo does not edit content directly —
 it mirrors it:
 
 ```
-../llm-wiki/wiki/*.md  --[sync_content.sh]-->  ./content/*.md  -->  git commit (local only)
+../llm-wiki/llm-wiki/wiki/*.md  --[sync_content.sh]-->  ./content/*.md  -->  git commit (local only)
 ```
 
 Run `./sync_content.sh` any time the vault has changed and you want to pull
@@ -88,6 +88,6 @@ git push                # you decide when this goes live
 - `content/` — mirrored wiki pages (populated by `sync_content.sh`, not hand-edited)
 - `quartz.config.yaml` — site config: title, `ai-wiki.error.ee` base URL, theme,
   and the Obsidian-focused plugin set (graph view, backlinks, search, wikilinks)
-- `sync_content.sh` — pulls content from `../llm-wiki/wiki/`, commits locally, never pushes
+- `sync_content.sh` — pulls content from `../llm-wiki/llm-wiki/wiki/`, commits locally, never pushes
 - `.github/workflows/deploy.yml` — builds and deploys to GitHub Pages on every push to `main`
 - everything else (`quartz/`, `docs/`, etc.) is the upstream [Quartz](https://github.com/jackyzha0/quartz) engine (MIT licensed, see `LICENSE.txt`)

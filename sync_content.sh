@@ -13,7 +13,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SOURCE_DIR="$SCRIPT_DIR/../llm-wiki/wiki"
+SOURCE_DIR="$SCRIPT_DIR/../llm-wiki/llm-wiki/wiki"
 CONTENT_DIR="$SCRIPT_DIR/content"
 
 if [ ! -d "$SOURCE_DIR" ]; then
