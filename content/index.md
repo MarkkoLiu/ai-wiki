@@ -11,6 +11,7 @@ Table of contents for the LLM Wiki.
 - [[2026-09-10-ai-agent-identity-news]] — no new Estonia development; Australia's agentic-AI addendum (accountable human, traceability, monitoring); California signs AI-audit/verification laws; Stop Rogue AI Act official release; HBR piece on trust as a precondition for delegation.
 - [[2026-09-11-ai-agent-identity-news]] — no new Estonia development; UK National Commission into the Regulation of AI in Healthcare recommendations on system-wide accountability, reconfirmed with a primary GOV.UK source after an earlier, since-corrected citation.
 - [[2026-09-14-ai-agent-identity-news]] — no new Estonia development; Australian Signals Directorate guidance places identity/access enforcement at the agent "harness"; first Monday research roundup (audit evidence, execution-time authority checks, bounded delegation chains).
+- [[2026-09-15-ai-agent-identity-news]] — no new Estonia development; Microsoft opens consultation on a voluntary Code of Conduct for human control of MAI models; AP reports US federal response to agent risk remains politically divided.
 
 ## Concept pages
 
@@ -22,7 +23,7 @@ Table of contents for the LLM Wiki.
 ## Country pages
 
 - [[estonia-ai-agent-id]] — Estonia's Aruait programme. **Note**: the earlier "AI personal identification code" framing was withdrawn on 2026-09-08; the page leads with the corrected position.
-- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act) and California's SB 813/AB 1405 audit-and-verification laws.
+- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act), California's SB 813/AB 1405 audit-and-verification laws, Microsoft's voluntary Code of Conduct consultation, and continued federal political division over binding regulation.
 - [[china-ai-agent-policy]] — China's national standard for AI-agent identity management.
 - [[singapore-ai-agent-policy]] — Singapore's government sandbox findings and guidance-led governance stance.
 - [[malaysia-ai-agent-policy]] — Malaysian commentary on agents as "non-human identities."

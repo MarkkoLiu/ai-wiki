@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-14
+**Last updated**: 2026-09-15
 
 ---
 
@@ -68,6 +68,12 @@ This week's first Monday research roundup ([[research]]) independently converges
 
 No new Estonia development was found today (source: 2026-09-14-ai-agent-identity-news.md); the 8 September correction stands unchanged.
 
+## 2026-09-15: a model developer's own conduct code adopts the same constraints
+
+Microsoft AI's draft Code of Conduct, opened for public consultation, proposes that MAI models remain subordinate to people, accept interruption and shutdown, avoid widening their own scope or adopting unassigned goals, and remain auditable — citing recent coordinated agent-security incidents as motivation (source: 2026-09-15-ai-agent-identity-news.md, citing [Microsoft AI](https://microsoft.ai/news/mai-code-of-conduct/), 2026-09-14). This is notable because it is the **first source in this wiki where a model developer, rather than a government or standards body, states the subordination/interruptibility/scope-limitation/auditability constraints as its own commitment** — the same shape of constraint as Estonia's Identity 2.0, the US bills, and the ASD harness guidance, but voluntary and self-imposed rather than externally mandated. See [[united-states-ai-agent-policy]].
+
+Separately, AP reporting confirms the US federal legislative response remains divided and that neither the Stop Rogue AI Act nor the AI AGENT Act (both described above) has advanced, with near-term legislation seen as unlikely by several lawmakers (source: 2026-09-15-ai-agent-identity-news.md, citing [Associated Press](https://apnews.com/article/ai-regulation-trump-congress-tech-politics-d2d1bac8e8666c681937665596a4f603)). No new Estonia development was found today; the 8 September correction stands unchanged.
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -89,4 +95,5 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-10-ai-agent-identity-news]]
 - [[2026-09-11-ai-agent-identity-news]]
 - [[2026-09-14-ai-agent-identity-news]]
+- [[2026-09-15-ai-agent-identity-news]]
 - [[research]]

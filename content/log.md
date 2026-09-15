@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-15
+
+**Source ingested**: `raw/2026-09-15-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-15-ai-agent-identity-news.md` — summary page for the source.
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-09-15 section: Microsoft AI's draft Code of Conduct (voluntary, subordination/interruptibility/scope-limitation/auditability for MAI models, motivated by recent agent-security incidents), and AP reporting that federal regulation remains politically divided with no bill advanced. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-15 section noting Microsoft's Code of Conduct as the first source where a model developer (not a government or standards body) self-imposes the same subordination/auditability constraints seen elsewhere in the wiki; noted the AP report and that no new Estonia development was found. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest and updated the `united-states-ai-agent-policy` one-line description.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` — today's report found only a repeat of the already-logged 2026-09-08 correction. No changes to `wiki/agent-standards-and-interoperability.md` or `wiki/research.md` — today's items (a corporate conduct code, and political reporting) are governance/authorization-and-delegation content, not new technical standards or research; this is a Tuesday, so no Section 3.
+
+**Contradictions found**: none. Both new items are consistent with everything already recorded — Microsoft's proposed constraints echo, rather than conflict with, the delegation/accountability model already documented for Estonia, the US bills, and Australia's ASD guidance; the AP item confirms (does not contradict) that neither existing US bill has become law.
+
+**Publishing**: not attempted this run — see the 2026-09-14 entry below for the last known state of `../ai-wiki/sync_content.sh` (blocked on a `PermissionError` deleting a stale file in `ai-wiki/public/`, pending an attended session to approve the delete or clear the folder manually). This run did not retry it; someone with an attended session should re-run `sync_content.sh` for both the 2026-09-14 and 2026-09-15 content once that block is cleared.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-14
 
 **Source ingested**: `raw/2026-09-14-ai-agent-identity-news.md`

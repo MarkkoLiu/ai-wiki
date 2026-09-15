@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-15
 
 ---
 
@@ -34,6 +34,12 @@ A primary-source follow-up (not a new bill) elaborates the Stop Rogue AI Act's r
 
 Separately, **California** — the first state-level development in this wiki — signed SB 813 and AB 1405, establishing independent verification organisations and a registry with standards for AI auditors' independence, transparency, and integrity (source: 2026-09-10-ai-agent-identity-news.md, citing [Office of the Governor of California](https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/), 2026-09-09, primary source). These laws are broader than agent identity specifically, but add an independent third-party verification layer — distinct from both the federal bills above and from NIST's identity-standards guidance — as agent-enabled systems enter critical sectors. **Needs verification**: whether SB 813/AB 1405 name AI agents specifically or apply to AI systems generally.
 
+## 2026-09-15: Microsoft's voluntary Code of Conduct, and a divided federal response
+
+Microsoft AI published a draft Code of Conduct for public consultation, proposing that future MAI models remain subordinate to people, accept interruption and shutdown, avoid widening their own scope or adopting goals no person assigned, and remain auditable — explicitly citing recent coordinated AI-agent security incidents as the reason for the consultation, and asking how the code should address multi-agent systems (source: 2026-09-15-ai-agent-identity-news.md, citing [Microsoft AI — Humanist AI in practice: A public consultation on our Code of Conduct for MAI Models](https://microsoft.ai/news/mai-code-of-conduct/), 2026-09-14, primary corporate governance source). Unlike the NIST guidance and the two federal bills above, this is a **voluntary company framework, not law or a government standard** — but it echoes the same subordination-to-a-human, interruptibility, scope-limitation, and auditability themes described throughout this page, this time initiated by a model developer rather than a regulator. See [[agent-authorization-and-delegation]].
+
+Separately, the Associated Press reports that the White House and Congress remain divided over binding AI-agent regulation despite renewed pressure from agent-security incidents and calls from tech leaders; one senator plans a shutdown-capability bill, while other lawmakers see near-term legislation as unlikely (source: 2026-09-15-ai-agent-identity-news.md, citing [Associated Press](https://apnews.com/article/ai-regulation-trump-congress-tech-politics-d2d1bac8e8666c681937665596a4f603), 2026-09-15, secondary reporting). This confirms that, as of this date, **the Stop Rogue AI Act and the AI AGENT Act documented above remain the only federal bills in play, and neither has advanced to law.**
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -44,3 +50,4 @@ Separately, **California** — the first state-level development in this wiki �
 - [[2026-09-04-ai-agent-identity-news]]
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-10-ai-agent-identity-news]]
+- [[2026-09-15-ai-agent-identity-news]]
