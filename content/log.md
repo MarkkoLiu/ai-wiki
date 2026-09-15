@@ -20,7 +20,7 @@ Append-only record of all operations on this wiki.
 
 **Contradictions found**: none. Both new items are consistent with everything already recorded — Microsoft's proposed constraints echo, rather than conflict with, the delegation/accountability model already documented for Estonia, the US bills, and Australia's ASD guidance; the AP item confirms (does not contradict) that neither existing US bill has become law.
 
-**Publishing**: not attempted this run — see the 2026-09-14 entry below for the last known state of `../ai-wiki/sync_content.sh` (blocked on a `PermissionError` deleting a stale file in `ai-wiki/public/`, pending an attended session to approve the delete or clear the folder manually). This run did not retry it; someone with an attended session should re-run `sync_content.sh` for both the 2026-09-14 and 2026-09-15 content once that block is cleared.
+**Publishing**: ran `../ai-wiki/sync_content.sh` per `CLAUDE.md`. The prior 2026-09-14 block is resolved (`ai-wiki`'s history now shows an intervening `5e00f05 Fix local wiki sync path` commit). This run's sync succeeded — commit `b2afe07 Sync wiki content (2026-09-15)`, 5 files changed, including the new 2026-09-15 dated page — despite benign `unable to unlink ... Operation not permitted` warnings on stale `.git` lock/tmp-object files (the connected-folder delete restriction); `git status` afterward confirms a clean working tree, one commit ahead of `origin/main`, not pushed (by design — the repo owner pushes manually).
 
 **Not modified**: nothing in `raw/` was altered.
 
