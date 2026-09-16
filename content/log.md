@@ -4,6 +4,27 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-16
+
+**Source ingested**: `raw/2026-09-16-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-16-ai-agent-identity-news.md` — summary page for the source.
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-09-16 section: NIST/CISA finalised NIST IR 8587 (identity/access-token protection guidance, explicitly not a comprehensive AI-agent identity treatment), and the OpenAI/Anthropic/Google DeepMind safety-coordination talks discussing a possible industry standards body. Updated Sources/Last updated.
+- `wiki/agent-standards-and-interoperability.md` — added the same two items, framed as (a) hardening the token/credential layer beneath OAuth 2.0/SPIFFE without resolving agent identity itself, and (b) an industry self-governance body distinct in kind from OWASP ACS/DAWN/WIMSE/AAE/EMVCo, closer to Microsoft's voluntary Code of Conduct. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a short 2026-09-16 section cross-linking both items and noting no new Estonia development. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest; updated the `united-states-ai-agent-policy` one-line description.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` — today's report found only a repeat of the already-logged 2026-09-08 correction. No new country page for the OpenAI/Anthropic/Google DeepMind item — it's international industry governance without a clear single-country home, so it was filed under `agent-standards-and-interoperability` and `united-states-ai-agent-policy` instead. This is a Wednesday, so no Section 3 (research).
+
+**Contradictions found**: none. NIST IR 8587 extends, rather than conflicts with, the existing OAuth 2.0/SPIFFE guidance already on `united-states-ai-agent-policy.md`; the labs' standards-body discussion is consistent with (and echoes) Microsoft's 2026-09-15 Code of Conduct consultation and AP's reporting on political division over binding regulation.
+
+**Publishing**: ran `../ai-wiki/sync_content.sh` per `CLAUDE.md`.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-15
 
 **Source ingested**: `raw/2026-09-15-ai-agent-identity-news.md`

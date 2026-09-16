@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-14
+**Last updated**: 2026-09-16
 
 ---
 
@@ -38,6 +38,12 @@ Separately, **EMVCo** — the card-payments standards body — opened feedback (
 
 The [[research]] page's first Monday roundup adds academic grounding to this layer: a preprint proposing an "Agentic Principal Chain" authorization envelope that only narrows (never widens) across a multi-agent delegation chain, and a separate experimental study finding that a deterministic guard at the point of action — not exposure of authority evidence to the planner — is what actually enforces authorization correctly (source: 2026-09-14-ai-agent-identity-news.md, citing [arXiv:2608.15888](https://arxiv.org/abs/2608.15888) and [arXiv:2609.08472](https://arxiv.org/abs/2609.08472)). See [[research]] for full summaries.
 
+## 2026-09-16: NIST IR 8587 finalised, and an industry standards body under discussion
+
+NIST and CISA finalised **NIST IR 8587**, an implementation guide for protecting identity tokens, access tokens, and assertions against forgery, theft, and misuse — covering identity-provider/authorization-server architecture, signing-key protection, token verification, lifecycle controls, revocation, interoperability, and continuous monitoring. It extends the OAuth 2.0/SPIFFE building blocks already noted above, but NIST explicitly states it is **not** a comprehensive treatment of AI-agent identity, pointing instead to separate NCCoE work on that topic (source: 2026-09-16-ai-agent-identity-news.md, citing [NIST announcement](https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens) and [NIST IR 8587 publication record](https://csrc.nist.gov/pubs/ir/8587/final), 2026-09-15). This is a further illustration of the layer-separation theme above: hardening the token/credential layer does not by itself resolve agent identity, mandate, or per-action authority.
+
+Separately, OpenAI, Anthropic, and Google DeepMind confirmed weeks of safety coordination and discussion of a possible **industry standards body** to set common safety-testing and auditing practices; OpenAI said it supports proposed independent verification requirements for leading frontier-model developers. The body is not yet formally established, and its authority, membership, and any government-oversight role are unresolved (source: 2026-09-16-ai-agent-identity-news.md, citing [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) and [Deutsche Welle](https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638), 2026-09-15/16). Unlike OWASP ACS, DAWN, WIMSE, AAE, and EMVCo above — each an open or multi-stakeholder technical standards effort — this would be an **industry self-governance body** formed by model developers themselves, closer in kind to Microsoft's 2026-09-15 voluntary Code of Conduct than to a conventional standards-setting organisation. See [[united-states-ai-agent-policy]] and [[agent-authorization-and-delegation]].
+
 ## Open questions (needs verification)
 
 - How a national trust registry (Estonia) would relate to, or interoperate with, workload-identity standards such as SPIFFE is not addressed in any source so far and needs verification.
@@ -53,4 +59,5 @@ The [[research]] page's first Monday roundup adds academic grounding to this lay
 - [[2026-09-08-ai-agent-identity-news]]
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-14-ai-agent-identity-news]]
+- [[2026-09-16-ai-agent-identity-news]]
 - [[research]]

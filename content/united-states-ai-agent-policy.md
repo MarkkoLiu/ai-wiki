@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-15
+**Last updated**: 2026-09-16
 
 ---
 
@@ -40,6 +40,12 @@ Microsoft AI published a draft Code of Conduct for public consultation, proposin
 
 Separately, the Associated Press reports that the White House and Congress remain divided over binding AI-agent regulation despite renewed pressure from agent-security incidents and calls from tech leaders; one senator plans a shutdown-capability bill, while other lawmakers see near-term legislation as unlikely (source: 2026-09-15-ai-agent-identity-news.md, citing [Associated Press](https://apnews.com/article/ai-regulation-trump-congress-tech-politics-d2d1bac8e8666c681937665596a4f603), 2026-09-15, secondary reporting). This confirms that, as of this date, **the Stop Rogue AI Act and the AI AGENT Act documented above remain the only federal bills in play, and neither has advanced to law.**
 
+## 2026-09-16: NIST IR 8587 finalised (identity/access-token protection), and labs discuss a standards body
+
+NIST and CISA finalised **NIST IR 8587**, an implementation guide for protecting identity tokens, access tokens, and assertions against forgery, theft, and misuse, covering identity-provider/authorization-server architecture, signing-key protection, token verification, lifecycle controls, revocation, interoperability, and continuous monitoring. NIST says the final version adds high-level AI considerations, but explicitly states the publication is **not** a comprehensive treatment of AI-agent identity, pointing to separate NCCoE work on that topic (source: 2026-09-16-ai-agent-identity-news.md, citing [NIST announcement](https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens) and [NIST IR 8587 publication record](https://csrc.nist.gov/pubs/ir/8587/final), 2026-09-15). This strengthens the credential/token layer underlying the OAuth 2.0/SPIFFE building blocks already described above, while preserving the boundary that secure tokens alone do not resolve agent identity, mandate, or per-action authority. See [[agent-standards-and-interoperability]].
+
+Separately, OpenAI's global policy chief confirmed that OpenAI, Anthropic, and Google DeepMind have been coordinating on AI safety for several weeks, including discussion of a possible **industry standards body** for common safety-testing and auditing practices; OpenAI said it supports proposed independent verification requirements for leading frontier-model developers. The body is not yet formally established and its authority, membership, and any government-oversight role remain unresolved (source: 2026-09-16-ai-agent-identity-news.md, citing [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) and [Deutsche Welle](https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638), 2026-09-15/16). This is an industry-led development, distinct from the federal bills and California laws above, and echoes Microsoft's 2026-09-15 voluntary Code of Conduct consultation. See [[agent-standards-and-interoperability]] and [[agent-authorization-and-delegation]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -51,3 +57,4 @@ Separately, the Associated Press reports that the White House and Congress remai
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-10-ai-agent-identity-news]]
 - [[2026-09-15-ai-agent-identity-news]]
+- [[2026-09-16-ai-agent-identity-news]]

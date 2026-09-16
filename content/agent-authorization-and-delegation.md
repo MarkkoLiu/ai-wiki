@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-15
+**Last updated**: 2026-09-16
 
 ---
 
@@ -74,6 +74,12 @@ Microsoft AI's draft Code of Conduct, opened for public consultation, proposes t
 
 Separately, AP reporting confirms the US federal legislative response remains divided and that neither the Stop Rogue AI Act nor the AI AGENT Act (both described above) has advanced, with near-term legislation seen as unlikely by several lawmakers (source: 2026-09-15-ai-agent-identity-news.md, citing [Associated Press](https://apnews.com/article/ai-regulation-trump-congress-tech-politics-d2d1bac8e8666c681937665596a4f603)). No new Estonia development was found today; the 8 September correction stands unchanged.
 
+## 2026-09-16: hardening the credential layer, and an industry-led safety standards effort
+
+NIST and CISA finalised **NIST IR 8587**, token/credential protection guidance that strengthens the OAuth 2.0/SPIFFE-style layer agent delegation already depends on, while NIST explicitly says it is not a comprehensive AI-agent identity treatment (source: 2026-09-16-ai-agent-identity-news.md, citing [NIST](https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens)). See [[united-states-ai-agent-policy]] and [[agent-standards-and-interoperability]].
+
+Separately, OpenAI, Anthropic, and Google DeepMind confirmed ongoing safety coordination and discussion of a possible industry standards body for safety-testing and auditing — an industry self-governance move in the same direction as Microsoft's 2026-09-15 Code of Conduct, but at the level of a shared, multi-company body rather than one developer's own commitments (source: 2026-09-16-ai-agent-identity-news.md, citing [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)). No new Estonia development was found today; the 8 September correction stands unchanged.
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -96,4 +102,5 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-11-ai-agent-identity-news]]
 - [[2026-09-14-ai-agent-identity-news]]
 - [[2026-09-15-ai-agent-identity-news]]
+- [[2026-09-16-ai-agent-identity-news]]
 - [[research]]
