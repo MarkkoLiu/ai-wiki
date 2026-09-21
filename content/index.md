@@ -13,18 +13,20 @@ Table of contents for the LLM Wiki.
 - [[2026-09-14-ai-agent-identity-news]] — no new Estonia development; Australian Signals Directorate guidance places identity/access enforcement at the agent "harness"; first Monday research roundup (audit evidence, execution-time authority checks, bounded delegation chains).
 - [[2026-09-15-ai-agent-identity-news]] — no new Estonia development; Microsoft opens consultation on a voluntary Code of Conduct for human control of MAI models; AP reports US federal response to agent risk remains politically divided.
 - [[2026-09-16-ai-agent-identity-news]] — no new Estonia development; NIST/CISA finalise NIST IR 8587 identity/access-token protection guidance (explicitly not a full AI-agent identity treatment); OpenAI, Anthropic, and Google DeepMind confirm safety coordination and discuss a possible industry standards body.
+- [[2026-09-17-ai-agent-identity-news]] — no new Estonia development; OpenAI formalises a framework for publicly disclosing model/agent misalignment and unauthorized actions; Canada and Germany fund LawZero, a safe-by-design alternative to autonomous agents.
+- [[2026-09-18-ai-agent-identity-news]] — no new Estonia development; ITU launches a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), with World Bank participation, framing agent identity as a delegation trust chain aimed at cross-border mutual recognition.
 
 ## Concept pages
 
 - [[ai-agent-identity]] — what "AI agent identity" means and its core elements.
 - [[agent-authorization-and-delegation]] — scoped permissions, least privilege, revocation, and accountability for agents.
-- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE, SPIFFE, OAuth delegation, AAE, EMVCo, and why discovery ≠ identity.
+- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE, SPIFFE, OAuth delegation, AAE, EMVCo, the ITU/World Bank TIDA focus group, and why discovery ≠ identity.
 - [[research]] — academic papers and preprints on agent identity, authorization, and accountability, from Monday research roundups.
 
 ## Country pages
 
 - [[estonia-ai-agent-id]] — Estonia's Aruait programme. **Note**: the earlier "AI personal identification code" framing was withdrawn on 2026-09-08; the page leads with the corrected position.
-- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE, and the finalised NIST IR 8587 token-protection guide) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act), California's SB 813/AB 1405 audit-and-verification laws, Microsoft's voluntary Code of Conduct consultation, continued federal political division over binding regulation, and a discussed OpenAI/Anthropic/Google DeepMind industry standards body.
+- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE, and the finalised NIST IR 8587 token-protection guide) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act), California's SB 813/AB 1405 audit-and-verification laws, Microsoft's voluntary Code of Conduct consultation, continued federal political division over binding regulation, a discussed OpenAI/Anthropic/Google DeepMind industry standards body, and OpenAI's new framework for disclosing model/agent misalignment.
 - [[china-ai-agent-policy]] — China's national standard for AI-agent identity management.
 - [[singapore-ai-agent-policy]] — Singapore's government sandbox findings and guidance-led governance stance.
 - [[malaysia-ai-agent-policy]] — Malaysian commentary on agents as "non-human identities."

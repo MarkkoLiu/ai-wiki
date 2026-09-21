@@ -4,6 +4,46 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-18
+
+**Source ingested**: `raw/2026-09-18-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-18-ai-agent-identity-news.md` — summary page for the source.
+
+**Pages updated**:
+- `wiki/agent-standards-and-interoperability.md` — added a 2026-09-18 section: the ITU, with World Bank Group participation, launched a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA) — the first UN-system/multilateral standards effort recorded in the wiki, distinct from industry-led (OWASP/IETF/EMVCo), national (NIST), and industry self-governance (OpenAI/Anthropic/Google DeepMind) efforts already covered. Added an open question on how TIDA's cross-border mutual-recognition goal relates to national/industry schemes. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-18 section noting TIDA's framing of an agent credential as a trust chain (person/organization → delegation → agent → action) rather than a legal identity for the agent, consistent with the existing "limited, auditable, revocable" delegation model, plus a new cross-border mutual-recognition goal not previously addressed; noted no new Estonia development. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest; updated the `agent-standards-and-interoperability` one-line description.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` — today's report found no new non-duplicate Estonia sources. No new country page for the ITU/World Bank item — it is an international/multilateral standards body with no single-country home, so it was filed under `agent-standards-and-interoperability` and `agent-authorization-and-delegation` instead. This is a Friday, so no Section 3 (research), consistent with the raw report's own note.
+
+**Contradictions found**: none. The ITU/World Bank trust-chain framing is consistent with, and extends, the existing delegation model (Estonia's Identity 2.0, the AAE Internet-Draft, the US bills) rather than conflicting with it.
+
+**Publishing**: attempted `../ai-wiki/sync_content.sh` per `CLAUDE.md`. It failed with `fatal: Unable to create '.../ai-wiki/.git/index.lock': File exists` (a stale lock from an earlier crashed/interrupted git process — not this run's own process). A plain `rm` of the lock file failed with `Operation not permitted` (connected-folder delete restriction), and `mcp__cowork__allow_cowork_file_delete` was auto-declined because this is an unattended scheduled run with no one available to approve it. Per `CLAUDE.md`'s guidance not to block the ingest on publishing, this was not retried further. **`ai-wiki/content/` was not synced or committed this run** — someone with an attended session needs to either approve the delete request for `ai-wiki/.git/index.lock` or remove it manually, then re-run `sync_content.sh`.
+
+**Not modified**: nothing in `raw/` was altered.
+
+## 2026-09-17
+
+**Source ingested**: `raw/2026-09-17-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-17-ai-agent-identity-news.md` — summary page for the source.
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-09-17 section: OpenAI's new framework for tracking, investigating, and publicly disclosing model/agent misalignment (including unauthorized actions), citing OpenAI's primary announcement and AP's secondary reporting that the process remains internal and voluntary. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-17 section covering the OpenAI disclosure framework (framed as a retrospective public-disclosure mechanism, distinct from Microsoft's forward-looking Code of Conduct) and the Canada/Germany LawZero funding (framed as a non-agentic "safe-by-design" alternative, explicitly outside the delegation model this page tracks); noted no new Estonia development. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest; updated the `united-states-ai-agent-policy` one-line description.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` — today's report found only a repeat of the already-logged 2026-09-08 correction. No new Canada or Germany country page — the LawZero funding item is explicitly framed (by the raw report and by both government sources) as broader than, and an alternative to, agent identity or delegated authorization specifically; it is noted on the dated summary page and on `agent-authorization-and-delegation.md` instead of given a country-page home. This is a Thursday, so no Section 3 (research).
+
+**Contradictions found**: none. Both new items are consistent with, and extend, existing coverage: the OpenAI disclosure framework is a new accountability mechanism alongside (not in conflict with) NIST guidance, the federal bills, California's audit laws, and Microsoft's Code of Conduct; the Canada/Germany LawZero funding does not contradict any existing agent-identity claim, since it addresses a different approach (avoiding autonomous agency) rather than a competing identity or delegation scheme.
+
+**Publishing**: ran `../ai-wiki/sync_content.sh` per `CLAUDE.md`.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-16
 
 **Source ingested**: `raw/2026-09-16-ai-agent-identity-news.md`

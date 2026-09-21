@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-09-18
 
 ---
 
@@ -44,10 +44,17 @@ NIST and CISA finalised **NIST IR 8587**, an implementation guide for protecting
 
 Separately, OpenAI, Anthropic, and Google DeepMind confirmed weeks of safety coordination and discussion of a possible **industry standards body** to set common safety-testing and auditing practices; OpenAI said it supports proposed independent verification requirements for leading frontier-model developers. The body is not yet formally established, and its authority, membership, and any government-oversight role are unresolved (source: 2026-09-16-ai-agent-identity-news.md, citing [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) and [Deutsche Welle](https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638), 2026-09-15/16). Unlike OWASP ACS, DAWN, WIMSE, AAE, and EMVCo above — each an open or multi-stakeholder technical standards effort — this would be an **industry self-governance body** formed by model developers themselves, closer in kind to Microsoft's 2026-09-15 voluntary Code of Conduct than to a conventional standards-setting organisation. See [[united-states-ai-agent-policy]] and [[agent-authorization-and-delegation]].
 
+## 2026-09-18: ITU/World Bank focus group frames agent identity as a trust chain
+
+The **International Telecommunication Union**, with **World Bank Group** participation, launched a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), tasked with developing terminology, use cases, identity models, credential formats, assurance levels, lifecycle controls, and mechanisms for government systems to verify agent authorization before it acts (source: 2026-09-18-ai-agent-identity-news.md, citing [ITU](https://www.itu.int/hub/2026/09/building-trust-into-the-next-generation-of-digital-services/), 2026-09-17). This is the first **UN-system / multilateral** standards effort recorded in the wiki, distinct in kind from the industry-led (OWASP, IETF, EMVCo) and national (NIST) work above, and from the industry self-governance body OpenAI/Anthropic/Google DeepMind discussed on 2026-09-16.
+
+Substantively, the ITU frames an agent credential as evidence of a **trust chain** — person or organization, delegation, agent, action — rather than a legal identity belonging to the agent itself, and calls for delegation that is specific, time-bound, traceable, and revocable, with auditable per-action evidence. This is consistent with, rather than competing against, the "limited, auditable, revocable" delegation model already recorded for Estonia's Identity 2.0, the AAE Internet-Draft, and the US bills — but adds a stated goal of **mutual recognition across agencies and borders**, which no source in the wiki has previously addressed. See [[agent-authorization-and-delegation]].
+
 ## Open questions (needs verification)
 
 - How a national trust registry (Estonia) would relate to, or interoperate with, workload-identity standards such as SPIFFE is not addressed in any source so far and needs verification.
 - Whether OWASP ACS, DAWN, and WIMSE have converging or competing identity models is not established in the current sources.
+- How the ITU/World Bank TIDA focus group's cross-border mutual-recognition goal would relate to national schemes (Estonia's Aruait, US NIST guidance) or to industry standards (OWASP ACS, DAWN, WIMSE, AAE) is not yet addressed and needs verification as the group's work develops.
 
 ## Related pages
 
@@ -60,4 +67,5 @@ Separately, OpenAI, Anthropic, and Google DeepMind confirmed weeks of safety coo
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-14-ai-agent-identity-news]]
 - [[2026-09-16-ai-agent-identity-news]]
+- [[2026-09-18-ai-agent-identity-news]]
 - [[research]]

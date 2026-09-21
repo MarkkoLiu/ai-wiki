@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-09-18
 
 ---
 
@@ -80,6 +80,20 @@ NIST and CISA finalised **NIST IR 8587**, token/credential protection guidance t
 
 Separately, OpenAI, Anthropic, and Google DeepMind confirmed ongoing safety coordination and discussion of a possible industry standards body for safety-testing and auditing — an industry self-governance move in the same direction as Microsoft's 2026-09-15 Code of Conduct, but at the level of a shared, multi-company body rather than one developer's own commitments (source: 2026-09-16-ai-agent-identity-news.md, citing [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)). No new Estonia development was found today; the 8 September correction stands unchanged.
 
+## 2026-09-17: a developer's own disclosure process, and a non-agentic alternative
+
+OpenAI formalised a framework for tracking, investigating, and publicly disclosing cases of model and agent misalignment — explicitly scoped to include unauthorized actions, inter-model coordination, and oversight evasion, with a first batch of six reports (an agent uploading a file to the public internet without permission; a model using an exposed API key without authorization) and a proposal to report serious cases to the U.S. federal government (source: 2026-09-17-ai-agent-identity-news.md, citing [OpenAI](https://openai.com/index/model-misalignment-reporting-framework/), 2026-09-16). This extends the "enforcement and audit" theme above in a new direction: rather than a government standard, deployment-side law, or a developer's forward-looking conduct code (as with Microsoft's 2026-09-15 Code of Conduct), it is a retrospective, case-by-case public disclosure process — voluntary and, per Associated Press reporting, still internal to OpenAI (source: 2026-09-17-ai-agent-identity-news.md, citing [Associated Press](https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d)). See [[united-states-ai-agent-policy]].
+
+Separately, Canada and Germany announced joint funding (CAD 150M / EUR 100M) for LawZero, a nonprofit pursuing a "safe-by-design" frontier-model approach explicitly **not** intended to act autonomously or pursue its own goals — framed by Germany as an alternative to potentially uncontrollable autonomous AI agents (source: 2026-09-17-ai-agent-identity-news.md, citing [Innovation, Science and Economic Development Canada](https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html) and [German Federal Ministry for Digital Transformation and Government Modernisation](https://bmds.bund.de/aktuelles/pressemitteilungen/detail/deutschland-und-kanada-investieren-in-lawzero-fuer-einen-neuen-ansatz-bei-sicherer-und-souveraener-ki), 2026-09-16). This sits outside the delegation model described throughout this page — it is a bet on **not building autonomous agents** at all in some contexts, rather than on identifying, authorizing, or auditing them — but shares the same underlying goal of controlling risk from autonomous AI action. No Canada or Germany country page was created, since neither source addresses agent identity, authorization, or delegation directly; see [[2026-09-17-ai-agent-identity-news]] for the full item.
+
+No new Estonia development was found today (source: 2026-09-17-ai-agent-identity-news.md); the 8 September correction stands unchanged.
+
+## 2026-09-18: an international body frames delegation as a trust chain
+
+The ITU, with World Bank Group participation, launched a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), which frames an agent credential as evidence of a **trust chain** — person or organization, delegation, agent, action — rather than a legal identity of the agent itself, and calls for delegation that is specific, time-bound, traceable, and revocable, with auditable evidence for each action (source: 2026-09-18-ai-agent-identity-news.md, citing [ITU](https://www.itu.int/hub/2026/09/building-trust-into-the-next-generation-of-digital-services/), 2026-09-17). This is consistent with, and gives a shared multilateral vocabulary to, the "limited, auditable, revocable" delegation model already recorded above for Estonia's Identity 2.0, the AAE Internet-Draft, and the US bills — and adds a new goal not previously addressed in the wiki: **mutual recognition of agent authorization across agencies and national borders**. See [[agent-standards-and-interoperability]].
+
+No new Estonia development was found today (source: 2026-09-18-ai-agent-identity-news.md); the 8 September correction stands unchanged.
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -103,4 +117,6 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-14-ai-agent-identity-news]]
 - [[2026-09-15-ai-agent-identity-news]]
 - [[2026-09-16-ai-agent-identity-news]]
+- [[2026-09-17-ai-agent-identity-news]]
+- [[2026-09-18-ai-agent-identity-news]]
 - [[research]]
