@@ -4,6 +4,28 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-21
+
+**Source ingested**: `raw/2026-09-21-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-21-ai-agent-identity-news.md` — summary page for the source.
+
+**Pages updated**:
+- `wiki/research.md` — added a 2026-09-21 section (second Monday roundup): an academic review of 89 sources organizing agent authorization around a principal chain (human → operator/deployer → orchestrator agent → sub-agent → tool endpoint) and five control layers; the IETF WIMSE working-group draft "AI Identity Management System" (draft-ietf-wimse-aims-00); and a new individual Internet-Draft proposing signed, non-bearer "Agent Authority Transition Receipts." Added a new open question on whether the two IETF drafts are meant to compose. Updated Sources/Last updated.
+- `wiki/agent-standards-and-interoperability.md` — added a 2026-09-21 section noting the WIMSE AIMS draft's maturation from individual submission (first noted 2026-09-07) to working-group document, and the new Agent Authority Transition Receipts draft; cross-linked to `research.md` for full detail. Updated Sources/Last updated and open questions.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-21 section reframing the page's single-hop delegation model in terms of the new principal-chain research, and noting the Agent Authority Transition Receipts draft as a concrete evidentiary format for the "auditable" leg of "limited, auditable, revocable"; noted no new Estonia or other-country development. Updated Sources/Last updated.
+- `wiki/index.md` — added the new dated digest; updated the `agent-standards-and-interoperability` one-line description to include the AIMS draft and Authority Transition Receipts.
+
+**Not created**: no changes to `wiki/estonia-ai-agent-id.md` or any country page — today's report found no new non-duplicate Estonia or other-country sources; the report's own search notes explicitly confirm the ITU/World Bank TIDA item was not repeated. This is a Monday, so Section 3 (research) was present and processed, consistent with the raw report's own structure.
+
+**Contradictions found**: none. All three research items extend rather than conflict with existing coverage — the principal-chain paper generalizes (does not contradict) the single-hop delegation model already recorded; the WIMSE AIMS draft is a maturation of a strand already noted on 2026-09-07; the Authority Transition Receipts draft is a new but complementary audit-evidence format alongside NovaFabric's Run Capsules (2026-09-14) and the AAE Internet-Draft (2026-09-09).
+
+**Publishing**: attempted `../ai-wiki/sync_content.sh` per `CLAUDE.md`. It failed with the same recurring `fatal: Unable to create '.../ai-wiki/.git/index.lock': File exists` seen on 2026-09-18. A plain `rm` of the lock file failed with `Operation not permitted` (connected-folder delete restriction). Per `CLAUDE.md`'s guidance not to block the ingest on publishing, and given this scheduled run is unattended (no one available to approve a delete request), this was not retried further. **`ai-wiki/content/` was not synced or committed this run** — someone with an attended session needs to clear the stale `.git/index.lock` in `ai-wiki` (manually or via an approved delete request), then re-run `sync_content.sh` to catch up this and the 2026-09-18 changes together.
+
+**Not modified**: nothing in `raw/` was altered.
+
+
 ## 2026-09-18
 
 **Source ingested**: `raw/2026-09-18-ai-agent-identity-news.md`

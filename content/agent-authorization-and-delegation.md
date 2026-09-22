@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-18
+**Last updated**: 2026-09-21
 
 ---
 
@@ -93,6 +93,14 @@ No new Estonia development was found today (source: 2026-09-17-ai-agent-identity
 The ITU, with World Bank Group participation, launched a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), which frames an agent credential as evidence of a **trust chain** — person or organization, delegation, agent, action — rather than a legal identity of the agent itself, and calls for delegation that is specific, time-bound, traceable, and revocable, with auditable evidence for each action (source: 2026-09-18-ai-agent-identity-news.md, citing [ITU](https://www.itu.int/hub/2026/09/building-trust-into-the-next-generation-of-digital-services/), 2026-09-17). This is consistent with, and gives a shared multilateral vocabulary to, the "limited, auditable, revocable" delegation model already recorded above for Estonia's Identity 2.0, the AAE Internet-Draft, and the US bills — and adds a new goal not previously addressed in the wiki: **mutual recognition of agent authorization across agencies and national borders**. See [[agent-standards-and-interoperability]].
 
 No new Estonia development was found today (source: 2026-09-18-ai-agent-identity-news.md); the 8 September correction stands unchanged.
+
+## 2026-09-21: a principal-chain view of delegation, and signed receipts as delegation evidence
+
+An academic review of 89 sources reframes the human→agent delegation model tracked throughout this page as one link in a longer **principal chain**: human user → operator/deployer → orchestrator agent → sub-agent → tool endpoint, spanning five control layers (identity/credential lifecycle, multi-hop delegation and scope propagation, runtime authorization, prompt injection as an authorization bypass, and auditability). It names the authorization decision at the moment of tool invocation as a major unresolved point (source: 2026-09-21-ai-agent-identity-news.md, citing [arXiv:2609.15906](https://arxiv.org/abs/2609.15906)). This generalizes the single-hop "limited, auditable, revocable" model already recorded for Estonia, the US AI AGENT Act, and the IETF AAE draft to recursive, multi-agent delegation chains — the same direction as the 2026-09-14 "Bounded Agents" research finding.
+
+A separate IETF Internet-Draft proposes signed **Agent Authority Transition Receipts** — non-bearer records binding one proposed operation to the represented principal, acting agent, action digest, applicable policy, evaluated evidence, validity period, decision, and predecessor authority state, with fail-closed handling of missing or unverifiable evidence (source: 2026-09-21-ai-agent-identity-news.md, citing [IETF Datatracker](https://datatracker.ietf.org/doc/draft-watts-agent-authority-transition-receipts/)). This is a concrete evidentiary format for the "auditable" half of "limited, auditable, revocable" — proof of exactly what authority was exercised, on what basis, at what point in a delegation chain. See [[research]] and [[agent-standards-and-interoperability]] for full detail on both items and a third, the maturing IETF WIMSE AIMS identity draft.
+
+No new Estonia or other-country development was found today (source: 2026-09-21-ai-agent-identity-news.md).
 
 ## Common rationale
 

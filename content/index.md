@@ -15,12 +15,13 @@ Table of contents for the LLM Wiki.
 - [[2026-09-16-ai-agent-identity-news]] — no new Estonia development; NIST/CISA finalise NIST IR 8587 identity/access-token protection guidance (explicitly not a full AI-agent identity treatment); OpenAI, Anthropic, and Google DeepMind confirm safety coordination and discuss a possible industry standards body.
 - [[2026-09-17-ai-agent-identity-news]] — no new Estonia development; OpenAI formalises a framework for publicly disclosing model/agent misalignment and unauthorized actions; Canada and Germany fund LawZero, a safe-by-design alternative to autonomous agents.
 - [[2026-09-18-ai-agent-identity-news]] — no new Estonia development; ITU launches a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), with World Bank participation, framing agent identity as a delegation trust chain aimed at cross-border mutual recognition.
+- [[2026-09-21-ai-agent-identity-news]] — no new Estonia or other-country development; second Monday research roundup: an authorization-architecture review framing delegation as a principal chain, the IETF WIMSE AI Identity Management System draft advancing to working-group status, and a new IETF draft proposing signed Agent Authority Transition Receipts.
 
 ## Concept pages
 
 - [[ai-agent-identity]] — what "AI agent identity" means and its core elements.
 - [[agent-authorization-and-delegation]] — scoped permissions, least privilege, revocation, and accountability for agents.
-- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE, SPIFFE, OAuth delegation, AAE, EMVCo, the ITU/World Bank TIDA focus group, and why discovery ≠ identity.
+- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE (now including the AIMS working-group draft), SPIFFE, OAuth delegation, AAE, EMVCo, Agent Authority Transition Receipts, the ITU/World Bank TIDA focus group, and why discovery ≠ identity.
 - [[research]] — academic papers and preprints on agent identity, authorization, and accountability, from Monday research roundups.
 
 ## Country pages

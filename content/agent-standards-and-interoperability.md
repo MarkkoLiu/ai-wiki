@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-18
+**Last updated**: 2026-09-21
 
 ---
 
@@ -50,11 +50,20 @@ The **International Telecommunication Union**, with **World Bank Group** partici
 
 Substantively, the ITU frames an agent credential as evidence of a **trust chain** — person or organization, delegation, agent, action — rather than a legal identity belonging to the agent itself, and calls for delegation that is specific, time-bound, traceable, and revocable, with auditable per-action evidence. This is consistent with, rather than competing against, the "limited, auditable, revocable" delegation model already recorded for Estonia's Identity 2.0, the AAE Internet-Draft, and the US bills — but adds a stated goal of **mutual recognition across agencies and borders**, which no source in the wiki has previously addressed. See [[agent-authorization-and-delegation]].
 
+## 2026-09-21: WIMSE's identity-management draft advances to working-group status; a signed-receipt draft joins the stack
+
+The **WIMSE working-group draft "AI Identity Management System" (draft-ietf-wimse-aims-00)** — first noted here on 2026-09-07 only as one candidate identity/authorization effort alongside DAWN, OAuth delegation, and SPIFFE — has matured into a working-group document. It composes existing mechanisms (unique workload identifiers, short-lived cryptographically bound credentials, OAuth-based delegated authorization, transaction tokens, cross-domain access, monitoring, policy, compliance) into a concrete Agent Identity Management System, rather than inventing a new protocol, and requires the represented user's or system's context to be preserved through to authorization decisions and audit trails (source: 2026-09-21-ai-agent-identity-news.md, citing [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/), published 2026-09-15).
+
+A separate individual Internet-Draft, **"Agent Authority Transition Receipts for Agentic Systems"** (no IETF endorsement or formal standing), proposes a signed, non-bearer receipt format binding one proposed operation to the represented principal, acting agent, action digest, policy/version, evaluated evidence, validity period, decision, and predecessor authority state, with fail-closed handling of missing or unverifiable evidence. It is designed to compose with OAuth, workload identity, attestation, and delegation protocols rather than replace them (source: 2026-09-21-ai-agent-identity-news.md, citing [IETF Datatracker](https://datatracker.ietf.org/doc/draft-watts-agent-authority-transition-receipts/), published 2026-09-12, updated 2026-09-14).
+
+Also newly surfaced: an academic review of 89 sources organizing agent authorization around a principal chain (human → operator/deployer → orchestrator agent → sub-agent → tool endpoint) and five control layers, naming the authorization decision at tool-invocation time as unresolved (source: 2026-09-21-ai-agent-identity-news.md, citing [arXiv:2609.15906](https://arxiv.org/abs/2609.15906)). See [[research]] for full summaries of all three items. No new Estonia or other-country development was found today.
+
 ## Open questions (needs verification)
 
 - How a national trust registry (Estonia) would relate to, or interoperate with, workload-identity standards such as SPIFFE is not addressed in any source so far and needs verification.
 - Whether OWASP ACS, DAWN, and WIMSE have converging or competing identity models is not established in the current sources.
 - How the ITU/World Bank TIDA focus group's cross-border mutual-recognition goal would relate to national schemes (Estonia's Aruait, US NIST guidance) or to industry standards (OWASP ACS, DAWN, WIMSE, AAE) is not yet addressed and needs verification as the group's work develops.
+- Whether the WIMSE AIMS draft and the Agent Authority Transition Receipts draft are meant to compose with each other, or address overlapping ground independently, is not established.
 
 ## Related pages
 
@@ -68,4 +77,5 @@ Substantively, the ITU frames an agent credential as evidence of a **trust chain
 - [[2026-09-14-ai-agent-identity-news]]
 - [[2026-09-16-ai-agent-identity-news]]
 - [[2026-09-18-ai-agent-identity-news]]
+- [[2026-09-21-ai-agent-identity-news]]
 - [[research]]
