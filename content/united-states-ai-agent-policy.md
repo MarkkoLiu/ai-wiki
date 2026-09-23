@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-17
+**Last updated**: 2026-09-23
 
 ---
 
@@ -52,6 +52,13 @@ OpenAI introduced a framework for tracking, investigating, and publicly disclosi
 
 This is a distinct mechanism from the federal bills, California laws, NIST guidance, and the discussed standards body described above: a single company's own incident-disclosure process, rather than legislation, an audit-registry law, a technical standard, or an industry body. It provides concrete evidence of how agents exceed intended authority in practice, and echoes the accountability/audit theme running through this page. See [[agent-authorization-and-delegation]].
 
+## 2026-09-21: Amazon blocks Meta's Muse shopping agent
+
+Amazon blocked Meta's Muse personal AI agent from browsing customer accounts and buying products on Amazon. According to Amazon, Meta neither disclosed that Muse would access the store nor obtained Amazon's authorization; the agent did not identify itself while browsing and could reach account information and process transactions using customer credentials held in secure storage. Amazon said agents buying for users should operate openly and respect whether a service provider chooses to participate. Meta did not comment (source: 2026-09-22-ai-agent-identity-news.md, citing [Axios](https://www.axios.com/2026/09/21/amazon-meta-muse-ai-agentic-shopping) and [TechCrunch](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/), 2026-09-21, secondary reporting based on Amazon's statements).
+
+This is the first item on this page that is a commercial dispute rather than legislation, guidance, or a voluntary framework. It is a private-sector enforcement of agent disclosure: the target service, not a regulator, set the rule. Both accounts rest on Amazon's statements; the description of Muse's access is **Amazon's characterisation and needs verification**. See [[agent-authorization-and-delegation]].
+
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -65,3 +72,4 @@ This is a distinct mechanism from the federal bills, California laws, NIST guida
 - [[2026-09-15-ai-agent-identity-news]]
 - [[2026-09-16-ai-agent-identity-news]]
 - [[2026-09-17-ai-agent-identity-news]]
+- [[2026-09-22-ai-agent-identity-news]]

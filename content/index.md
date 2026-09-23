@@ -16,6 +16,8 @@ Table of contents for the LLM Wiki.
 - [[2026-09-17-ai-agent-identity-news]] — no new Estonia development; OpenAI formalises a framework for publicly disclosing model/agent misalignment and unauthorized actions; Canada and Germany fund LawZero, a safe-by-design alternative to autonomous agents.
 - [[2026-09-18-ai-agent-identity-news]] — no new Estonia development; ITU launches a Focus Group on Trust and Identity for Humans and Agentic AI (TIDA), with World Bank participation, framing agent identity as a delegation trust chain aimed at cross-border mutual recognition.
 - [[2026-09-21-ai-agent-identity-news]] — no new Estonia or other-country development; second Monday research roundup: an authorization-architecture review framing delegation as a principal chain, the IETF WIMSE AI Identity Management System draft advancing to working-group status, and a new IETF draft proposing signed Agent Authority Transition Receipts.
+- [[2026-09-22-ai-agent-identity-news]] — no new Estonia development; Amazon blocks Meta's Muse shopping agent over undisclosed, unauthorized access, showing that user delegation does not establish the target service's consent.
+- [[2026-09-23-ai-agent-identity-news]] — no new sources in any section; flags two 22 September industry items (Blueprint Alliance, six-bank agentic-commerce principles) that fell between report windows.
 
 ## Concept pages
 
@@ -27,7 +29,7 @@ Table of contents for the LLM Wiki.
 ## Country pages
 
 - [[estonia-ai-agent-id]] — Estonia's Aruait programme. **Note**: the earlier "AI personal identification code" framing was withdrawn on 2026-09-08; the page leads with the corrected position.
-- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE, and the finalised NIST IR 8587 token-protection guide) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act), California's SB 813/AB 1405 audit-and-verification laws, Microsoft's voluntary Code of Conduct consultation, continued federal political division over binding regulation, a discussed OpenAI/Anthropic/Google DeepMind industry standards body, and OpenAI's new framework for disclosing model/agent misalignment.
+- [[united-states-ai-agent-policy]] — NIST guidance (OAuth 2.0, SPIFFE, and the finalised NIST IR 8587 token-protection guide) plus two proposed federal bills (Stop Rogue AI Act, AI AGENT Act), California's SB 813/AB 1405 audit-and-verification laws, Microsoft's voluntary Code of Conduct consultation, continued federal political division over binding regulation, a discussed OpenAI/Anthropic/Google DeepMind industry standards body, OpenAI's new framework for disclosing model/agent misalignment, and Amazon blocking Meta's Muse shopping agent over undisclosed access.
 - [[china-ai-agent-policy]] — China's national standard for AI-agent identity management.
 - [[singapore-ai-agent-policy]] — Singapore's government sandbox findings and guidance-led governance stance.
 - [[malaysia-ai-agent-policy]] — Malaysian commentary on agents as "non-human identities."

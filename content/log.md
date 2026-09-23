@@ -4,6 +4,27 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-23 (ingest of 2026-09-22 and 2026-09-23)
+
+**Sources ingested**: `raw/2026-09-22-ai-agent-identity-news.md`, `raw/2026-09-23-ai-agent-identity-news.md` (processed in date order)
+
+**Pages created**:
+- `wiki/2026-09-22-ai-agent-identity-news.md` — summary page for the 09-22 source.
+- `wiki/2026-09-23-ai-agent-identity-news.md` — summary page for the 09-23 source (no new sources in any section; stated plainly).
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-09-21 section: Amazon blocks Meta's Muse shopping agent over undisclosed, unauthorized access (Axios, TechCrunch). Marked Amazon's account as one-sided / needing verification. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-22 section: user delegation does not establish the target service's consent; linked to disclosure, credential-handling, and liability issues already tracked. Noted no new sources on 09-23. Updated Sources/Last updated.
+- `wiki/index.md` — added both dated digests; extended the `united-states-ai-agent-policy` description.
+
+**Not created**: no new country or concept page; no changes to `wiki/estonia-ai-agent-id.md` (both reports found only already-covered Estonia material).
+
+**Contradictions found**: none. One inconsistency is flagged rather than resolved. The 09-23 report excludes two 22 September industry items (Blueprint Alliance; six-bank agentic-commerce principles) because they were published before the 09-22 report's 21:10 cutoff, but the 09-22 report doesn't include them either, so they appear to have fallen between windows. They are recorded only as a "possible coverage gap (needs verification)" on the 09-23 digest. No content was added to concept pages because the raw reports give only link titles.
+
+**Publishing**: ran `../ai-wiki/sync_content.sh`. It failed again on the stale `ai-wiki/.git/index.lock` (dated Sep 17). This run is unattended, so no delete approval was requested. **`ai-wiki/content/` is still not synced.** It is now behind by the 09-18, 09-21, 09-22, and 09-23 changes. Someone in an attended session needs to clear the lock and re-run the script.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-21
 
 **Source ingested**: `raw/2026-09-21-ai-agent-identity-news.md`

@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-21
+**Last updated**: 2026-09-23
 
 ---
 
@@ -102,6 +102,19 @@ A separate IETF Internet-Draft proposes signed **Agent Authority Transition Rece
 
 No new Estonia or other-country development was found today (source: 2026-09-21-ai-agent-identity-news.md).
 
+## 2026-09-22: user delegation is not service-provider consent
+
+Amazon blocked Meta's Muse shopping agent, saying Meta had not disclosed or obtained authorization for Muse to access Amazon's store, that the agent did not identify itself while browsing, and that it used customer credentials held in secure storage to reach account information and place orders (source: 2026-09-22-ai-agent-identity-news.md, citing [Axios](https://www.axios.com/2026/09/21/amazon-meta-muse-ai-agentic-shopping) and [TechCrunch](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/); secondary reporting based on Amazon's statements, Meta did not comment).
+
+The delegation model on this page has mostly been two-party: a human delegates limited authority to an agent. This dispute adds a third party. The user may have authorised Muse, but that did not establish the **target service's** consent to being accessed by an agent. It also puts into practice several open issues already tracked here:
+
+- **Disclosure / self-identification** — the agent reportedly browsed without identifying itself, which is the gap that agent-identity schemes ([[ai-agent-identity]], [[agent-standards-and-interoperability]]) aim to close.
+- **Credential handling** — the agent reportedly acted with the user's own credentials rather than a scoped, agent-specific credential, contrary to the NIST position that agents should not operate through shared credentials (see [[united-states-ai-agent-policy]]).
+- **Liability for mistaken transactions** — who is responsible when such an agent places a wrong order remains unresolved, echoing the 2026-09-08 liability question above.
+
+Amazon's account of Muse's behaviour **needs verification** from Meta or an independent source. No new Estonia development today (source: 2026-09-22-ai-agent-identity-news.md); 2026-09-23 had no new sources in any section (source: 2026-09-23-ai-agent-identity-news.md).
+
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -128,3 +141,5 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-17-ai-agent-identity-news]]
 - [[2026-09-18-ai-agent-identity-news]]
 - [[research]]
+- [[2026-09-22-ai-agent-identity-news]]
+- [[2026-09-23-ai-agent-identity-news]]
