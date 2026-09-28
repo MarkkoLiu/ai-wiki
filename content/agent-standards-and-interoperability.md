@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-21
+**Last updated**: 2026-09-25
 
 ---
 
@@ -58,12 +58,19 @@ A separate individual Internet-Draft, **"Agent Authority Transition Receipts for
 
 Also newly surfaced: an academic review of 89 sources organizing agent authorization around a principal chain (human → operator/deployer → orchestrator agent → sub-agent → tool endpoint) and five control layers, naming the authorization decision at tool-invocation time as unresolved (source: 2026-09-21-ai-agent-identity-news.md, citing [arXiv:2609.15906](https://arxiv.org/abs/2609.15906)). See [[research]] for full summaries of all three items. No new Estonia or other-country development was found today.
 
+## 2026-09-25: OECD launches a Working Group on Agentic AI in Government
+
+The **OECD Working Group on Agentic AI in Government** brings together officials from member countries — including Estonia, Australia, Canada, Israel, Japan, Korea, Singapore, and the United Kingdom — to compare national experience and develop practical guidance on agentic AI in the public sector: foundations, guardrails, and public engagement. Writing in a personal capacity rather than as a formal OECD or member-country position, the authors name legal authority, human approval, durable logs, security controls, and reversible action as necessary safeguards for agents able to change official records or trigger state processes (source: 2026-09-25-ai-agent-identity-news.md, citing [OECD.AI — Governing with agentic AI: when machines act on government's behalf](https://oecd.ai/en/wonk/governing-with-agentic-ai-when-machines-act-on-governments-behalf)).
+
+This is the second explicitly multilateral coordination effort recorded in the wiki, after the 2026-09-18 ITU/World Bank TIDA focus group. The two differ in kind: TIDA is developing technical identity models, credential formats, and assurance levels for cross-border mutual recognition, while the OECD group is framed around comparative government policy and public-sector guardrails — closer to a policy-coordination forum than a technical-standards body — though its member list overlaps with countries already tracked here. See [[estonia-ai-agent-id]] for Estonia's specific participation, and [[australia-ai-agent-policy]] and [[united-kingdom-ai-agent-policy]] for two other named member countries. Whether the OECD group and ITU/World Bank TIDA coordinate with each other, or work independently, **needs verification**.
+
 ## Open questions (needs verification)
 
 - How a national trust registry (Estonia) would relate to, or interoperate with, workload-identity standards such as SPIFFE is not addressed in any source so far and needs verification.
 - Whether OWASP ACS, DAWN, and WIMSE have converging or competing identity models is not established in the current sources.
 - How the ITU/World Bank TIDA focus group's cross-border mutual-recognition goal would relate to national schemes (Estonia's Aruait, US NIST guidance) or to industry standards (OWASP ACS, DAWN, WIMSE, AAE) is not yet addressed and needs verification as the group's work develops.
 - Whether the WIMSE AIMS draft and the Agent Authority Transition Receipts draft are meant to compose with each other, or address overlapping ground independently, is not established.
+- Whether the new OECD Working Group on Agentic AI in Government coordinates with the ITU/World Bank TIDA focus group, given overlapping member countries, is not established and needs verification.
 
 ## Related pages
 
@@ -78,4 +85,7 @@ Also newly surfaced: an academic review of 89 sources organizing agent authoriza
 - [[2026-09-16-ai-agent-identity-news]]
 - [[2026-09-18-ai-agent-identity-news]]
 - [[2026-09-21-ai-agent-identity-news]]
+- [[2026-09-25-ai-agent-identity-news]]
+- [[australia-ai-agent-policy]]
+- [[united-kingdom-ai-agent-policy]]
 - [[research]]

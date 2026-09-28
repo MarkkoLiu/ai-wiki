@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes to AI agents. Following a public correction on 2026-09-08, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-08
+**Last updated**: 2026-09-25
 
 ---
 
@@ -58,6 +58,14 @@ On 2026-09-04, TechRadar Pro commentary by an e-Residency leader elaborated a re
 
 Äritehnoloogia asks whether an AI agent needs an official digital identity or personal code at all, especially where it signs contracts, conducts banking transactions, or makes employment-related changes, and where executive and human responsibility should sit (source: 2026-09-08-ai-agent-identity-news.md, citing [Äritehnoloogia](https://www.aritehnoloogia.ee/arvamused/2026/09/08/arinoustaja-kui-teie-ai-agent-teeks-homme-vale-kande-kelle-kaest-te-aru-parite)).
 
+## 2026-09-25: Estonia joins a new OECD Working Group on Agentic AI in Government
+
+Members of a new **OECD Working Group on Agentic AI in Government** — including an official from Estonia's Ministry of Justice and Digital Affairs — set out a shared programme for governing agents that act on a government's behalf: comparing national experience and developing practical guidance on the foundations, guardrails, and public engagement needed for agentic AI in the public sector. The authors state the article is not a formal OECD or member-country position (source: 2026-09-25-ai-agent-identity-news.md, citing [OECD.AI — Governing with agentic AI: when machines act on government's behalf](https://oecd.ai/en/wonk/governing-with-agentic-ai-when-machines-act-on-governments-behalf), primary institutional working-group commentary).
+
+The article frames Estonia's digital-government direction as an **explicit-delegation model** — agents may act for citizens, businesses, or public authorities only under clear, limited, and auditable powers — consistent with Aruait's Identity 2.0 scope above, and places Estonia's approach alongside Australia, Canada, Israel, Japan, Korea, Singapore, and the United Kingdom. It names legal authority, human approval, durable logs, security controls, and reversible action as necessary safeguards when an agent can change official records or trigger state processes (source: 2026-09-25-ai-agent-identity-news.md).
+
+This is the first explicitly **multilateral** body this wiki has recorded Estonia participating in, distinct from the 2026-09-18 ITU/World Bank TIDA focus group ([[agent-standards-and-interoperability]]), which no source has reported Estonia joining. No new Estonia-origin source matching *tehisaru* / *isikukood* with *agendid*, *assistendid*, or *aruait* was found; this item is included as a newly published Estonia-related governance development with direct Estonian government participation. Whether the OECD group and the ITU/World Bank TIDA group coordinate or work independently **needs verification**.
+
 ## Why it matters
 
 Estonia remains the most concrete national programme identified for [[ai-agent-identity]], and it now demonstrates the [[agent-authorization-and-delegation|scoped-permission model]] in a stronger form than the original headline: authority is delegated and revocable, and the agent never becomes a legal person. Compare [[united-states-ai-agent-policy]] and [[china-ai-agent-policy]].
@@ -73,3 +81,4 @@ This entry is also a caution about source quality — a widely repeated internat
 - [[2026-09-04-ai-agent-identity-news]]
 - [[2026-09-07-ai-agent-identity-news]]
 - [[2026-09-08-ai-agent-identity-news]]
+- [[2026-09-25-ai-agent-identity-news]]

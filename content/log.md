@@ -4,6 +4,29 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-25
+
+**Source ingested**: `raw/2026-09-25-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-25-ai-agent-identity-news.md`: summary page for the source. No Section 3 (Friday report).
+
+**Pages updated**:
+- `wiki/estonia-ai-agent-id.md`: added a 2026-09-25 section. Estonia's Ministry of Justice and Digital Affairs is participating in a new OECD Working Group on Agentic AI in Government, alongside Australia, Canada, Israel, Japan, Korea, Singapore, and the UK. Updated Sources/Last updated.
+- `wiki/australia-ai-agent-policy.md`: added a 2026-09-25 section. The government says the Medicare-portal breach (2026-09-24) will inform mandatory national AI-safety legislation, targeted for introduction by end of 2026, passage early 2027. Updated Sources/Last updated.
+- `wiki/united-states-ai-agent-policy.md`: added a 2026-09-25 section. 25 state/district/territorial attorneys general urged Congress toward binding federal oversight of frontier-agent incidents. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md`: added a 2026-09-25 section cross-linking the Australian legislative commitment and the US attorneys-general letter as a shared shift from voluntary to binding oversight demands. Updated Sources/Last updated.
+- `wiki/agent-standards-and-interoperability.md`: added a 2026-09-25 section on the new OECD Working Group on Agentic AI in Government, contrasted with the 2026-09-18 ITU/World Bank TIDA focus group. Updated Sources/Last updated and Open questions.
+- `wiki/index.md`: added the new digest; extended the Estonia, US, Australia, and agent-standards-and-interoperability descriptions.
+
+**Not changed**: `wiki/china-ai-agent-policy.md`, `wiki/singapore-ai-agent-policy.md`, `wiki/malaysia-ai-agent-policy.md`, `wiki/united-kingdom-ai-agent-policy.md`, `wiki/kenya-ai-agent-policy.md`, `wiki/ai-agent-identity.md`, `wiki/research.md`. Today's report contained nothing new for these pages.
+
+**Contradictions found**: none. The report explicitly states it read all fifteen prior reports and excluded already-covered material.
+
+**Publishing**: not run this session — `mcp__remote-devices__device_bash` returned "Workspace unavailable" (the isolated Linux environment on this device failed to start), so `../ai-wiki/sync_content.sh` could not be executed. This run is unattended, so no retry or delete-permission request was made. `ai-wiki` is now behind by the 09-18 through 09-25 changes on top of the pre-existing stale `.git/index.lock` noted on 2026-09-24. Someone in an attended session (with a working device shell) needs to clear the lock and run the sync script.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-24
 
 **Source ingested**: `raw/2026-09-24-ai-agent-identity-news.md`

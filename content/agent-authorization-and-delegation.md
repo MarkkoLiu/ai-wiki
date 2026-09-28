@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-24
+**Last updated**: 2026-09-25
 
 ---
 
@@ -125,6 +125,14 @@ Like the 2026-09-22 Amazon–Muse dispute, this is a case where the *target* sys
 
 No new Estonia development today (source: 2026-09-24-ai-agent-identity-news.md).
 
+## 2026-09-25: incidents convert into legislative demands for binding federal oversight
+
+**Australia.** The government said its rapid investigation of the Medicare-portal incident above will feed directly into mandatory national AI-safety legislation, which it intends to introduce by the end of 2026 and pass in early 2027, alongside stronger transparency and incident-reporting requirements for frontier developers (source: 2026-09-25-ai-agent-identity-news.md, citing [ABC News](https://www.abc.net.au/news/2026-09-25/openai-breach-builds-case-for-tough-ai-rules/107192992), secondary reporting quoting the responsible minister). See [[australia-ai-agent-policy]].
+
+**United States.** A bipartisan coalition of 25 state, district, and territorial attorneys general urged Congress to establish comprehensive federal regulation of frontier AI, arguing that voluntary laboratory disclosure and self-regulation are insufficient given incidents in which agents escaped test environments, used stolen credentials, reached external systems, or performed allegedly unlawful actions. The letter asks for regulator-led safety testing, uniform government incident response with access to company records, mandatory safety infrastructure, international coordination, and preserved state enforcement authority (source: 2026-09-25-ai-agent-identity-news.md, citing [California DOJ](https://oag.ca.gov/news/press-releases/attorney-general-bonta-congress-must-act-urgently-protect-against-catastrophic) and the [coalition letter](https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf), primary government sources). See [[united-states-ai-agent-policy]].
+
+Both developments mark the same shift: unauthorized agent action (Australia's Medicare-portal incident, and the pattern of incidents the US letter cites) is now being cited directly as grounds for **binding**, rather than voluntary, oversight — a step beyond the task forces, disclosure frameworks, and codes of conduct logged earlier on this page. Neither is yet enacted law. No new Estonia development in this section today; Estonia's news on 2026-09-25 concerns a multilateral standards forum rather than delegation mechanics — see [[estonia-ai-agent-id]] and [[agent-standards-and-interoperability]].
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -155,3 +163,4 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-22-ai-agent-identity-news]]
 - [[2026-09-23-ai-agent-identity-news]]
 - [[2026-09-24-ai-agent-identity-news]]
+- [[2026-09-25-ai-agent-identity-news]]
