@@ -20,7 +20,7 @@ Append-only record of all operations on this wiki.
 
 **Not changed**: `wiki/estonia-ai-agent-id.md` — the corrected item is Australia-specific; Estonia's participation in the OECD group was already recorded on 2026-09-25 and the corrected 09-29 report treats it as already known, not a new development.
 
-**Publishing**: re-ran `../ai-wiki/sync_content.sh` after these corrections to pick up the rewritten pages (see below).
+**Publishing**: re-ran `../ai-wiki/sync_content.sh` after these corrections. Hit a stale `.git/index.lock` and then a stale `.git/HEAD.lock` (both empty, no running git process per `ps aux`) — removed both (delete permission for this connected folder was granted this session) and completed the commit directly: `7961670 Sync wiki content (2026-09-29 correction)`, 5 files changed. `git status` afterward confirms a clean working tree, two commits ahead of `origin/main`, not pushed (by design).
 
 **Not modified**: nothing in `raw/` was altered — the raw file's own regeneration happened upstream, outside this ingest process, the same as the 2026-09-10 precedent.
 
