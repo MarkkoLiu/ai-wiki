@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-09-29
 
 ---
 
@@ -64,6 +64,8 @@ The **OECD Working Group on Agentic AI in Government** brings together officials
 
 This is the second explicitly multilateral coordination effort recorded in the wiki, after the 2026-09-18 ITU/World Bank TIDA focus group. The two differ in kind: TIDA is developing technical identity models, credential formats, and assurance levels for cross-border mutual recognition, while the OECD group is framed around comparative government policy and public-sector guardrails — closer to a policy-coordination forum than a technical-standards body — though its member list overlaps with countries already tracked here. See [[estonia-ai-agent-id]] for Estonia's specific participation, and [[australia-ai-agent-policy]] and [[united-kingdom-ai-agent-policy]] for two other named member countries. Whether the OECD group and ITU/World Bank TIDA coordinate with each other, or work independently, **needs verification**.
 
+On 2026-09-29, Australia's Digital Transformation Agency formally confirmed its own participation in the OECD working group with a primary national source, naming clear operating boundaries, meaningful human oversight, continuing human accountability, and effective control as its stated requirements for increasing agent autonomy (source: 2026-09-29-ai-agent-identity-news.md, citing [DTA — Australia joins new OECD working group on agentic AI in government](https://www.dta.gov.au/articles/australia-joins-new-oecd-working-group-agentic-ai-government-0)). This restates, with a primary Australian source, participation already known from the OECD's own 2026-09-25 commentary rather than adding a new substantive claim; see [[australia-ai-agent-policy]] for full detail.
+
 ## 2026-09-28: a durable-identity registry and governance authority proposed for autonomous agents
 
 A three-document individual-Internet-Draft series proposes a persistent, durable identity for autonomous agents — distinct from their replaceable names, credentials, keys, and accounts — built around an Agent Identity Registry System with permanent `aid` identifiers, hardware-backed anchors, assurance tiers, and competing registrars, plus a multi-stakeholder Agent Identity Authority governing the namespace, trust store, accreditation, dispute resolution, and registry succession (source: 2026-09-28-ai-agent-identity-news.md, citing [Identity for Autonomous Agents and Robots](https://datatracker.ietf.org/doc/draft-drake-agent-identity-problem-statement/), [Agent Identity Registry System](https://www.ietf.org/archive/id/draft-drake-agent-identity-registry-04.html), and [The Agent Identity Authority](https://www.ietf.org/archive/id/draft-drake-agent-identity-governance-00.html)). Like the WIMSE AIMS and Agent Authority Transition Receipts drafts noted on 2026-09-21, these are individual submissions with no IETF endorsement or formal standing, and their status is explicitly preliminary. Unlike WIMSE AIMS, which treats an agent as a workload identified through existing OAuth/credential mechanisms, this series proposes a new, agent-specific, permanent-identifier registry and a governance body to run it — a materially different architectural bet.
@@ -94,6 +96,7 @@ Separately, a preprint proposes capability tokens cryptographically bound to bot
 - [[2026-09-21-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
 - [[2026-09-28-ai-agent-identity-news]]
+- [[2026-09-29-ai-agent-identity-news]]
 - [[australia-ai-agent-policy]]
 - [[united-kingdom-ai-agent-policy]]
 - [[research]]

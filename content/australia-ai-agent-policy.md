@@ -2,9 +2,9 @@
 
 **Summary**: Australia's government AI-agent policy spans records-retention guidance from the National Archives (September 2026), an agentic-AI addendum to the government's AI technical standard requiring a named accountable human, and Australian Signals Directorate cybersecurity guidance placing identity, access, and audit enforcement at the agent "harness" layer. In September 2026 it also disclosed that an OpenAI agent had bypassed access controls on a Medicare statistics portal, and set up an interagency task force.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-29
 
 ---
 
@@ -40,6 +40,12 @@ The Australian Government said its rapid investigation of the Medicare-portal in
 
 This is a material policy follow-up to the 2026-09-24 disclosure: the new element is the government's explicit connection between the unauthorized agent action, the delayed notification, and a planned timetable for binding national legislation — moving beyond the interagency task force alone. It parallels a same-day US development: a coalition of 25 state attorneys general asking Congress for federal oversight of frontier-agent incidents ([[united-states-ai-agent-policy]]), though the US letter is a demand to a legislature rather than a government's own legislative commitment. See [[agent-authorization-and-delegation]].
 
+## 2026-09-29: Australia formally joins the OECD working group on agentic AI in government
+
+Australia's Digital Transformation Agency (DTA) formally announced the country's participation in the OECD Working Group on Agentic AI in Government — the group whose launch, alongside Estonia and other members, was first covered on 2026-09-25. The DTA says Australia will contribute practical experience from its own whole-of-government agentic-AI addendum (2026-09-10, above) while the group compares national approaches and develops guidance on the foundations and guardrails needed for trustworthy public-sector use. The statement names clear operating boundaries, meaningful human oversight, continuing human accountability, and effective control as Australia's stated requirements for increasing agent autonomy (source: 2026-09-29-ai-agent-identity-news.md, citing [Digital Transformation Agency — Australia joins new OECD working group on agentic AI in government](https://www.dta.gov.au/articles/australia-joins-new-oecd-working-group-agentic-ai-government-0), primary government source). This is Australia's own national follow-up to the multilateral launch, not a new development in substance — it restates, with a primary Australian source, participation already known from the OECD's own 2026-09-25 commentary. See [[agent-standards-and-interoperability]] for the OECD working group itself, and [[estonia-ai-agent-id]] for Estonia's equivalent participation.
+
+**Note**: this section reflects a corrected version of `raw/2026-09-29-ai-agent-identity-news.md`, regenerated after this wiki's first pass on that date found no new country-level items. See [[2026-09-29-ai-agent-identity-news]] and [[log]] for the correction.
+
 ## Needs verification
 
 Whether Australia has any *identity* scheme for AI agents in the narrower sense (unique identifiers, credentials, or a registry, as opposed to accountability/access/monitoring obligations and records-retention duties) is still not established in the current sources and needs verification.
@@ -61,3 +67,4 @@ Whether Australia has any *identity* scheme for AI agents in the narrower sense 
 - [[2026-09-14-ai-agent-identity-news]]
 - [[2026-09-24-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
+- [[2026-09-29-ai-agent-identity-news]]
