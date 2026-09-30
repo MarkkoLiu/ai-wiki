@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-09-30
+
+**Source ingested**: `raw/2026-09-30-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-09-30-ai-agent-identity-news.md` — summary page (no Estonia development; two US items; no research, Wednesday).
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-09-30 section: LASST v. OpenAI complaint (allegations only, primary filing plus Axios) and the voluntary White House-backed accord (secondary reporting; text not public). Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-09-30 section framing the lawsuit as a legal test of accountability for unauthorized agent acts. Updated Sources/Last updated.
+- `wiki/index.md` — added the digest line and extended the US page description.
+
+**Not changed**: `wiki/estonia-ai-agent-id.md` and all other country/concept pages — nothing new for them.
+
+**Contradictions found**: none. Verification flag: the report calls the Hugging Face incident "previously disclosed", but no earlier wiki page names it; its relationship to the OpenAI incidents already logged needs verification.
+
+**Publishing**: see below.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-29 (correction — raw file regenerated mid-ingest)
 
 **Context**: after the ingest pass below completed and its wiki/index/log updates were written, a verification pass noticed `raw/2026-09-29-ai-agent-identity-news.md` had changed size and mtime (1,511 bytes / generated 09:00 Europe/Helsinki → 4,223 bytes / generated 20:28 Europe/Helsinki, per the file's own frontmatter) since it was first read during this same session. The corrected file's content **differs materially** from what was first ingested:

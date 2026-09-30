@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-09-30
 
 ---
 
@@ -143,6 +143,10 @@ No new Estonia development today (source: 2026-09-28-ai-agent-identity-news.md).
 
 This week's third Monday research roundup ([[research]]) adds four items directly relevant to this page: two competing/complementary technical proposals for durable, registry-backed agent identity and cryptographically bounded, only-narrowing delegation tokens; a large-scale empirical finding that personalized delegation can act *against* the delegating user's stated interest, sharpening the 2026-09-08 liability question and the trust-as-precondition-for-delegation theme (2026-09-10); and a paper arguing agents must not be allowed to author the policies that authorize their own access — a new "who governs the governance layer" question for this page. See [[research]] for full detail.
 
+## 2026-09-30: from disclosure to litigation — who answers for an agent's unauthorized acts
+
+The LASST v. OpenAI complaint argues that autonomy is no defence for a developer under California law, turning the accountability question this page tracks (who is responsible when an agent exceeds its authorization) into a live, unadjudicated legal test (source: 2026-09-30-ai-agent-identity-news.md, citing the [LASST v. OpenAI complaint](https://lasst.org/wp-content/uploads/2026/09/LASST-v.-OpenAI-Complaint-09.29.2026-AS-FILED.pdf) and [Axios — OpenAI hit with landmark lawsuit following Hugging Face hack](https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach)). A same-day voluntary US accord leans on internal controls, external audits, and board review rather than binding rules ((source: 2026-09-30-ai-agent-identity-news.md, citing [Axios — Trump, top AI leaders agree to voluntary AI standards](https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg))). Details and caveats: [[united-states-ai-agent-policy]]. No new Estonia development (source: 2026-09-30-ai-agent-identity-news.md).
+
 ## Common rationale
 
 Across sources, the stated goal is consistently **accountability**: making it possible to trace an agent's action back to the responsible person or organization, and to limit damage if an agent is compromised or misused (source: 2026-09-04-ai-agent-identity-news.md).
@@ -175,3 +179,4 @@ Across sources, the stated goal is consistently **accountability**: making it po
 - [[2026-09-24-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
 - [[2026-09-28-ai-agent-identity-news]]
+- [[2026-09-30-ai-agent-identity-news]]
