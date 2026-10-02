@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-01
+
+**Source ingested**: `raw/2026-10-01-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-01-ai-agent-identity-news.md` — summary page (no Estonia development; one US follow-up; no research, Thursday).
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-10-01 section: accord signatories, four control layers, voluntary status, plus a clarification of the 2026-09-30 account. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-10-01 section on the accord's control layers as an accountability model. Updated Sources/Last updated.
+- `wiki/index.md` — added the digest line and extended the US page description.
+
+**Not changed**: `wiki/estonia-ai-agent-id.md` and other country/concept pages — nothing new.
+
+**Contradictions found**: none overturned. One clarification: the 2026-09-30 account said the accord's full text was not public and scope was unclear; the 2026-10-01 report supplies signatories and controls from later, more detailed reporting. Kept both, preferred the later for contents, still marked as needing primary-source verification. Noted on the 2026-10-01 digest and the US page.
+
+**Publishing**: `../ai-wiki/sync_content.sh` failed on a git step (stale index lock; delete restriction), not retried — publishing is secondary; the next ingest or the repo owner can re-run it.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-09-30
 
 **Source ingested**: `raw/2026-09-30-ai-agent-identity-news.md`
@@ -20,7 +40,7 @@ Append-only record of all operations on this wiki.
 
 **Contradictions found**: none. Verification flag: the report calls the Hugging Face incident "previously disclosed", but no earlier wiki page names it; its relationship to the OpenAI incidents already logged needs verification.
 
-**Publishing**: see below.
+**Publishing**: ran `../ai-wiki/sync_content.sh`; committed locally as `22b6119 Sync wiki content (2026-09-30)` (5 files changed), not pushed. Benign `unable to unlink` warnings on stale `.git` tmp/lock files (delete restriction).
 
 **Not modified**: nothing in `raw/` was altered.
 
