@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-02
+
+**Source ingested**: `raw/2026-10-02-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-02-ai-agent-identity-news.md` — summary page (no Estonia development; one US item; no research, Friday).
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — added a 2026-10-02 section on the proposed AI Agent Accountability Act. Updated Sources/Last updated.
+- `wiki/agent-authorization-and-delegation.md` — added a 2026-10-02 section on liability for unauthorized agent acts. Updated Sources/Last updated.
+- `wiki/index.md` — added the digest line and extended the US page description.
+
+**Not changed**: `wiki/estonia-ai-agent-id.md` and other country/concept pages — nothing new (ERR/ENISA interview predates cutoff, excluded by the report).
+
+**Contradictions found**: none.
+
+**Publishing**: `../ai-wiki/sync_content.sh` failed on a git step (stale index lock; delete restriction), not retried — publishing is secondary.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-01
 
 **Source ingested**: `raw/2026-10-01-ai-agent-identity-news.md`
