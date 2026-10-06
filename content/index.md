@@ -25,6 +25,7 @@ Table of contents for the LLM Wiki.
 - [[2026-09-30-ai-agent-identity-news]] — no new Estonia development; LASST sues OpenAI in California over the Hugging Face incident (developer liability for autonomous agent access), and a voluntary White House-backed AI accord relies on audits and internal controls; no research (Wednesday).
 - [[2026-10-01-ai-agent-identity-news]] — no new Estonia development; White House Accord on Super Intelligence signatories (Google, Anthropic, Meta, OpenAI, xAI, Nvidia) and four voluntary control layers identified; still no enforcement; no research (Thursday).
 - [[2026-10-02-ai-agent-identity-news]] — no new Estonia development; Hawley–Murphy proposed AI Agent Accountability Act would impose civil/criminal liability on operators and developers for agent hacking (bill text not yet public); no research (Friday).
+- [[2026-10-05-ai-agent-identity-news]] — no new sources in any section, including the Monday research section (empty report; RSA Agent ID mention excluded as already covered, needs verification).
 
 ## Concept pages
 

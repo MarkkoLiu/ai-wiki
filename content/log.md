@@ -4,6 +4,24 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-05
+
+**Source ingested**: `raw/2026-10-05-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-05-ai-agent-identity-news.md` — summary page (no new sources in any section; Monday research section present but records no new research).
+
+**Pages updated**:
+- `wiki/index.md` — added the digest line.
+
+**Not changed**: all concept, country, and research pages — nothing new. Noted as needing verification: the report mentions an "RSA Agent ID announcement" as already covered, but no wiki page records it.
+
+**Contradictions found**: none.
+
+**Publishing**: `../ai-wiki/sync_content.sh` failed on a git step (stale index lock; delete restriction), not retried — publishing is secondary.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-02
 
 **Source ingested**: `raw/2026-10-02-ai-agent-identity-news.md`
