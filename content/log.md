@@ -4,6 +4,21 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-06
+
+**Source ingested**: `raw/2026-10-06-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-06-ai-agent-identity-news.md` — summary page (no Estonia development; one UK item; no research, Tuesday).
+
+**Pages updated**:
+- `wiki/united-kingdom-ai-agent-policy.md` — added Loughborough vice-chancellor open letter (verifiable delegation, accountable deployer, incident reporting; proposal only).
+- `wiki/agent-authorization-and-delegation.md` — added 2026-10-06 section.
+- `wiki/agent-standards-and-interoperability.md` — added 2026-10-06 note on call for interoperable self-identification/delegation proof.
+- `wiki/index.md` — added digest line; extended UK description.
+
+**Contradictions found**: none.
+
 ## 2026-10-05
 
 **Source ingested**: `raw/2026-10-05-ai-agent-identity-news.md`

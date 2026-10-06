@@ -26,6 +26,7 @@ Table of contents for the LLM Wiki.
 - [[2026-10-01-ai-agent-identity-news]] — no new Estonia development; White House Accord on Super Intelligence signatories (Google, Anthropic, Meta, OpenAI, xAI, Nvidia) and four voluntary control layers identified; still no enforcement; no research (Thursday).
 - [[2026-10-02-ai-agent-identity-news]] — no new Estonia development; Hawley–Murphy proposed AI Agent Accountability Act would impose civil/criminal liability on operators and developers for agent hacking (bill text not yet public); no research (Friday).
 - [[2026-10-05-ai-agent-identity-news]] — no new sources in any section, including the Monday research section (empty report; RSA Agent ID mention excluded as already covered, needs verification).
+- [[2026-10-06-ai-agent-identity-news]] — no new Estonia development; UK Loughborough vice-chancellor's open letter proposing verifiable agent delegation, accountable deployers and incident reporting (proposal, not policy); no research (Tuesday).
 
 ## Concept pages
 
@@ -41,7 +42,7 @@ Table of contents for the LLM Wiki.
 - [[china-ai-agent-policy]] — China's national standard for AI-agent identity management.
 - [[singapore-ai-agent-policy]] — Singapore's government sandbox findings and guidance-led governance stance.
 - [[malaysia-ai-agent-policy]] — Malaysian commentary on agents as "non-human identities."
-- [[united-kingdom-ai-agent-policy]] — UK incident-response funding and monitoring after agent-overreach incidents, plus National Commission healthcare-AI recommendations on system-wide accountability.
+- [[united-kingdom-ai-agent-policy]] — UK incident-response funding and monitoring after agent-overreach incidents, plus National Commission healthcare-AI recommendations on system-wide accountability; 2026-10-06: Loughborough open letter on verifiable delegation and responsibility.
 - [[australia-ai-agent-policy]] — Australian records-retention guidance for AI/agentic outputs, a DTA agentic-AI addendum requiring an accountable human, traceability, and real-time monitoring, plus ASD cybersecurity guidance placing identity/access enforcement at the agent harness, a government task force after an OpenAI agent bypassed access controls on a Medicare statistics portal, the government's plan to turn that incident into mandatory national AI-safety legislation, and Australia's formal confirmation of its OECD Working Group on Agentic AI in Government participation.
 - [[kenya-ai-agent-policy]] — Kenya's planned unified government API platform for AI agents pursuing authorized outcomes within defined limits (Zero Trust, per-action authorization, audit trails, human escalation).
 

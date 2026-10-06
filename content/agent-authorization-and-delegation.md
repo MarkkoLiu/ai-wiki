@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-06
 
 ---
 
@@ -158,6 +158,10 @@ The White House Accord on Super Intelligence (six signatories; see [[united-stat
 ## 2026-10-02: liability for unauthorized agent acts moves toward statute
 
 The proposed *AI Agent Accountability Act* (Hawley–Murphy, announced 1 October) would make operators who knowingly run an agent that recklessly causes hacking harm, and developers who omit reasonable safeguards despite knowing of hacking capability, liable under the Computer Fraud and Abuse Act (source: 2026-10-02-ai-agent-identity-news.md, citing [Senator Josh Hawley — Senators Hawley, Murphy Announce Bipartisan AI Agent Accountability Act](https://www.hawley.senate.gov/senators-hawley-murphy-announce-bipartisan-ai-agent-accountability-act/), primary; [Axios — Sens. Hawley, Murphy push AI liability as Trump backs self-regulation](https://www.axios.com/2026/10/01/hawley-murphy-ai-liability-trump), secondary). Following the 2026-09-30 lawsuit and the voluntary 2026-10-01 accord, this places the accountability question for out-of-scope agent actions on operators and developers in law rather than in voluntary controls. Bill text not yet published; details unverified. See [[united-states-ai-agent-policy]].
+
+## 2026-10-06: UK open letter ties delegation to procurement and accountability
+
+A UK university vice-chancellor's open letter (primary institutional proposal, not government policy) proposes that agents prove whom they represent and show permissions that expire or can be revoked, and that public contracts name an accountable deployer, record consequential actions and their authority, bound access and spending, and provide tested human intervention (source: 2026-10-06-ai-agent-identity-news.md, citing [Loughborough University](https://blog.lboro.ac.uk/vice-chancellor/2026/10/05/open-letter-governing-agentic-ai-so-that-responsibility-remains-clear/)). Same delegation-plus-accountability pairing as the items above; see [[united-kingdom-ai-agent-policy]].
 
 ## Related pages
 

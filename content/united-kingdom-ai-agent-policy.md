@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-10-06
 
 ---
 
@@ -24,7 +24,19 @@ On 10 September 2026 the National Commission into the Regulation of AI in Health
 
 **Correction history**: an earlier draft of this page (2026-09-10) added this same item, but that first attempt traced to a stale intermediate version of `raw/2026-09-10-ai-agent-identity-news.md` and was removed once the corrected 09-10 file didn't contain it (see [[log]] for 2026-09-10). The item above is reinstated based on the 2026-09-11 report, which cites it with a clickable primary GOV.UK source and explicitly confirms it as a distinct 10 September publication, not a repeat of the 7 September incident-response statement. This is a genuine re-confirmation rather than a reversal of the 09-10 removal — the underlying story was real all along; only the earlier sourcing was unreliable.
 
+## Open letter: verifiable delegation and clear responsibility (2026-10-05)
+
+On 5 October 2026 Professor Nick Jennings, Loughborough University's vice-chancellor, published an open letter (dated 3 October) to the UK government. It is a primary institutional proposal, **not adopted government policy** (source: 2026-10-06-ai-agent-identity-news.md, citing [Loughborough University](https://blog.lboro.ac.uk/vice-chancellor/2026/10/05/open-letter-governing-agentic-ai-so-that-responsibility-remains-clear/); publication time verified via [post metadata](https://blog.lboro.ac.uk/vice-chancellor/wp-json/wp/v2/posts/840)). Proposals:
+
+- clarify legal responsibility for agents acting across services;
+- pilot significant-incident reporting and independent investigation;
+- agent-specific public procurement requirements: a named accountable deployer, records of consequential actions and their authority, bounded access and spending, tested human intervention;
+- interoperable standards so agents identify themselves, prove whom they represent, and show permissions that expire or can be revoked.
+
+The report presents this as building on the UK's September security response ([[united-kingdom-ai-agent-policy|incident-response funding above]]) without being a new government decision, and as unusual in the UK material for linking identity and bounded delegation to liability, audit evidence and redress. No contradiction with earlier content. See [[agent-authorization-and-delegation]] and [[2026-10-06-ai-agent-identity-news]].
+
 ## Related pages
+
 
 - [[ai-agent-identity]]
 - [[agent-authorization-and-delegation]]
@@ -33,3 +45,4 @@ On 10 September 2026 the National Commission into the Regulation of AI in Health
 - [[united-states-ai-agent-policy]]
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-11-ai-agent-identity-news]]
+- [[2026-10-06-ai-agent-identity-news]]

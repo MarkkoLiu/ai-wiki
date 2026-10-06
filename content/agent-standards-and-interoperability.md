@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-29
+**Last updated**: 2026-10-06
 
 ---
 
@@ -80,6 +80,10 @@ Separately, a preprint proposes capability tokens cryptographically bound to bot
 - Whether the WIMSE AIMS draft and the Agent Authority Transition Receipts draft are meant to compose with each other, or address overlapping ground independently, is not established.
 - Whether the new OECD Working Group on Agentic AI in Government coordinates with the ITU/World Bank TIDA focus group, given overlapping member countries, is not established and needs verification.
 - This page now has two competing durable-identity proposals for agents at different maturity levels — the WIMSE AIMS working-group draft (workload-identity-based) and the new Agent Identity Registry System (permanent-identifier-based, 2026-09-28). Whether these are meant to compose, compete, or address different agent populations is not established.
+
+## 2026-10-06: call for interoperable agent self-identification and delegation proof (UK)
+
+The Loughborough vice-chancellor's open letter (proposal only; names no specific standard) calls for interoperable standards through which agents identify themselves, prove whom they represent, and demonstrate expiring or revocable permissions (source: 2026-10-06-ai-agent-identity-news.md, citing [Loughborough University](https://blog.lboro.ac.uk/vice-chancellor/2026/10/05/open-letter-governing-agentic-ai-so-that-responsibility-remains-clear/)). See [[united-kingdom-ai-agent-policy]].
 
 ## Related pages
 
