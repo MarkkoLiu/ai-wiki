@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-12
 
 ---
 
@@ -85,6 +85,10 @@ Separately, a preprint proposes capability tokens cryptographically bound to bot
 
 The Loughborough vice-chancellor's open letter (proposal only; names no specific standard) calls for interoperable standards through which agents identify themselves, prove whom they represent, and demonstrate expiring or revocable permissions (source: 2026-10-06-ai-agent-identity-news.md, citing [Loughborough University](https://blog.lboro.ac.uk/vice-chancellor/2026/10/05/open-letter-governing-agentic-ai-so-that-responsibility-remains-clear/)). See [[united-kingdom-ai-agent-policy]].
 
+## 2026-10-12: Poppy (Personal Agent Protocol) draft
+
+Sierra's Draft 0.1 Personal Agent Protocol lets a business recognise a personal agent and its customer, with customer delegation and business-defined permitted actions; its operations extension separates proposing from confirming an action, requires standing permission to cover company/account/action/terms, bars company-generated text from counting as user approval, and uses operation identifiers against duplicate execution (source: 2026-10-12-ai-agent-identity-news.md, citing [Sierra](https://sierra.ai/blog/poppy), [spec](https://personalagentprotocol.org/docs/spec), [operations extension](https://personalagentprotocol.org/docs/extensions/operations); primary, industry draft — not an adopted government or IETF standard). Limit noted by the report: confirmation records the agent's assertion of approval, not independent proof the human approved. Whether Poppy composes with the IETF AAE/receipt drafts is not addressed — needs verification.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -104,3 +108,4 @@ The Loughborough vice-chancellor's open letter (proposal only; names no specific
 - [[australia-ai-agent-policy]]
 - [[united-kingdom-ai-agent-policy]]
 - [[research]]
+- [[2026-10-12-ai-agent-identity-news]]

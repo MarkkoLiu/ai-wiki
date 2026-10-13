@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-09
 
 ---
 
@@ -35,6 +35,14 @@ On 5 October 2026 Professor Nick Jennings, Loughborough University's vice-chance
 
 The report presents this as building on the UK's September security response ([[united-kingdom-ai-agent-policy|incident-response funding above]]) without being a new government decision, and as unusual in the UK material for linking identity and bounded delegation to liability, audit evidence and redress. No contradiction with earlier content. See [[agent-authorization-and-delegation]] and [[2026-10-06-ai-agent-identity-news]].
 
+## ICO call for evidence on agentic AI (2026-10-08)
+
+On 8 October 2026 the Information Commissioner's Office opened a call for evidence on applying data protection law to agentic AI, closing **20 November 2026** (source: 2026-10-08-ai-agent-identity-news.md, citing [ICO call for evidence](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence/) and [ICO news release](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/), primary; 2026-10-09-ai-agent-identity-news.md, also citing [ICO Citizen Space portal](https://citizen-space.ico.org.uk/regulatory-risk/agentic-ai-call-for-evidence/) and secondary [MLex](https://www.mlex.com/mlex/articles/2535556/evidence-on-agentic-ai-sought-by-uk-privacy-regulator), 8 October 2026, 10:16 GMT). Topics: data security, transparency, accountability, automated decision-making, fairness and purpose limitation, lawful processing. Responses will inform final ICO guidance.
+
+The ICO also confirmed recent enquiries with OpenAI, Anthropic, Meta and the UK AI Security Institute about agentic-AI testing and deployment; no findings of wrongdoing are reported (source: 2026-10-08-ai-agent-identity-news.md). This is evidence-gathering toward guidance, not an agent-identity scheme, adopted authorization standard or new legal obligation.
+
+**Refinement, not contradiction**: the 6 October report listed this consultation only as forthcoming with an unverified publication date ([[2026-10-06-ai-agent-identity-news]]); the 8 and 9 October reports confirm it opened on 8 October. The 8 and 9 October reports describe the same consultation; the wiki records it once. See [[agent-authorization-and-delegation]], [[2026-10-08-ai-agent-identity-news]], [[2026-10-09-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -46,3 +54,5 @@ The report presents this as building on the UK's September security response ([[
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-09-11-ai-agent-identity-news]]
 - [[2026-10-06-ai-agent-identity-news]]
+- [[2026-10-08-ai-agent-identity-news]]
+- [[2026-10-09-ai-agent-identity-news]]

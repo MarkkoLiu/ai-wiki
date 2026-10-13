@@ -26,6 +26,8 @@ It asks the UK government to clarify legal responsibility for agents acting acro
 - Capital News Service / Southern Maryland Chronicle (secondary, 5 October): retrospective on the 30 September Senate hearing, already covered ([link](https://southernmarylandchronicle.com/2026/10/05/some-lawmakers-think-congress-should-intervene-to-regulate-ai/)).
 - UK ICO agentic-AI call for evidence (primary regulator page; opens 8 October, publication date not established): not treated as a verified new publication ([link](https://citizen-space.ico.org.uk/regulatory-risk/agentic-ai-call-for-evidence/)).
 
+**Later update (2026-10-08/09)**: the ICO call for evidence was subsequently confirmed as published and open on 8 October 2026, closing 20 November; see [[2026-10-08-ai-agent-identity-news]] and [[united-kingdom-ai-agent-policy]]. This refines the "publication date not established" status above; it does not overturn the exclusion, which was correct for the 6 October cutoff.
+
 ## Section 3 — Research
 
 Omitted; Tuesday report (Research is Mondays only). [[research]] unchanged.

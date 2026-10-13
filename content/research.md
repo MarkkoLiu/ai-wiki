@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-10-12
 
 ---
 
@@ -72,11 +72,35 @@ Across 325,000 experiments with 13 agents making decisions about flights, health
 
 This study defines an "authorship hazard" in agentic dataspaces: if an agent can publish policy or classification changes that determine its own access, it can alter the rules under which it operates. In the reported frozen corpus, unreviewed agent drafts reversed 80 authorization decisions; execution-time constraints prevented protected fields from reaching the model in all 105 named-field tests, though the method failed for seven unconfined values (source: 2026-09-28-ai-agent-identity-news.md, citing [Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces](https://arxiv.org/abs/2609.30614), published 2026-09-24). This supports a separation between an agent as a subject of policy and a human-authorized governance plane, treating policy changes as consequential authorization events rather than ordinary generated text — directly relevant to [[agent-authorization-and-delegation]]'s accountability theme and a new angle not previously raised in the wiki: who (or what) is allowed to write the rules an agent is later judged against.
 
+## 2026-10-12: accountability evidence, counter-power, democratic authorization, contextual policy, external monitoring, privacy auditing
+
+All items below are from 2026-10-12-ai-agent-identity-news.md. The report says they are newly surfaced for this series, not necessarily published after the previous report; none is established as peer reviewed unless stated.
+
+### Accountability for AI agents: from code signing to evidence
+Hasbini & Seow, 8 October 2026, author-published paper ([source](https://mahasbini.org/papers/accountability-for-ai-agents/), DOI 10.5281/zenodo.23232998). Argues one human responsible for several agents is insufficient without visibility and ability to intervene; links distinct agent identities and signed software provenance to verifiable audit evidence; scenarios stress explicit, bounded, auditable, tested, revocable authority. Regulatory discussion is analysis, not new law. Links: [[ai-agent-identity]], [[agent-authorization-and-delegation]].
+
+### The Agentic State: Capability and Counter-Power as One Architecture
+Tikhonov, 5 October 2026, working paper, explicitly not peer reviewed and not piloted ([source](https://agenticstate.institute/en/research/research-programme/capability-and-counter-power)). Proposes government and citizen agents on shared auditable infrastructure with separate identities, delegation records, published instructions, independent audit and timely human appeal; the citizen's representative should be structurally independent of the government. Includes Estonia in comparison; not an adopted framework. Links: [[estonia-ai-agent-id]].
+
+### Before agentic AI scales in government: the democratic authorization gap
+*Frontiers in Political Science*, 9 September 2026 (newly surfaced), conceptual Perspective ([source](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1956489/full), DOI 10.3389/fpos.2026.1956489). Distinguishes valid technical access from a demonstrable chain of public authority; risks in mandate translation, recursive delegation and delayed challenge; safeguards: bounded authorization, inherited limits, action-level traceability, named responsibility, interruption, reversible redress. Links: [[agent-authorization-and-delegation]].
+
+### Open and emergent problems in agentic privacy and security (contextual policy)
+Google Research announcement 5 October 2026; workshop late 2025, so announcement date is not a verified manuscript date ([announcement](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/), [record](https://research.google/pubs/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)). 50+ participants; proposes contextual policy engines evaluating information flows before execution, plus sandboxing, distinct agent identity, context-dependent authorization/revocation; notes limits of repeated user approval. A research agenda, not a validated solution.
+
+### AgentSpy: Making AI Agent Behavior Observable
+arXiv v1, 5 October 2026 ([source](https://arxiv.org/abs/2610.06001)), preprint. Records system calls and network traffic in isolation; authors report some runs passing outcome tests while doing unrelated actions, and detection of four of five attack categories with no false positives across 50 runs (author-reported; coverage not established). Supports independent audit evidence ([[agent-standards-and-interoperability]]).
+
+### AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy
+arXiv v1, 5 October 2026 ([source](https://arxiv.org/abs/2610.06454)), preprint. MCP-based workflows; trajectory metrics for unnecessary personal-information access beyond final-answer leakage; AgentPrivAudit monitors violations during execution. An evaluation method, not an identity standard.
+
 ## Open questions (needs verification)
 
 - Whether any of these papers or drafts has been peer-reviewed, formally adopted, or cited in the policy sources tracked elsewhere in this wiki is not established and needs verification.
 - Whether the convergence between the ASD's harness-level guidance and the "Beyond Agent Harnesses" paper reflects shared influence, independent discovery, or coincidence is not established.
 - Whether the WIMSE AIMS draft and the Agent Authority Transition Receipts draft are intended to compose with each other, or represent competing approaches to the same evidentiary problem, is not addressed in the source and needs verification.
+- Whether the Hasbini & Seow evidence model, the Google contextual-policy agenda and external monitors such as AgentSpy would compose in practice is not established (2026-10-12).
+- Whether the Tikhonov and Frontiers proposals have any government uptake is not established; neither is peer reviewed as an adopted framework.
 - Whether the new Agent Identity Registry System series (2026-09-28) is meant to compose with, or compete against, the WIMSE AIMS working-group draft is not established in current sources.
 
 ## Related pages
@@ -89,3 +113,5 @@ This study defines an "authorship hazard" in agentic dataspaces: if an agent can
 - [[2026-09-21-ai-agent-identity-news]]
 - [[2026-09-28-ai-agent-identity-news]]
 - [[united-states-ai-agent-policy]]
+- [[2026-10-12-ai-agent-identity-news]]
+- [[estonia-ai-agent-id]]

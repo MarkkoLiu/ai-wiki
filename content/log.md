@@ -4,6 +4,60 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-13
+
+**Source ingested**: `raw/2026-10-13-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-13-ai-agent-identity-news.md` — dated digest; no new sources in any section; Tuesday, no research.
+
+**Pages updated**:
+- `wiki/index.md` — digest line added.
+
+**Contradictions found**: none.
+
+**Not modified**: nothing in `raw/`.
+
+## 2026-10-12
+
+**Source ingested**: `raw/2026-10-12-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-12-ai-agent-identity-news.md` — dated digest (Monday, with research).
+
+**Pages updated**:
+- `wiki/united-states-ai-agent-policy.md` — Anthropic unintended-actions disclosure and White House response.
+- `wiki/agent-standards-and-interoperability.md` — Poppy draft protocol.
+- `wiki/agent-authorization-and-delegation.md` — 2026-10-12 section.
+- `wiki/research.md` — new 2026-10-12 section with six items; open questions extended.
+- `wiki/estonia-ai-agent-id.md` — no-change note, Tikhonov paper cross-reference.
+- `wiki/index.md` — digest line and extended descriptions.
+
+**Contradictions found**: none. Flagged for verification: the report's reference to a 6 October Poppy launch announcement is not in earlier wiki digests.
+
+**Not modified**: nothing in `raw/`.
+
+## 2026-10-09 (ingest of 2026-10-07, 2026-10-08 and 2026-10-09)
+
+**Sources ingested**: `raw/2026-10-07-ai-agent-identity-news.md`, `raw/2026-10-08-ai-agent-identity-news.md`, `raw/2026-10-09-ai-agent-identity-news.md` (processed in date order).
+
+**Pages created**:
+- `wiki/2026-10-07-ai-agent-identity-news.md` — no new sources; Wednesday, no research.
+- `wiki/2026-10-08-ai-agent-identity-news.md` — UK ICO agentic-AI call for evidence and enquiries; Thursday, no research.
+- `wiki/2026-10-09-ai-agent-identity-news.md` — same ICO consultation with Citizen Space/MLex corroboration; Friday, no research.
+
+**Pages updated**:
+- `wiki/united-kingdom-ai-agent-policy.md` — added ICO call-for-evidence section (recorded once across the 8 and 9 October reports).
+- `wiki/agent-authorization-and-delegation.md` — added 2026-10-08 section and related links.
+- `wiki/2026-10-06-ai-agent-identity-news.md` — added a later-update note that the ICO consultation was confirmed on 8 October.
+- `wiki/index.md` — added three digest lines; extended UK description.
+
+**Not changed**: `estonia-ai-agent-id.md` and all other country/concept/research pages — no Estonia development in any of the three reports; no Monday research section.
+
+**Contradictions found**: none. One refinement: the ICO consultation, previously "publication date not established" (6 October), is now confirmed published and open on 8 October. The 8 and 9 October reports cover the same story and were deduplicated into one entry. Needing verification: RSA Agent ID announcement (no link given in any report); and the 7 October Cantwell proposal, 7 October MAS final guidelines, 6 October Nigerian CERT advisory, 5 October NYC hearing, 5 October Estonian legal commentary — named in the 9 October report as pre-window and not recorded in the wiki for lack of detail or links.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-06
 
 **Source ingested**: `raw/2026-10-06-ai-agent-identity-news.md`

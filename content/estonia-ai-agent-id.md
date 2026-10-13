@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes to AI agents. Following a public correction on 2026-09-08, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-12
 
 ---
 
@@ -72,6 +72,10 @@ Estonia remains the most concrete national programme identified for [[ai-agent-i
 
 This entry is also a caution about source quality — a widely repeated international story rested on a framing the originating project later called a communications tactic.
 
+## 2026-10-12: no new development
+
+No new Estonian government source was found. The Tikhonov *Agentic State* working paper (5 October, not peer reviewed) discusses Estonia comparatively but is not an Estonian decision; see [[research]] (source: 2026-10-12-ai-agent-identity-news.md, citing [Agentic State Institute](https://agenticstate.institute/en/research/research-programme/capability-and-counter-power)). The 2026-09-08 position (no personal identification codes for agents) stands.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -82,3 +86,4 @@ This entry is also a caution about source quality — a widely repeated internat
 - [[2026-09-07-ai-agent-identity-news]]
 - [[2026-09-08-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
+- [[2026-10-12-ai-agent-identity-news]]

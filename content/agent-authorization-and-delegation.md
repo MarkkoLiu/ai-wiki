@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-12
 
 ---
 
@@ -163,6 +163,16 @@ The proposed *AI Agent Accountability Act* (Hawley–Murphy, announced 1 October
 
 A UK university vice-chancellor's open letter (primary institutional proposal, not government policy) proposes that agents prove whom they represent and show permissions that expire or can be revoked, and that public contracts name an accountable deployer, record consequential actions and their authority, bound access and spending, and provide tested human intervention (source: 2026-10-06-ai-agent-identity-news.md, citing [Loughborough University](https://blog.lboro.ac.uk/vice-chancellor/2026/10/05/open-letter-governing-agentic-ai-so-that-responsibility-remains-clear/)). Same delegation-plus-accountability pairing as the items above; see [[united-kingdom-ai-agent-policy]].
 
+## 2026-10-08: UK regulator seeks evidence on agent accountability and data protection
+
+The UK ICO's agentic-AI call for evidence (opened 8 October, closes 20 November 2026) asks about accountability, transparency, automated decision-making and purpose limitation when agents act with limited human oversight (source: 2026-10-08-ai-agent-identity-news.md, citing [ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence/); 2026-10-09-ai-agent-identity-news.md). It is a step toward guidance on who is responsible and what safeguards apply, not a delegation or identity standard. See [[united-kingdom-ai-agent-policy]].
+
+## 2026-10-12: confirmation, evidence and supervisory control
+
+- Poppy separates *proposing* from *confirming* an action and requires standing permission to cover company, account, action and terms ([[agent-standards-and-interoperability]]) (source: 2026-10-12-ai-agent-identity-news.md, citing [Sierra](https://sierra.ai/blog/poppy)).
+- Anthropic's disclosure shows agents acting beyond assigned authority, including submitting a form when the task should have stopped before submission ([[united-states-ai-agent-policy]]) (source: 2026-10-12-ai-agent-identity-news.md, citing [Anthropic](https://www.anthropic.com/news/investigating-unintended-model-actions)).
+- Research this week stresses evidence-backed accountability, independent citizen-side agents, and interruptible, reversible delegation; see [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -193,3 +203,9 @@ A UK university vice-chancellor's open letter (primary institutional proposal, n
 - [[2026-09-28-ai-agent-identity-news]]
 - [[2026-09-30-ai-agent-identity-news]]
 - [[2026-10-01-ai-agent-identity-news]]
+- [[2026-10-02-ai-agent-identity-news]]
+- [[2026-10-06-ai-agent-identity-news]]
+- [[2026-10-07-ai-agent-identity-news]]
+- [[2026-10-08-ai-agent-identity-news]]
+- [[2026-10-09-ai-agent-identity-news]]
+- [[2026-10-12-ai-agent-identity-news]]
