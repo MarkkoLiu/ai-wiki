@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-12
+**Last updated**: 2026-10-19
 
 ---
 
@@ -88,6 +88,10 @@ The Loughborough vice-chancellor's open letter (proposal only; names no specific
 ## 2026-10-12: Poppy (Personal Agent Protocol) draft
 
 Sierra's Draft 0.1 Personal Agent Protocol lets a business recognise a personal agent and its customer, with customer delegation and business-defined permitted actions; its operations extension separates proposing from confirming an action, requires standing permission to cover company/account/action/terms, bars company-generated text from counting as user approval, and uses operation identifiers against duplicate execution (source: 2026-10-12-ai-agent-identity-news.md, citing [Sierra](https://sierra.ai/blog/poppy), [spec](https://personalagentprotocol.org/docs/spec), [operations extension](https://personalagentprotocol.org/docs/extensions/operations); primary, industry draft — not an adopted government or IETF standard). Limit noted by the report: confirmation records the agent's assertion of approval, not independent proof the human approved. Whether Poppy composes with the IETF AAE/receipt drafts is not addressed — needs verification.
+
+## 2026-10-16: Proof x401 rollout details
+
+Proof published rollout details for **x401**: an agent identity wallet and HTTP challenge flow in which a service requests verified identity attributes and a signature on transaction terms, the person approves on their device, and the service verifies the credential, signature and terms and can retain the evidence. The protocol was first published in June and a first production implementation announced in September. It remains a **vendor protocol in active development**, not a government or IETF standard; legal-effect claims are the vendor's (source: 2026-10-16-ai-agent-identity-news.md, citing [Proof — x401 launch](https://www.proof.com/blog/proof-launches-x401-giving-ai-agents-a-way-to-prove-who-they-represent---and-what-theyre-authorized-to-do) and [x401 spec 0.1.0](https://x401.proof.com/spec/0.1.0/)). It ties the represented person to approval of a specific action, complementing the delegation-envelope drafts above and [[agent-authorization-and-delegation]].
 
 ## Related pages
 

@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-19 (ingest of 2026-10-16, 2026-10-18 and 2026-10-19)
+
+**Sources ingested**: `raw/2026-10-16-ai-agent-identity-news.md`, `raw/2026-10-18-ai-agent-identity-news.md`, `raw/2026-10-19-ai-agent-identity-news.md` (none previously logged; processed in date order). The 10-16 and 10-18 reports overlap heavily (RIA, CERT-In, HKMA, FSB); the shared stories are recorded once on topic pages.
+
+**Pages created**:
+- `wiki/2026-10-16-ai-agent-identity-news.md`, `wiki/2026-10-18-ai-agent-identity-news.md`, `wiki/2026-10-19-ai-agent-identity-news.md` — dated digests.
+- `wiki/india-ai-agent-policy.md` — new country page (CERT-In CIAD-2026-0049).
+
+**Pages updated**:
+- `wiki/estonia-ai-agent-id.md` — RIA Aruait service-side update; planned trust registry status unconfirmed; ERR Tikerpe commentary; tension table.
+- `wiki/agent-authorization-and-delegation.md` — India, FSB, HKMA, RIA, research cross-reference.
+- `wiki/agent-standards-and-interoperability.md` — Proof x401 rollout.
+- `wiki/china-ai-agent-policy.md` — Hong Kong HKMA ART framework section.
+- `wiki/research.md` — 2026-10-19 section with three items.
+- `wiki/index.md` — three digest lines, India page, extended descriptions.
+
+**Contradictions found**: no factual reversal. One **tension flagged, not resolved as a reversal**: ERR's 15 Oct opinion headline refers to a bill "giving AI agents ID codes", versus the 2026-09-08 position (no personal identification codes for agents). Resolved provisionally in favour of 2026-09-08 (later primary RIA page, 15 Oct, still describes delegation not codes; commentary is secondary opinion; bill text not retrieved). Needs verification. Minor: HKMA framework spelled "Resilience" (10-16) vs "Resiliency" (10-18); CERT-In/HKMA/FSB placement inside the 10-16 window unconfirmed (no publication hours). No earlier digests needed correction notes.
+
+**Not modified**: nothing in `raw/`.
+
 ## 2026-10-13
 
 **Source ingested**: `raw/2026-10-13-ai-agent-identity-news.md`

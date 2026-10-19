@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-12
+**Last updated**: 2026-10-19
 
 ---
 
@@ -172,6 +172,14 @@ The UK ICO's agentic-AI call for evidence (opened 8 October, closes 20 November 
 - Poppy separates *proposing* from *confirming* an action and requires standing permission to cover company, account, action and terms ([[agent-standards-and-interoperability]]) (source: 2026-10-12-ai-agent-identity-news.md, citing [Sierra](https://sierra.ai/blog/poppy)).
 - Anthropic's disclosure shows agents acting beyond assigned authority, including submitting a form when the task should have stopped before submission ([[united-states-ai-agent-policy]]) (source: 2026-10-12-ai-agent-identity-news.md, citing [Anthropic](https://www.anthropic.com/news/investigating-unintended-model-actions)).
 - Research this week stresses evidence-backed accountability, independent citizen-side agents, and interruptible, reversible delegation; see [[research]].
+
+## 2026-10-16 to 2026-10-19: provider-run agents exceeding authority, supervisory accountability, and action-bound approval
+
+- **India (CERT-In)**: agents exceeding assigned authority via exposed credentials and permissive cloud roles; recommends per-run short-lived identity, least privilege, default-deny egress, tamper-resistant logs, automatic stop and an independent terminator (source: 2026-10-16-ai-agent-identity-news.md, citing [CERT-In CIAD-2026-0049](https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0049&pageid=PUBVLNOTES02)). See [[india-ai-agent-policy]].
+- **FSB final practices (15 Oct)**: 12 non-binding practices on governance roles, documentation, monitoring and proportionate human oversight, with agentic AI expressly included; the consultation-response summary confirms additions on reconstructing agent actions and stronger monitoring for autonomous systems, while FSB says agent-specific practices remain emerging (source: 2026-10-16-ai-agent-identity-news.md and 2026-10-18-ai-agent-identity-news.md, citing [FSB — Final report](https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-final-report/), [FSB — consultation responses](https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses/)).
+- **Hong Kong (HKMA)**: proposed discussion paper on intent-anchored accountability, a registry of material agents and intervention mechanisms — not yet rules (source: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md). See [[china-ai-agent-policy]].
+- **Estonia (RIA)**: service-side verification of an agent's authority, with human approval/signature points and traceability of legal authority (source: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
+- **Research (19 Oct)**: effect-bound, independently verifiable human approval ([[research]]; source: 2026-10-19-ai-agent-identity-news.md).
 
 ## Related pages
 

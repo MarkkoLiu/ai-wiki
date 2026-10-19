@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes to AI agents. Following a public correction on 2026-09-08, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-12
+**Last updated**: 2026-10-19
 
 ---
 
@@ -75,6 +75,22 @@ This entry is also a caution about source quality — a widely repeated internat
 ## 2026-10-12: no new development
 
 No new Estonian government source was found. The Tikhonov *Agentic State* working paper (5 October, not peer reviewed) discusses Estonia comparatively but is not an Estonian decision; see [[research]] (source: 2026-10-12-ai-agent-identity-news.md, citing [Agentic State Institute](https://agenticstate.institute/en/research/research-programme/capability-and-counter-power)). The 2026-09-08 position (no personal identification codes for agents) stands.
+
+## 2026-10-16 / 2026-10-18: RIA's Aruait update and a legal critique of the digital-identity bill
+
+**RIA update (primary).** RIA's Aruait page, updated 15 October, separates Eesti.ai's *user-side* delegation work (how a person grants authority) from Aruait's *service-side* checks (whom an agent represents, what it may do, when a human must approve or sign, how actions and their legal authority stay traceable). Stated principles: limited rights, revocation that prevents further actions, data minimisation, named human or organisational responsibility, error correction. The outputs include evaluating existing trust and interoperability solutions and testing a full service process. RIA's page describes work in preparation, not an enacted law or a decision to give agents personal identification codes (source: 2026-10-16-ai-agent-identity-news.md and 2026-10-18-ai-agent-identity-news.md, citing [RIA — Aruait](https://ria.ee/riigi-infosusteem/tehisaru/aruait)).
+
+**Adds to the earlier Aruait description.** The planned "public AI-assistant trust registry" and Identity 2.0 framework above came from the 2026-08-28 English page. The current Estonian wording does not confirm or cancel the registry, and says the market-consultation date is undecided (source: 2026-10-18-ai-agent-identity-news.md). Treat the registry as *planned, status unconfirmed*.
+
+**ERR legal commentary (secondary opinion, 15 Oct).** Attorney Sten Tikerpe writes that the Ministry of Economic Affairs and Communications is seeking interministerial coordination on a digital-identity bill by 22 October and argues the draft leaves the identity's meaning, legal effects, costs and safeguards too vague; he recommends withholding approval. These are the author's views, not an official decision; the government draft could not be retrieved, so the deadline is **unverified** (source: 2026-10-18-ai-agent-identity-news.md, citing [ERR — Sten Tikerpe](https://www.err.ee/1610166907/sten-tikerpe-ti-agentidele-isikukoodide-andmise-eelnou-on-taiesti-toores)).
+
+### Tension with the 2026-09-08 position (flagged, not a reversal)
+
+| | 2026-09-08 position (ERR news, RIA) | 2026-10-15 ERR opinion headline |
+|---|---|---|
+| Do agents get ID codes? | No — no personal identification codes for agents | Headline refers to a bill "giving AI agents ID codes" |
+
+**Resolution**: the 2026-09-08 position stands. The 15 October RIA page (primary, later than the September account) still describes delegation and service-side verification, not codes issued to agents; the Tikerpe piece is secondary opinion whose headline framing may echo the June "ID code" shorthand that the project itself called a communications tactic. The bill's text was not available, so whether the draft contains any agent identifier is **needs verification**. What is invalidated: nothing yet. What still stands: the whole September correction. If the draft or later primary reporting shows agents receive identifiers, this page must be revised with the earlier position kept as history (source: 2026-10-18-ai-agent-identity-news.md).
 
 ## Related pages
 

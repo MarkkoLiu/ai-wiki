@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-12
+**Last updated**: 2026-10-19
 
 ---
 
@@ -102,6 +102,20 @@ arXiv v1, 5 October 2026 ([source](https://arxiv.org/abs/2610.06454)), preprint.
 - Whether the Hasbini & Seow evidence model, the Google contextual-policy agenda and external monitors such as AgentSpy would compose in practice is not established (2026-10-12).
 - Whether the Tikhonov and Frontiers proposals have any government uptake is not established; neither is peer reviewed as an adopted framework.
 - Whether the new Agent Identity Registry System series (2026-09-28) is meant to compose with, or compete against, the WIMSE AIMS working-group draft is not established in current sources.
+
+## 2026-10-19: action-bound approval, evidence-graded maturity, and governance for general agents
+
+### Approve What, Exactly? Effect binding and trusted rendering for agent step-up authorization
+
+Kodathala, Pollishetty and Cargill audit ten agent runtimes and find no third-party-verifiable approval record, and post-approval argument changes in four of the eight runtimes where binding could be measured. Their Agent Step-Up reference gateway renders a canonical action description, obtains a passkey signature over its digest and executes only the stored call; formal analysis and scripted/AgentDojo evaluations support resistance to substitution, replay and expanded grants. Limits: no human-subjects data, approval flooding still works in some tests, and approval cannot stop actions standing policy already permits (source: 2026-10-19-ai-agent-identity-news.md, citing [Approve What, Exactly?](https://arxiv.org/abs/2610.21063), arXiv preprint, 2026-10-15, not peer reviewed). Related: [[agent-authorization-and-delegation]]; compare x401 in [[agent-standards-and-interoperability]].
+
+### AgentStripes: an evidence-graded maturity model
+
+Naik et al. propose a per-release assessment of 40 capabilities across 12 areas, grading assertions separately from demonstrations, with safety and proof gates capping the rating. An exploratory static application to 30 public Python repositories only demonstrates the procedure; the authors say it does not validate the model (not calibrated against outcomes; some ratings change on re-judging) (source: 2026-10-19-ai-agent-identity-news.md, citing [AgentStripes](https://arxiv.org/abs/2610.18603), arXiv preprint, 2026-10-13, not peer reviewed).
+
+### Risk for AI Agents
+
+Faroldi argues that sufficiently general agents undermine risk assessment built on a stable intended purpose, foreseeable misuse and tractable harm probabilities, and distinguishes formal risk monitoring for narrow deployments from a broader governance architecture (law-following, institutional interpretation of norms) for general agents. Conceptual analysis, not an EU rule or empirical result (source: 2026-10-19-ai-agent-identity-news.md, citing [Risk for AI Agents](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-for-ai-agents/391CA197A65142C15C32DC69470E98A2), *European Journal of Risk Regulation*, 2026-09-28, DOI 10.1017/err.2026.10152). Related: [[agent-authorization-and-delegation]].
 
 ## Related pages
 
