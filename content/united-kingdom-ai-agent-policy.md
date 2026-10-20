@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-09
+**Last updated**: 2026-10-20
 
 ---
 
@@ -43,6 +43,10 @@ The ICO also confirmed recent enquiries with OpenAI, Anthropic, Meta and the UK 
 
 **Refinement, not contradiction**: the 6 October report listed this consultation only as forthcoming with an unverified publication date ([[2026-10-06-ai-agent-identity-news]]); the 8 and 9 October reports confirm it opened on 8 October. The 8 and 9 October reports describe the same consultation; the wiki records it once. See [[agent-authorization-and-delegation]], [[2026-10-08-ai-agent-identity-news]], [[2026-10-09-ai-agent-identity-news]].
 
+## FCA: agent identity and delegated authority in finance (2026-10-19)
+
+On 19 October 2026 the Financial Conduct Authority published a policy speech ([FCA — Building the future of finance in the age of AI](https://www.fca.org.uk/news/speeches/building-future-finance-age-ai), draft) and a supervisory good/poor-practice page ([FCA — AI in financial services: good practice and areas for improvement](https://www.fca.org.uk/publications/good-poor-practice/ai-financial-services)), both primary (source: 2026-10-20-ai-agent-identity-news.md). The FCA says it will work with industry, other regulators and frontier laboratories on a framework for agentic finance covering **agent identity, delegated authority, accountability and execution**, with continuing assurance as agents change. The practice examples emphasise senior accountability, human oversight, escalation and monitoring, and create no new requirements. The framework is future work; no identity standard has been set. Publication hour is not given, so placement relative to the previous report's cutoff is unconfirmed. Unlike the incident-driven Cabinet Office response above, this is a regulator linking agent identity to authority to transact and responsibility for outcomes. No contradiction with earlier content. See [[2026-10-20-ai-agent-identity-news]], [[agent-authorization-and-delegation]].
+
 ## Related pages
 
 
@@ -56,3 +60,4 @@ The ICO also confirmed recent enquiries with OpenAI, Anthropic, Meta and the UK 
 - [[2026-10-06-ai-agent-identity-news]]
 - [[2026-10-08-ai-agent-identity-news]]
 - [[2026-10-09-ai-agent-identity-news]]
+- [[2026-10-20-ai-agent-identity-news]]

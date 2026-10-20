@@ -4,6 +4,22 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-20
+
+**Source ingested**: `raw/2026-10-20-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-20-ai-agent-identity-news.md` — dated digest; Estonia: no new sources; one UK item; no research (Tuesday).
+
+**Pages updated**:
+- `wiki/united-kingdom-ai-agent-policy.md` — FCA agentic-finance section.
+- `wiki/agent-authorization-and-delegation.md` — 2026-10-20 section.
+- `wiki/index.md` — digest line, extended UK description.
+
+**Contradictions found**: none. Note: FCA publication hour unconfirmed relative to the prior cutoff.
+
+**Not modified**: nothing in `raw/`.
+
 ## 2026-10-19 (ingest of 2026-10-16, 2026-10-18 and 2026-10-19)
 
 **Sources ingested**: `raw/2026-10-16-ai-agent-identity-news.md`, `raw/2026-10-18-ai-agent-identity-news.md`, `raw/2026-10-19-ai-agent-identity-news.md` (none previously logged; processed in date order). The 10-16 and 10-18 reports overlap heavily (RIA, CERT-In, HKMA, FSB); the shared stories are recorded once on topic pages.

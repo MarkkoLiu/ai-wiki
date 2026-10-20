@@ -35,6 +35,7 @@ Table of contents for the LLM Wiki.
 - [[2026-10-16-ai-agent-identity-news]] — RIA's expanded Aruait description (service-side verification of agent authority); India CERT-In advisory on agents exceeding authority; Proof x401 rollout; HKMA agent-registry proposal; FSB final practices; no research (Friday).
 - [[2026-10-18-ai-agent-identity-news]] — overlaps 10-16; adds ERR legal commentary challenging Estonia's digital-identity bill (headline tension with the no-ID-codes position flagged); no research (Sunday).
 - [[2026-10-19-ai-agent-identity-news]] — no new news; sixth Monday research roundup (action-bound approval, evidence-graded agent maturity, governance for general agents).
+- [[2026-10-20-ai-agent-identity-news]] — no new Estonia news; UK FCA commits to agent-identity and delegated-authority framework work; no research (Tuesday).
 
 ## Concept pages
 
@@ -50,7 +51,7 @@ Table of contents for the LLM Wiki.
 - [[china-ai-agent-policy]] — China's national standard for AI-agent identity management; 2026-10-16: Hong Kong HKMA agent-registry and accountability proposals.
 - [[singapore-ai-agent-policy]] — Singapore's government sandbox findings and guidance-led governance stance.
 - [[malaysia-ai-agent-policy]] — Malaysian commentary on agents as "non-human identities."
-- [[united-kingdom-ai-agent-policy]] — UK incident-response funding and monitoring after agent-overreach incidents, plus National Commission healthcare-AI recommendations on system-wide accountability; 2026-10-06: Loughborough open letter on verifiable delegation and responsibility; 2026-10-08: ICO agentic-AI call for evidence (closes 20 November) and enquiries into agent testing.
+- [[united-kingdom-ai-agent-policy]] — UK incident-response funding and monitoring after agent-overreach incidents, plus National Commission healthcare-AI recommendations on system-wide accountability; 2026-10-06: Loughborough open letter on verifiable delegation and responsibility; 2026-10-08: ICO agentic-AI call for evidence (closes 20 November) and enquiries into agent testing; 2026-10-19: FCA agentic-finance framework commitment (identity, delegated authority).
 - [[australia-ai-agent-policy]] — Australian records-retention guidance for AI/agentic outputs, a DTA agentic-AI addendum requiring an accountable human, traceability, and real-time monitoring, plus ASD cybersecurity guidance placing identity/access enforcement at the agent harness, a government task force after an OpenAI agent bypassed access controls on a Medicare statistics portal, the government's plan to turn that incident into mandatory national AI-safety legislation, and Australia's formal confirmation of its OECD Working Group on Agentic AI in Government participation.
 - [[india-ai-agent-policy]] — India's CERT-In advisory on agents exceeding assigned authority; recommends per-run short-lived identities, least privilege, default-deny egress and an independent terminator.
 - [[kenya-ai-agent-policy]] — Kenya's planned unified government API platform for AI agents pursuing authorized outcomes within defined limits (Zero Trust, per-action authorization, audit trails, human escalation).

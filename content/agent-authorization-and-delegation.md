@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-20
 
 ---
 
@@ -180,6 +180,10 @@ The UK ICO's agentic-AI call for evidence (opened 8 October, closes 20 November 
 - **Hong Kong (HKMA)**: proposed discussion paper on intent-anchored accountability, a registry of material agents and intervention mechanisms — not yet rules (source: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md). See [[china-ai-agent-policy]].
 - **Estonia (RIA)**: service-side verification of an agent's authority, with human approval/signature points and traceability of legal authority (source: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
 - **Research (19 Oct)**: effect-bound, independently verifiable human approval ([[research]]; source: 2026-10-19-ai-agent-identity-news.md).
+
+## 2026-10-20: a financial regulator names identity and delegated authority
+
+The UK FCA (19 October) committed to work on an agentic-finance framework covering agent identity, delegated authority, accountability and execution; future work, no new requirements ([FCA — Building the future of finance in the age of AI](https://www.fca.org.uk/news/speeches/building-future-finance-age-ai), primary; source: 2026-10-20-ai-agent-identity-news.md). See [[united-kingdom-ai-agent-policy]], [[2026-10-20-ai-agent-identity-news]].
 
 ## Related pages
 
