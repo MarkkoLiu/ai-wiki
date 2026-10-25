@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-25
 
 ---
 
@@ -93,6 +93,11 @@ Sierra's Draft 0.1 Personal Agent Protocol lets a business recognise a personal 
 
 Proof published rollout details for **x401**: an agent identity wallet and HTTP challenge flow in which a service requests verified identity attributes and a signature on transaction terms, the person approves on their device, and the service verifies the credential, signature and terms and can retain the evidence. The protocol was first published in June and a first production implementation announced in September. It remains a **vendor protocol in active development**, not a government or IETF standard; legal-effect claims are the vendor's (source: 2026-10-16-ai-agent-identity-news.md, citing [Proof — x401 launch](https://www.proof.com/blog/proof-launches-x401-giving-ai-agents-a-way-to-prove-who-they-represent---and-what-theyre-authorized-to-do) and [x401 spec 0.1.0](https://x401.proof.com/spec/0.1.0/)). It ties the represented person to approval of a specific action, complementing the delegation-envelope drafts above and [[agent-authorization-and-delegation]].
 
+## 2026-10-21: agent URI scheme, revision 04 (individual draft)
+
+[The agent URI Scheme and Verifiable Agent Identity, revision 04](https://datatracker.ietf.org/doc/html/draft-narvaneni-agent-uri-04) (independent authors Yaswanth Narvaneni and Sai Purnima Ravi; IETF Datatracker, 20 October 2026; primary technical proposal). A stable agent URI maps to an identity document served over HTTPS and ties agent keys to a web origin or DID; profiles cover signed HTTP requests and short-lived instances using WIMSE workload credentials. It separates proof of key control from claims about the operator and from authorization to act — another instance of the identity/authorization layering described above. **Individual Internet-Draft, not an adopted or endorsed IETF standard**; publication hour unverified (source: 2026-10-21-ai-agent-identity-news.md).
+
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -113,3 +118,4 @@ Proof published rollout details for **x401**: an agent identity wallet and HTTP 
 - [[united-kingdom-ai-agent-policy]]
 - [[research]]
 - [[2026-10-12-ai-agent-identity-news]]
+- [[2026-10-21-ai-agent-identity-news]]

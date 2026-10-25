@@ -1,16 +1,18 @@
 # Estonia's AI Agent ID Proposal
 
-**Summary**: Estonia will **not** issue personal identification codes to AI agents. Following a public correction on 2026-09-08, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
+**Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-25
 
 ---
 
+> **Revision (2026-10-25)**: A Ministry of Economic Affairs and Communications FAQ (updated 23 October) describes an *agendikood* distinct from the *isikukood*. The 2026-09-08 position below still stands as to personal identification codes, but is no longer the full picture; the superseded reading is retained under "Historical" below.
+
 > **Correction (2026-09-08)**: This page previously led with the June 2026 "AI personal identification code" framing. That framing has been publicly withdrawn by the project itself. The current position is below; the superseded account is preserved further down for history.
 
-## Current position (as of 2026-09-08)
+## Position of 2026-09-08 (partly revised 2026-10-25 — see below)
 
 ERR reports that Estonia will not issue personal identification codes directly to AI agents. Agents would instead be able to act on a person's behalf in government portals, with responsibility staying with the human. The Aruait project's actual focus is legal questions, information security, data protection, authentication, revocable authorization, and zero-trust controls (source: 2026-09-08-ai-agent-identity-news.md, citing [ERR News in English](https://news.err.ee/1610132113/ai-agents-will-not-get-estonian-id-codes-and-responsibility-will-stay-with-humans) and [ERR Novaator in Estonian](https://novaator.err.ee/1610131744/tehisaruagendid-eesti-isikukoodi-siiski-ei-saa-ja-vastutus-jaab-inimestele)).
 
@@ -66,6 +68,29 @@ The article frames Estonia's digital-government direction as an **explicit-deleg
 
 This is the first explicitly **multilateral** body this wiki has recorded Estonia participating in, distinct from the 2026-09-18 ITU/World Bank TIDA focus group ([[agent-standards-and-interoperability]]), which no source has reported Estonia joining. No new Estonia-origin source matching *tehisaru* / *isikukood* with *agendid*, *assistendid*, or *aruait* was found; this item is included as a newly published Estonia-related governance development with direct Estonian government participation. Whether the OECD group and the ITU/World Bank TIDA group coordinate or work independently **needs verification**.
 
+## 2026-10-25: Ministry FAQ describes an agent code (agendikood) — partial revision
+
+**New primary source.** The Ministry of Economic Affairs and Communications FAQ [MKM — AI agendikood](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood) (last updated 23 October 2026; original date and passage history unavailable) describes an agent code linked to a person and distinct from the person's isikukood. The code alone grants no permissions; user and service provider each impose limits and the strictest applies; ending registration invalidates authorizations granted through it. The proposed registry holds the user's name, personal identification code and agent code (not task histories or the AI product used), kept ten years after registration ends. Users generally answer for their use and permission grants; software defects, fraud or provider errors are assessed under existing law. The legal and technical solution is still in development with no firm launch date — a project explanation, not an enacted law or live registry (source: 2026-10-25-ai-agent-identity-news.md).
+
+### Contradiction table
+
+| | 2026-09-08 reading (ERR, RIA; project lead) | 2026-10-23 MKM FAQ |
+|---|---|---|
+| Agent receives a personal identification code (isikukood)? | No | No — agent code is distinct from isikukood (**agrees**) |
+| Any agent-specific code/identifier? | Read as "no codes"; code talk called a communications tactic | **Yes** — a person-linked agendikood, recorded in a proposed registry |
+| Trust/registry planned? | RIA: AI-assistant trust registry planned; status unconfirmed by 10-16 | Proposed registry described (user name, isikukood, agent code; 10-year retention) — still proposed |
+| Where responsibility sits | With the human | Generally with the user; defects/fraud/provider error determined under existing law |
+
+**Resolution**: the MKM FAQ is preferred on the agent-code question because it is a primary source from the ministry that the 15 October ERR commentary names as drafting the bill, it is more specific, and it is later (23 Oct vs 8 Sep). It does **not** overturn the isikukood claim — both accounts agree agents do not receive personal identification codes.
+
+**What is invalidated**: the broader "no codes for agents" shorthand, including the inference that code talk was only a communications tactic; and the 2026-10-18 working assumption that no agent identifier exists. The 10-18 trigger ("if later primary reporting shows agents receive identifiers, revise") is met. **What still stands**: no isikukood for agents; delegation; revocation; human anchor; scoped, strictest-limit-applies permissions. Slightly softened: "responsibility stays with humans" now carries the stated exception for defects, fraud and provider errors.
+
+**Caveats / needs verification**: the update date does not show when each passage was added; the bill text has still not been retrieved, so whether the 22 October interministerial step led anywhere is unknown; the ERR 15 Oct headline ("bill giving AI agents ID codes", see below) is now partly consistent with an agendikood, but it may loosely call that an "ID code".
+
+### Historical: the 2026-09-08 "no codes" framing, as recorded until 2026-10-24
+
+Until this update the wiki treated the position as "Estonia will not issue personal identification codes to AI agents; the project lead called the code framing a communications tactic," and on 2026-10-18 resolved the ERR-headline tension in favour of that position pending bill text. That text is kept above and below unchanged; only its scope is narrowed.
+
 ## Why it matters
 
 Estonia remains the most concrete national programme identified for [[ai-agent-identity]], and it now demonstrates the [[agent-authorization-and-delegation|scoped-permission model]] in a stronger form than the original headline: authority is delegated and revocable, and the agent never becomes a legal person. Compare [[united-states-ai-agent-policy]] and [[china-ai-agent-policy]].
@@ -90,7 +115,7 @@ No new Estonian government source was found. The Tikhonov *Agentic State* workin
 |---|---|---|
 | Do agents get ID codes? | No — no personal identification codes for agents | Headline refers to a bill "giving AI agents ID codes" |
 
-**Resolution**: the 2026-09-08 position stands. The 15 October RIA page (primary, later than the September account) still describes delegation and service-side verification, not codes issued to agents; the Tikerpe piece is secondary opinion whose headline framing may echo the June "ID code" shorthand that the project itself called a communications tactic. The bill's text was not available, so whether the draft contains any agent identifier is **needs verification**. What is invalidated: nothing yet. What still stands: the whole September correction. If the draft or later primary reporting shows agents receive identifiers, this page must be revised with the earlier position kept as history (source: 2026-10-18-ai-agent-identity-news.md).
+**Resolution**: the 2026-09-08 position stands. The 15 October RIA page (primary, later than the September account) still describes delegation and service-side verification, not codes issued to agents; the Tikerpe piece is secondary opinion whose headline framing may echo the June "ID code" shorthand that the project itself called a communications tactic. The bill's text was not available, so whether the draft contains any agent identifier is **needs verification**. What is invalidated: nothing yet (**update 2026-10-25: partly invalidated — see the MKM FAQ section above**). What still stands: the whole September correction. If the draft or later primary reporting shows agents receive identifiers, this page must be revised with the earlier position kept as history (source: 2026-10-18-ai-agent-identity-news.md).
 
 ## Related pages
 
@@ -103,3 +128,7 @@ No new Estonian government source was found. The Tikhonov *Agentic State* workin
 - [[2026-09-08-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
 - [[2026-10-12-ai-agent-identity-news]]
+- [[2026-10-18-ai-agent-identity-news]]
+- [[2026-10-21-ai-agent-identity-news]]
+- [[2026-10-25-ai-agent-identity-news]]
+- [[japan-ai-agent-policy]]

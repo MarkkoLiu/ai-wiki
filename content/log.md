@@ -4,6 +4,26 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-25 (ingest of 2026-10-21 and 2026-10-25)
+
+**Sources ingested**: `raw/2026-10-21-ai-agent-identity-news.md` (prepared retrospectively on 25 Oct), `raw/2026-10-25-ai-agent-identity-news.md` (neither previously logged; processed in date order).
+
+**Pages created**:
+- `wiki/2026-10-21-ai-agent-identity-news.md`, `wiki/2026-10-25-ai-agent-identity-news.md` — dated digests.
+- `wiki/japan-ai-agent-policy.md` — new country page (Digital Agency council, 22 Oct).
+
+**Pages updated**:
+- `wiki/estonia-ai-agent-id.md` — MKM agendikood FAQ section, contradiction table, resolution, historical note; summary/banner revised.
+- `wiki/united-states-ai-agent-policy.md` — NJ A5711, Virginia ED 6, OpenAI monitoring disclosure, bank restrictions.
+- `wiki/agent-standards-and-interoperability.md` — agent URI draft-04.
+- `wiki/agent-authorization-and-delegation.md` — 2026-10-21/25 section.
+- `wiki/2026-09-08-ai-agent-identity-news.md`, `wiki/2026-10-18-ai-agent-identity-news.md` — correction notes appended.
+- `wiki/index.md` — two digests, Japan page, extended descriptions.
+
+**Contradictions found**: **one, resolved in part.** The 2026-10-25 report's MKM FAQ (primary, updated 23 Oct) describes a person-linked agent code (agendikood) distinct from isikukood and a proposed registry. Resolved in favour of MKM on the agent-code question (primary, later, more specific, from the ministry behind the bill). Invalidated: the broad "no codes for agents" reading / "communications tactic" inference and the 10-18 working assumption. Still standing: no isikukood for agents, delegation, revocation, human anchor. Caveats: passage-level dates unknown; bill text still unretrieved; registry still proposed. Minor: publication hours unavailable for the agent-URI draft and OpenAI disclosure relative to the 20 Oct cutoff.
+
+**Not modified**: nothing in `raw/`.
+
 ## 2026-10-20
 
 **Source ingested**: `raw/2026-10-20-ai-agent-identity-news.md`

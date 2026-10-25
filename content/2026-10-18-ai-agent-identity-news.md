@@ -33,6 +33,11 @@ Not applicable: Sunday, research reserved for Monday (source: 2026-10-18-ai-agen
 
 No contradiction with earlier factual claims. One tension flagged on the ERR commentary headline vs the 2026-09-08 position — see [[estonia-ai-agent-id]].
 
+## Later correction note (added 2026-10-25)
+
+The tension flagged here (ERR "ID codes" headline vs. the 2026-09-08 position) is now partly resolved: the "no personal identification codes" position remains accurate for isikukood, but a 23 October ministry FAQ (MKM) describes a separate person-linked agent code (agendikood) and proposed registry. The broader "no codes" reading is superseded. See [[estonia-ai-agent-id]] and [[2026-10-25-ai-agent-identity-news]].
+
+
 ## Related pages
 
 - [[2026-10-16-ai-agent-identity-news]]

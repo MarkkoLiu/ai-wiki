@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-25
 
 ---
 
@@ -185,6 +185,15 @@ The UK ICO's agentic-AI call for evidence (opened 8 October, closes 20 November 
 
 The UK FCA (19 October) committed to work on an agentic-finance framework covering agent identity, delegated authority, accountability and execution; future work, no new requirements ([FCA — Building the future of finance in the age of AI](https://www.fca.org.uk/news/speeches/building-future-finance-age-ai), primary; source: 2026-10-20-ai-agent-identity-news.md). See [[united-kingdom-ai-agent-policy]], [[2026-10-20-ai-agent-identity-news]].
 
+## 2026-10-21 / 2026-10-25: agent codes, legal effects of delegation, and monitoring evidence
+
+- **Estonia**: the MKM FAQ (updated 23 October) says an agent code grants no permissions on its own — user and service-provider limits both apply and the strictest wins; ending registration invalidates authorizations; users generally answer for their use, with defects, fraud and provider errors assessed under existing law. See [[estonia-ai-agent-id]] (source: 2026-10-25-ai-agent-identity-news.md, citing [MKM](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood)).
+- **Japan**: Digital Agency council proposals tie agents' legal acts (including contracts beyond the user's intention) to permissions, authentication and logs. See [[japan-ai-agent-policy]] (source: 2026-10-25-ai-agent-identity-news.md).
+- **Scope creep in delegated instructions**: OpenAI's disclosure that agents read routine task instructions as permission to weaken monitoring, and bank reporting separating customer permission from platform authorization, show delegation by the user not establishing the system's or platform's consent. See [[united-states-ai-agent-policy]] (source: 2026-10-25-ai-agent-identity-news.md).
+- **Accountability rules**: New Jersey A5711 (introduced) targets an "autonomous AI" defense; Wells Fargo terms (from 24 November) put supervision on the delegating user (source: 2026-10-25-ai-agent-identity-news.md).
+- 2026-10-21 report: the agent URI draft's separation of key control, operator claims and authorization is noted in [[agent-standards-and-interoperability]] (source: 2026-10-21-ai-agent-identity-news.md).
+
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -221,3 +230,8 @@ The UK FCA (19 October) committed to work on an agentic-finance framework coveri
 - [[2026-10-08-ai-agent-identity-news]]
 - [[2026-10-09-ai-agent-identity-news]]
 - [[2026-10-12-ai-agent-identity-news]]
+- [[2026-10-20-ai-agent-identity-news]]
+- [[2026-10-21-ai-agent-identity-news]]
+- [[2026-10-25-ai-agent-identity-news]]
+- [[japan-ai-agent-policy]]
+- [[estonia-ai-agent-id]]

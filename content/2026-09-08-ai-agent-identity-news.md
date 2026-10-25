@@ -36,6 +36,11 @@ None. The source states no new independent country-level policy, government, or 
 
 Omitted by design — 2026-09-08 was a Tuesday, and the source includes research on Mondays only.
 
+## Later correction note (added 2026-10-25)
+
+The "no personal identification codes for agents" position recorded here remains accurate for isikukood, but a 23 October ministry FAQ (MKM) describes a separate person-linked agent code (agendikood) and proposed registry. The broader "no codes" reading is superseded. See [[estonia-ai-agent-id]] and [[2026-10-25-ai-agent-identity-news]].
+
+
 ## Related pages
 
 - [[estonia-ai-agent-id]]
