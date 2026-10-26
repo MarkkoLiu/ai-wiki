@@ -4,6 +4,20 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-26
+
+**Source ingested**: `raw/2026-10-26-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-26-ai-agent-identity-news.md` — dated digest.
+- `wiki/south-korea-ai-agent-policy.md` — new country page: SK Telecom AI Governance Report (agents with employee ID numbers and human supervisors; corporate, not government).
+
+**Pages updated**: `research.md` (seven Monday research items), `agent-authorization-and-delegation.md`, `agent-standards-and-interoperability.md` (MTAC draft, W3C paper), `ai-agent-identity.md`, `united-states-ai-agent-policy.md` (METR/Redwood assessment of OpenAI monitoring), `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions found**: none. No new Estonia source; the 2026-10-25 agendikood position stands. SK Telecom's employee ID numbers are an internal corporate identifier, not in tension with the 2026-09-08 no-isikukood position.
+
+**Not modified**: nothing in `raw/` was altered. Note: the raw report states it was updated in place during its own generation; the ingested version is the one present at ingest time.
+
 ## 2026-10-25 (ingest of 2026-10-21 and 2026-10-25)
 
 **Sources ingested**: `raw/2026-10-21-ai-agent-identity-news.md` (prepared retrospectively on 25 Oct), `raw/2026-10-25-ai-agent-identity-news.md` (neither previously logged; processed in date order).

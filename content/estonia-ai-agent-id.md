@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ---
 
@@ -117,6 +117,10 @@ No new Estonian government source was found. The Tikhonov *Agentic State* workin
 
 **Resolution**: the 2026-09-08 position stands. The 15 October RIA page (primary, later than the September account) still describes delegation and service-side verification, not codes issued to agents; the Tikerpe piece is secondary opinion whose headline framing may echo the June "ID code" shorthand that the project itself called a communications tactic. The bill's text was not available, so whether the draft contains any agent identifier is **needs verification**. What is invalidated: nothing yet (**update 2026-10-25: partly invalidated — see the MKM FAQ section above**). What still stands: the whole September correction. If the draft or later primary reporting shows agents receive identifiers, this page must be revised with the earlier position kept as history (source: 2026-10-18-ai-agent-identity-news.md).
 
+## 2026-10-26: no new development
+
+The 2026-10-26 report found no new Estonia source; the MKM agendikood FAQ (updated 23 October) was not shown to have changed (source: 2026-10-26-ai-agent-identity-news.md). Position unchanged — see the 2026-10-25 correction above.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -132,3 +136,4 @@ No new Estonian government source was found. The Tikhonov *Agentic State* workin
 - [[2026-10-21-ai-agent-identity-news]]
 - [[2026-10-25-ai-agent-identity-news]]
 - [[japan-ai-agent-policy]]
+- [[2026-10-26-ai-agent-identity-news]]

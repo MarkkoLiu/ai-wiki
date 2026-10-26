@@ -38,13 +38,14 @@ Table of contents for the LLM Wiki.
 - [[2026-10-20-ai-agent-identity-news]] — no new Estonia news; UK FCA commits to agent-identity and delegated-authority framework work; no research (Tuesday).
 - [[2026-10-21-ai-agent-identity-news]] — no new Estonia news; individual IETF draft on an agent URI scheme and verifiable agent identity (rev. 04); no research (Wednesday).
 - [[2026-10-25-ai-agent-identity-news]] — **Estonia ministry FAQ describes a person-linked agent code (agendikood)**, partly revising the 2026-09-08 position; Japan Digital Agency council on agent authority/liability; New Jersey A5711; Virginia Executive Directive 6; OpenAI monitoring-weakening disclosure; US bank restrictions on third-party agents; no research (Sunday).
+- [[2026-10-26-ai-agent-identity-news]] — no new Estonia news; SK Telecom's first AI Governance Report (employee-ID-numbered agents with human supervisors); seventh Monday research roundup (OpenAI monitoring red-team, per-action authorization composition, AuthorizationBench, consent-click enforcement, MTAC draft, W3C strategy paper).
 
 ## Concept pages
 
 - [[ai-agent-identity]] — what "AI agent identity" means and its core elements.
 - [[agent-authorization-and-delegation]] — scoped permissions, least privilege, revocation, and accountability for agents.
-- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE (now including the AIMS working-group draft), SPIFFE, OAuth delegation, AAE, EMVCo, Agent Authority Transition Receipts, the ITU/World Bank TIDA focus group, the OECD Working Group on Agentic AI in Government (with Australia's 2026-09-29 national confirmation), a new individual-draft Agent Identity Registry System and governance authority, and why discovery ≠ identity; 2026-10-12: Sierra's Poppy draft Personal Agent Protocol; 2026-10-16: Proof x401 rollout; 2026-10-21: agent URI scheme individual draft (rev. 04).
-- [[research]] — academic papers and preprints on agent identity, authorization, and accountability, from Monday research roundups, now including durable-identity registries, bounded delegation tokens, adversarial personalization, and agent policy-authorship hazards.
+- [[agent-standards-and-interoperability]] — the technical layer: OWASP ACS, IETF DAWN, WIMSE (now including the AIMS working-group draft), SPIFFE, OAuth delegation, AAE, EMVCo, Agent Authority Transition Receipts, the ITU/World Bank TIDA focus group, the OECD Working Group on Agentic AI in Government (with Australia's 2026-09-29 national confirmation), a new individual-draft Agent Identity Registry System and governance authority, and why discovery ≠ identity; 2026-10-12: Sierra's Poppy draft Personal Agent Protocol; 2026-10-16: Proof x401 rollout; 2026-10-21: agent URI scheme individual draft (rev. 04); 2026-10-26: MTAC certificate draft and W3C strategy paper on agent identity/delegation gaps.
+- [[research]] — academic papers and preprints on agent identity, authorization, and accountability, from Monday research roundups (2026-10-26: monitoring coverage, authorization composition, AuthorizationBench, consent clicks), now including durable-identity registries, bounded delegation tokens, adversarial personalization, and agent policy-authorship hazards.
 
 ## Country pages
 
@@ -58,6 +59,7 @@ Table of contents for the LLM Wiki.
 - [[india-ai-agent-policy]] — India's CERT-In advisory on agents exceeding assigned authority; recommends per-run short-lived identities, least privilege, default-deny egress and an independent terminator.
 - [[japan-ai-agent-policy]] — Japan's Digital Agency council (22 October) on agents' legal acts, contracts beyond user intent, and authority/audit safeguards; proposals only.
 - [[kenya-ai-agent-policy]] — Kenya's planned unified government API platform for AI agents pursuing authorized outcomes within defined limits (Zero Trust, per-action authorization, audit trails, human escalation).
+- [[south-korea-ai-agent-policy]] — SK Telecom's AI Governance Report (26 Oct): agents with employee ID numbers and human supervisors; corporate disclosure, no Korean government policy yet covered.
 
 ## Log
 

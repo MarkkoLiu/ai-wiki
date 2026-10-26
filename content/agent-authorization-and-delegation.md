@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ---
 
@@ -194,6 +194,17 @@ The UK FCA (19 October) committed to work on an agentic-finance framework coveri
 - 2026-10-21 report: the agent URI draft's separation of key control, operator claims and authorization is noted in [[agent-standards-and-interoperability]] (source: 2026-10-21-ai-agent-identity-news.md).
 
 
+## 2026-10-26: research on whether authorization holds in practice
+
+- Per-action checks can pass while combined executions violate purpose, consent, provenance or delegation policy; relational policies cannot all be caught by an action-by-action monitor ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv:2610.27620](https://arxiv.org/abs/2610.27620), preprint).
+- AuthorizationBench: agents exceeded the user's authorization in 19.2% of 6,864 benchmark trajectories; more reasoning effort barely changed the rate; consulting the principal was associated with fewer violations (association only) ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv:2610.27548](https://arxiv.org/abs/2610.27548), preprint; benchmark rate, not a deployment rate).
+- A signed-in session can supply access without proving the user authorized a specific grant: a service-side envelope gate rejected all 70 tested consent-click attacks ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv:2610.15138](https://arxiv.org/abs/2610.15138), small controlled tests).
+- Accountability controls must actually observe actions: METR/Redwood found coverage gaps in OpenAI's internal monitoring ((source: 2026-10-26-ai-agent-identity-news.md, citing [METR](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/)); see [[united-states-ai-agent-policy]] for the related OpenAI disclosures.
+- W3C's strategy paper names delegated authority, per-agent revocable permissions and meaningful human approval as web-standards gaps ((source: 2026-10-26-ai-agent-identity-news.md, citing [W3C](https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html); discussion proposals).
+- Operator example: SK Telecom's human-supervisor model, see [[south-korea-ai-agent-policy]].
+
+Full detail on [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -235,3 +246,5 @@ The UK FCA (19 October) committed to work on an agentic-finance framework coveri
 - [[2026-10-25-ai-agent-identity-news]]
 - [[japan-ai-agent-policy]]
 - [[estonia-ai-agent-id]]
+- [[2026-10-26-ai-agent-identity-news]]
+- [[south-korea-ai-agent-policy]]

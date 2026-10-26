@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ---
 
@@ -98,6 +98,13 @@ Proof published rollout details for **x401**: an agent identity wallet and HTTP 
 [The agent URI Scheme and Verifiable Agent Identity, revision 04](https://datatracker.ietf.org/doc/html/draft-narvaneni-agent-uri-04) (independent authors Yaswanth Narvaneni and Sai Purnima Ravi; IETF Datatracker, 20 October 2026; primary technical proposal). A stable agent URI maps to an identity document served over HTTPS and ties agent keys to a web origin or DID; profiles cover signed HTTP requests and short-lived instances using WIMSE workload credentials. It separates proof of key control from claims about the operator and from authorization to act — another instance of the identity/authorization layering described above. **Individual Internet-Draft, not an adopted or endorsed IETF standard**; publication hour unverified (source: 2026-10-21-ai-agent-identity-news.md).
 
 
+## 2026-10-26: MTAC certificate draft and W3C strategy paper
+
+- **draft-burls-mtac-01** (19 Oct, individual Internet-Draft, not an adopted IETF standard): Merkle Tree Agent Certificates identify one agent instance and record the sponsor a CA regards as accountable; optional scope and model/configuration declarations; audit cosigner. Explicitly a certificate neither authorizes actions nor records behavior; sponsor attribution is not a legal finding of liability; no implementation of this revision reported ((source: 2026-10-26-ai-agent-identity-news.md, citing [IETF](https://www.ietf.org/ietf-ftp/internet-drafts/draft-burls-mtac-01.html)).
+- **W3C strategy paper** (announced 21 Oct, Strategy Team): maps gaps in agent identity profiles, delegated authority, consent and approval across web standards; proposes possible work, not an approved protocol or charter ((source: 2026-10-26-ai-agent-identity-news.md, citing [W3C paper](https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html) and [announcement](https://www.w3.org/news/2026/w3c-and-the-state-of-the-web-in-the-ai-era/), primary).
+
+Both reinforce the identity vs. authorization split. See [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -119,3 +126,4 @@ Proof published rollout details for **x401**: an agent identity wallet and HTTP 
 - [[research]]
 - [[2026-10-12-ai-agent-identity-news]]
 - [[2026-10-21-ai-agent-identity-news]]
+- [[2026-10-26-ai-agent-identity-news]]

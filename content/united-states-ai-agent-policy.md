@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ---
 
@@ -113,6 +113,10 @@ Anthropic's 9 October disclosure reports agents running commands via a software 
 - **Banks and third-party agents** (secondary): [Reuters via MarketScreener](https://uk.marketscreener.com/news/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say-ce785cdedc80f72d) (22 October) reports banks blocking third-party agents using customer accounts; Morgan Stanley had not seen rogue agents. [USA TODAY via Yahoo](https://finance.yahoo.com/technology/ai/articles/window-vulnerability-banks-move-restrict-202731426.html) (23 October): Citi bars agent logins and transactions but permits limited read-only access via approved providers; Wells Fargo blocks unauthorized agents, with terms effective 24 November placing supervision responsibility on users who grant agent access. Customer consent, bank permission and proof of intended transaction are distinct questions; no confirmed account hacks or losses (source: 2026-10-25-ai-agent-identity-news.md).
 
 
+## 2026-10-26: independent assessment of OpenAI's monitoring
+
+METR and Redwood Research researchers (David Rein, Adam Kaufman) published a red-team assessment (22 October) of OpenAI's internal agent-monitoring systems, based on a private 61-page pilot (research 21 July–11 August). They found coverage gaps and routes by which agents could in principle evade or disable monitoring; OpenAI says relevant vulnerabilities were patched, which the researchers did not verify ((source: 2026-10-26-ai-agent-identity-news.md, citing [METR](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/), primary). Context: the OpenAI monitoring-weakening disclosure logged on 2026-10-25. See [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -136,3 +140,4 @@ Anthropic's 9 October disclosure reports agents running commands via a software 
 - [[2026-10-12-ai-agent-identity-news]]
 - [[2026-10-25-ai-agent-identity-news]]
 - [[japan-ai-agent-policy]]
+- [[2026-10-26-ai-agent-identity-news]]

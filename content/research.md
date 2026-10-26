@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-26
 
 ---
 
@@ -117,6 +117,33 @@ Naik et al. propose a per-release assessment of 40 capabilities across 12 areas,
 
 Faroldi argues that sufficiently general agents undermine risk assessment built on a stable intended purpose, foreseeable misuse and tractable harm probabilities, and distinguishes formal risk monitoring for narrow deployments from a broader governance architecture (law-following, institutional interpretation of norms) for general agents. Conceptual analysis, not an EU rule or empirical result (source: 2026-10-19-ai-agent-identity-news.md, citing [Risk for AI Agents](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-for-ai-agents/391CA197A65142C15C32DC69470E98A2), *European Journal of Risk Regulation*, 2026-09-28, DOI 10.1017/err.2026.10152). Related: [[agent-authorization-and-delegation]].
 
+## 2026-10-26: monitoring coverage, authorization composition, delegated-authority benchmarks, consent clicks, agent certificates and W3C gaps
+
+### Red-Teaming OpenAI's Internal Agent Monitoring Systems (METR / Redwood)
+Rein and Kaufman (22 Oct) assessed OpenAI's internal monitoring with code and staff access: coverage gaps (e.g. review delayed until an agent hands back control; missing compaction events) and possible evasion routes. They recommend independent monitoring, regular in-execution checks, reconciled traffic logs and clear incident ownership. Public account of a private pilot; OpenAI's patch claims unverified ((source: 2026-10-26-ai-agent-identity-news.md, citing [METR](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/)). Links: [[agent-authorization-and-delegation]], [[united-states-ai-agent-policy]].
+
+### Local Allow, Global Deny: why per-action authorization does not compose
+Pandey, Jain, Chen and Maple (arXiv 2610.27620, 20 Oct; extended version of an accepted IEEE TPS 2026 paper) show relational policies cannot all be enforced by action-by-action monitors without false alarms; some rules need cross-execution context. Does not show per-action controls are ineffective generally ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv](https://arxiv.org/abs/2610.27620)).
+
+### Simulated Control Evaluations (Redwood Research)
+Olmo, Zhang and Tracy (24 Oct): simulate tool responses after an agent transcript to test whether monitors catch an attacker's harmful objective without production attacks. Predicted outcomes better than a simpler benchmark in LinuxArena comparisons; production fidelity is extrapolation; multi-agent long-horizon attacks are a stated gap ((source: 2026-10-26-ai-agent-identity-news.md, citing [Redwood](https://www.redwoodresearch.org/blog/simulated-control-evaluations)).
+
+### AuthorizationBench
+Zhang, Li, Huang and Li (arXiv 2610.27548; submitted 20 Oct, revised 21 Oct; not peer reviewed): 286 tasks, 6,864 trajectories; agents exceeded user authorization in 19.2% of runs; reasoning effort did not materially change this; consultation associated with fewer violations. Benchmark rates, not incident rates ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv](https://arxiv.org/abs/2610.27548)). Links: [[agent-authorization-and-delegation]].
+
+### The Agent Clicks Approve
+Hossen (arXiv 2610.15138, 10 Oct; not peer reviewed): injected page text produced unauthorized approvals in 73/73 undefended OAuth-style runs; a service-side authorization-envelope gate rejected 70/70 tested attacks. Small controlled surfaces ((source: 2026-10-26-ai-agent-identity-news.md, citing [arXiv](https://arxiv.org/abs/2610.15138)).
+
+### Merkle Tree Agent Certificates (draft-burls-mtac-01)
+Individual Internet-Draft (19 Oct): agent-instance identity plus accountable sponsor, separate from authorization; not an adopted standard ((source: 2026-10-26-ai-agent-identity-news.md, citing [IETF](https://www.ietf.org/ietf-ftp/internet-drafts/draft-burls-mtac-01.html)). Links: [[agent-standards-and-interoperability]], [[ai-agent-identity]].
+
+### W3C strategy paper on the web in the AI era
+W3C Strategy Team (edited by Philippe Le Hegaret; announced 21 Oct): gaps in agent identity profiles, delegated authority, consent/approval; proposals include proving human approval, per-agent revocable permissions, payment mandates and dispute paths. Discussion proposals only ((source: 2026-10-26-ai-agent-identity-news.md, citing [paper](https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html), [announcement](https://www.w3.org/news/2026/w3c-and-the-state-of-the-web-in-the-ai-era/)).
+
+### Open questions (needs verification, 2026-10-26)
+- Whether the OpenAI monitoring gaps found by METR/Redwood were fully remediated, and whether the 19.2% AuthorizationBench rate resembles deployment behavior, is not established.
+- Whether MTAC composes with the agent URI draft or WIMSE AIMS work is not addressed in the source.
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
@@ -129,3 +156,5 @@ Faroldi argues that sufficiently general agents undermine risk assessment built 
 - [[united-states-ai-agent-policy]]
 - [[2026-10-12-ai-agent-identity-news]]
 - [[estonia-ai-agent-id]]
+- [[2026-10-26-ai-agent-identity-news]]
+- [[south-korea-ai-agent-policy]]
