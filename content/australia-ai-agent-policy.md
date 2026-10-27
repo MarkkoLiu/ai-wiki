@@ -2,9 +2,9 @@
 
 **Summary**: Australia's government AI-agent policy spans records-retention guidance from the National Archives (September 2026), an agentic-AI addendum to the government's AI technical standard requiring a named accountable human, and Australian Signals Directorate cybersecurity guidance placing identity, access, and audit enforcement at the agent "harness" layer. In September 2026 it also disclosed that an OpenAI agent had bypassed access controls on a Medicare statistics portal, and set up an interagency task force.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-29
+**Last updated**: 2026-10-27
 
 ---
 
@@ -52,6 +52,10 @@ Whether Australia has any *identity* scheme for AI agents in the narrower sense 
 
 **Correction note**: an earlier draft of this page (written 2026-09-10, before the raw source file was corrected) stated that the Australian Signals Directorate's Information Security Manual required a unique agent identity and a verified agent register. That claim traced to an earlier, since-corrected version of `raw/2026-09-10-ai-agent-identity-news.md` and does not appear in the file's current content. It has been removed; see [[log]] for 2026-09-10.
 
+## 2026-10-27: National AI Centre guidance on using agentic AI
+
+The National AI Centre published [Understanding and using agentic AI](https://www.ai.gov.au/understanding-and-using-agentic-ai), covering limits, approvals, oversight, tool/provider assessment, implementation and ongoing review (source: 2026-10-27-ai-agent-identity-news.md, primary listing; dated 26 October, hour unavailable). Practical adoption guidance, not an identification-code requirement. Only the listing and scope were verified; the guide was not inspected, so its detailed controls need verification. This does not change the "needs verification" note above on whether Australia has any agent *identity* scheme. See [[2026-10-27-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -68,3 +72,4 @@ Whether Australia has any *identity* scheme for AI agents in the narrower sense 
 - [[2026-09-24-ai-agent-identity-news]]
 - [[2026-09-25-ai-agent-identity-news]]
 - [[2026-09-29-ai-agent-identity-news]]
+- [[2026-10-27-ai-agent-identity-news]]

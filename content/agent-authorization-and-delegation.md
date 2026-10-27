@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-26
+**Last updated**: 2026-10-27
 
 ---
 
@@ -205,6 +205,15 @@ The UK FCA (19 October) committed to work on an agentic-finance framework coveri
 
 Full detail on [[research]].
 
+## 2026-10-27: vendor delegation controls, oversight-loss law, human-review reporting
+
+- IBM's generally available Agent Identity describes on-behalf-of delegation across token exchanges, short-lived task-scoped tokens, runtime policy checks and audit trails linking human approval to downstream actions (vendor claims) (source: 2026-10-27-ai-agent-identity-news.md, citing [IBM](https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era)).
+- UK Lords Amendment 70 targets loss of oversight or control of agents, with evidence preservation and remedies via future regulations; see [[united-kingdom-ai-agent-policy]] (source: 2026-10-27-ai-agent-identity-news.md, citing [Hansard](https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilienceNetworkAndInformationSystemsBill)).
+- ARI proposes reporting the share of AI-generated decisions reviewed by humans in automated AI research; advocacy only (source: 2026-10-27-ai-agent-identity-news.md, citing [ARI](https://ari.us/policy-bytes/keeping-pace-with-the-frontier-an-early-warning-system-for-accelerated-ai-rd-automation/)).
+- Estonia: Cybernetica argues numbering agents is insufficient without authentication and limits on delegated authority (interviewee assessment) (source: 2026-10-27-ai-agent-identity-news.md, citing [ERR](https://www.err.ee/1610177347/cybernetica-arendusjuht-me-ei-tohi-ai-agentidega-oma-e-riiki-tuksi-keerata)). See [[estonia-ai-agent-id]].
+
+See [[2026-10-27-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -248,3 +257,4 @@ Full detail on [[research]].
 - [[estonia-ai-agent-id]]
 - [[2026-10-26-ai-agent-identity-news]]
 - [[south-korea-ai-agent-policy]]
+- [[2026-10-27-ai-agent-identity-news]]

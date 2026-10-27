@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-26
+**Last updated**: 2026-10-27
 
 ---
 
@@ -105,6 +105,10 @@ Proof published rollout details for **x401**: an agent identity wallet and HTTP 
 
 Both reinforce the identity vs. authorization split. See [[research]].
 
+## 2026-10-27: IBM Agent Identity generally available
+
+IBM announced general availability of Agent Identity (from September private preview): agent inventory with ownership and lifecycle state, on-behalf-of delegation, short-lived task-scoped tokens, runtime policy checks, audit trails; IBM Verify for identity/authorization and HashiCorp Vault for credentials of systems that cannot accept delegated tokens. A proprietary product, not a standard, and independently untested (source: 2026-10-27-ai-agent-identity-news.md, citing [IBM](https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era)). See [[2026-10-27-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -127,3 +131,4 @@ Both reinforce the identity vs. authorization split. See [[research]].
 - [[2026-10-12-ai-agent-identity-news]]
 - [[2026-10-21-ai-agent-identity-news]]
 - [[2026-10-26-ai-agent-identity-news]]
+- [[2026-10-27-ai-agent-identity-news]]

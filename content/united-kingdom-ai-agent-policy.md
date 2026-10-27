@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -47,6 +47,10 @@ The ICO also confirmed recent enquiries with OpenAI, Anthropic, Meta and the UK 
 
 On 19 October 2026 the Financial Conduct Authority published a policy speech ([FCA — Building the future of finance in the age of AI](https://www.fca.org.uk/news/speeches/building-future-finance-age-ai), draft) and a supervisory good/poor-practice page ([FCA — AI in financial services: good practice and areas for improvement](https://www.fca.org.uk/publications/good-poor-practice/ai-financial-services)), both primary (source: 2026-10-20-ai-agent-identity-news.md). The FCA says it will work with industry, other regulators and frontier laboratories on a framework for agentic finance covering **agent identity, delegated authority, accountability and execution**, with continuing assurance as agents change. The practice examples emphasise senior accountability, human oversight, escalation and monitoring, and create no new requirements. The framework is future work; no identity standard has been set. Publication hour is not given, so placement relative to the previous report's cutoff is unconfirmed. Unlike the incident-driven Cabinet Office response above, this is a regulator linking agent identity to authority to transact and responsibility for outcomes. No contradiction with earlier content. See [[2026-10-20-ai-agent-identity-news]], [[agent-authorization-and-delegation]].
 
+## Lords agree Amendment 70 on loss of agent oversight or control (2026-10-26)
+
+On 26 October 2026 the House of Lords agreed government Amendment 70 to the Cyber Security and Resilience (Network and Information Systems) Bill, clarifying powers to make regulations for investigating compromises or risks attributable to loss of oversight or control of AI agents, preserving evidence, testing remedies and enforcing requirements on regulated entities; details are left to regulations. Minister Baroness Lloyd of Effra committed to consult on agent-related security requirements, incident-information preservation and notification of affected organisations; near-miss reporting would be voluntary (source: 2026-10-27-ai-agent-identity-news.md, citing [Hansard](https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilienceNetworkAndInformationSystemsBill), primary). A bill amendment and future-regulation commitments, not duties in force, and about accountability and incident evidence rather than agent identity. Builds on the incident-driven Cabinet Office response above. No contradiction. See [[2026-10-27-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -61,3 +65,4 @@ On 19 October 2026 the Financial Conduct Authority published a policy speech ([F
 - [[2026-10-08-ai-agent-identity-news]]
 - [[2026-10-09-ai-agent-identity-news]]
 - [[2026-10-20-ai-agent-identity-news]]
+- [[2026-10-27-ai-agent-identity-news]]

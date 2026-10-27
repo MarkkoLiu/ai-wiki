@@ -4,6 +4,19 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-27
+
+**Source ingested**: `raw/2026-10-27-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-27-ai-agent-identity-news.md` — dated digest.
+
+**Pages updated**: `estonia-ai-agent-id.md` (Cybernetica criticism, registry scope/status), `united-kingdom-ai-agent-policy.md` (Lords Amendment 70), `united-states-ai-agent-policy.md` (FTC/Anthropic, ARI, IBM), `australia-ai-agent-policy.md` (National AI Centre guidance), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `agent-standards-and-interoperability.md`, `index.md`.
+
+**Contradictions found**: none. Refinement only: the proposed Estonian registry is described as voluntary, initially for private individuals with one agent per person, with no ministry approval at the deadline; the 2026-10-25 agendikood position stands. Caveats: FTC testimony detail rests on one secondary report; the Australian guide and IBM/ARI/Australia publication hours were not verified.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-26
 
 **Source ingested**: `raw/2026-10-26-ai-agent-identity-news.md`

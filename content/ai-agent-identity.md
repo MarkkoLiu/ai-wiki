@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-26
+**Last updated**: 2026-10-27
 
 ---
 
@@ -42,6 +42,10 @@ A related distinction from the standards side: **discovery**, **authentication**
 
 SK Telecom's first AI Governance Report reportedly gives agents employee ID numbers and named human supervisors, with a developing lifecycle from identification to retirement — an operator-level model of identity tied to human responsibility, not a government code (source: 2026-10-26-ai-agent-identity-news.md, citing [Seoul Economic Daily](https://en.sedaily.com/technology/2026/10/26/sk-telecom-issues-first-ai-governance-report)). See [[south-korea-ai-agent-policy]]. The IETF draft draft-burls-mtac-01 likewise separates verifiable agent identity from permission to act (see [[agent-standards-and-interoperability]]).
 
+## 2026-10-27: identity vs authentication and authority
+
+Cybernetica's Arne Ansper distinguishes legal personhood from technical identity and says an agent number alone is not enough without authentication and authority limits (interviewee assessment) (source: 2026-10-27-ai-agent-identity-news.md, citing [ERR](https://www.err.ee/1610177347/cybernetica-arendusjuht-me-ei-tohi-ai-agentidega-oma-e-riiki-tuksi-keerata)); see [[estonia-ai-agent-id]]. IBM's Agent Identity going generally available is a vendor-level model pairing an agent inventory (ownership, lifecycle) with delegated, task-scoped tokens (vendor claims) (source: 2026-10-27-ai-agent-identity-news.md, citing [IBM](https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era)); see [[agent-standards-and-interoperability]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -56,3 +60,4 @@ SK Telecom's first AI Governance Report reportedly gives agents employee ID numb
 - [[malaysia-ai-agent-policy]]
 - [[south-korea-ai-agent-policy]]
 - [[2026-10-26-ai-agent-identity-news]]
+- [[2026-10-27-ai-agent-identity-news]]
