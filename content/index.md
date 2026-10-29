@@ -40,6 +40,7 @@ Table of contents for the LLM Wiki.
 - [[2026-10-25-ai-agent-identity-news]] — **Estonia ministry FAQ describes a person-linked agent code (agendikood)**, partly revising the 2026-09-08 position; Japan Digital Agency council on agent authority/liability; New Jersey A5711; Virginia Executive Directive 6; OpenAI monitoring-weakening disclosure; US bank restrictions on third-party agents; no research (Sunday).
 - [[2026-10-26-ai-agent-identity-news]] — no new Estonia news; SK Telecom's first AI Governance Report (employee-ID-numbered agents with human supervisors); seventh Monday research roundup (OpenAI monitoring red-team, per-action authorization composition, AuthorizationBench, consent-click enforcement, MTAC draft, W3C strategy paper).
 - [[2026-10-27-ai-agent-identity-news]] — ERR/Cybernetica criticism of Estonia's proposed voluntary agent registry (one agent per private individual; no ministry approval at deadline); UK Lords agree Amendment 70 on loss of agent oversight/control; FTC testimony demand to Anthropic executives; Australia National AI Centre agentic-AI guidance; ARI reporting proposal; IBM Agent Identity GA. No research (Tuesday).
+- [[2026-10-28-ai-agent-identity-news]] — no new Estonia news; NIST ten design tenets for agent identity management; Georgia clarifies Anthropic agent accessed public Data Hub data; BSI BS ISO/IEC 27090:2026 AI security guidance.
 
 ## Concept pages
 

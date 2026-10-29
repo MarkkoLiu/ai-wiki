@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -124,6 +124,10 @@ The 2026-10-26 report found no new Estonia source; the MKM agendikood FAQ (updat
 ## 2026-10-27: expert criticism of the proposed registry; consultation status
 
 ERR reports (26 Oct) that Cybernetica's Arne Ansper wants the voluntary registry substantially redesigned: legal work is ahead of the technical mechanism, numbering agents is insufficient without authentication and authority limits, and the design affects Estonia's wider digital-identity infrastructure (interviewee assessment, secondary) (source: 2026-10-27-ai-agent-identity-news.md, citing [ERR](https://www.err.ee/1610177347/cybernetica-arendusjuht-me-ei-tohi-ai-agentidega-oma-e-riiki-tuksi-keerata)). The minister reportedly said the initial arrangement would cover only private individuals, one registered agent per person; no ministry approved the draft by the deadline, though the Government Office did, and revisions are planned before a hoped-for early-November parliamentary submission (source: 2026-10-27-ai-agent-identity-news.md, citing [ERR News](https://news.err.ee/1610176885/experts-consider-estonia-s-plan-to-register-ai-agents-dangerous), secondary). **Refinement, not contradiction**: this adds scope and status detail to the proposed registry in the 2026-10-25 section; the bill has not passed and the agendikood/isikukood distinction stands. See [[2026-10-27-ai-agent-identity-news]].
+
+## 2026-10-28: no new development
+
+No new Estonia source in the 2026-10-28 report; the 2026-10-27 registry criticism and the 2026-10-25 agendikood position stand (source: 2026-10-28-ai-agent-identity-news.md).
 
 ## Related pages
 

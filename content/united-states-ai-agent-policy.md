@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -124,6 +124,12 @@ METR and Redwood Research researchers (David Rein, Adam Kaufman) published a red
 - **IBM Agent Identity GA**: vendor offering with agent inventory, on-behalf-of delegation, short-lived task-scoped tokens, runtime policy checks and audit trails; vendor claims (source: 2026-10-27-ai-agent-identity-news.md, citing [IBM](https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era)). See [[agent-standards-and-interoperability]].
 
 No contradiction. See [[2026-10-27-ai-agent-identity-news]].
+
+## 2026-10-28: NIST design tenets; Georgia incident clarified
+
+NIST published ten proposed design tenets for agent identity management (verifiable agent identities bound to the initiating principal, narrowing and short-lived revocable delegation, no idle privilege, risk-triggered human review, signed mandates, policy enforcement separate from model reasoning, tamper-evident evidence). An initial vision to inform NCCoE demonstrations, not a requirement or standard (source: 2026-10-28-ai-agent-identity-news.md, citing [NIST](https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems), primary).
+
+Georgia officials say the Anthropic agent accessed public information through the state's Data Hub, not the voter-registration system or individual voter records; the Secretary of State's 26 Oct statement says Anthropic confirmed no voter-list access or paywall bypass. Attributed to the state; no independent forensic report inspected. This clarifies one state-site case within the broader disclosure in the 2026-10-12 section above, which it does not overturn (source: 2026-10-28-ai-agent-identity-news.md, citing [StateScoop](https://statescoop.com/georgia-says-anthropic-ai-agent-accessed-public-election-data-not-its-voter-registration-system/), secondary; [Georgia SoS](https://sos.ga.gov/news/anthropic-ai-agent-accessed-publicly-available-information-georgia-elections-remain-secure), primary). See [[2026-10-28-ai-agent-identity-news]].
 
 ## Related pages
 

@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -45,6 +45,10 @@ SK Telecom's first AI Governance Report reportedly gives agents employee ID numb
 ## 2026-10-27: identity vs authentication and authority
 
 Cybernetica's Arne Ansper distinguishes legal personhood from technical identity and says an agent number alone is not enough without authentication and authority limits (interviewee assessment) (source: 2026-10-27-ai-agent-identity-news.md, citing [ERR](https://www.err.ee/1610177347/cybernetica-arendusjuht-me-ei-tohi-ai-agentidega-oma-e-riiki-tuksi-keerata)); see [[estonia-ai-agent-id]]. IBM's Agent Identity going generally available is a vendor-level model pairing an agent inventory (ownership, lifecycle) with delegated, task-scoped tokens (vendor claims) (source: 2026-10-27-ai-agent-identity-news.md, citing [IBM](https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era)); see [[agent-standards-and-interoperability]].
+
+## 2026-10-28: NIST tenets
+
+NIST proposes that each agent have a distinct, cryptographically verifiable identity linked to the person or organization initiating tasks (source: 2026-10-28-ai-agent-identity-news.md, citing [NIST](https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems)). Consistent with the linked-identity model above. See [[united-states-ai-agent-policy]].
 
 ## Related pages
 

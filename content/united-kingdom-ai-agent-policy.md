@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -50,6 +50,10 @@ On 19 October 2026 the Financial Conduct Authority published a policy speech ([F
 ## Lords agree Amendment 70 on loss of agent oversight or control (2026-10-26)
 
 On 26 October 2026 the House of Lords agreed government Amendment 70 to the Cyber Security and Resilience (Network and Information Systems) Bill, clarifying powers to make regulations for investigating compromises or risks attributable to loss of oversight or control of AI agents, preserving evidence, testing remedies and enforcing requirements on regulated entities; details are left to regulations. Minister Baroness Lloyd of Effra committed to consult on agent-related security requirements, incident-information preservation and notification of affected organisations; near-miss reporting would be voluntary (source: 2026-10-27-ai-agent-identity-news.md, citing [Hansard](https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilienceNetworkAndInformationSystemsBill), primary). A bill amendment and future-regulation commitments, not duties in force, and about accountability and incident evidence rather than agent identity. Builds on the incident-driven Cabinet Office response above. No contradiction. See [[2026-10-27-ai-agent-identity-news]].
+
+## 2026-10-28: BSI announces AI-system security guidance
+
+BSI announced BS ISO/IEC 27090:2026 (27 Oct) on threats across the AI-system lifecycle, including prompt injection and information leakage. Broader AI security rather than agent identity or delegation; the standard itself was not inspected (source: 2026-10-28-ai-agent-identity-news.md, citing [BSI](https://www.bsigroup.com/en-GB/insights-and-media/media-centre/press-releases/2026/october/new-international-guidance-to-help-organizations-protect-ai-from-security-threats/), primary). See [[2026-10-28-ai-agent-identity-news]].
 
 ## Related pages
 

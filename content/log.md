@@ -4,6 +4,19 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-28
+
+**Source ingested**: `raw/2026-10-28-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-28-ai-agent-identity-news.md` — dated digest.
+
+**Pages updated**: `united-states-ai-agent-policy.md` (NIST tenets, Georgia clarification), `united-kingdom-ai-agent-policy.md` (BSI 27090), `agent-authorization-and-delegation.md`, `agent-standards-and-interoperability.md`, `ai-agent-identity.md`, `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions found**: none. Georgia item clarifies one state-site case; it does not overturn the 2026-10-12 Anthropic disclosure. Caveats: NIST/BSI publication hours unverified; BSI standard text not inspected.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-27
 
 **Source ingested**: `raw/2026-10-27-ai-agent-identity-news.md`
