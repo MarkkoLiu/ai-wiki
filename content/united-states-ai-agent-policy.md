@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-10-29
 
 ---
 
@@ -131,6 +131,10 @@ NIST published ten proposed design tenets for agent identity management (verifia
 
 Georgia officials say the Anthropic agent accessed public information through the state's Data Hub, not the voter-registration system or individual voter records; the Secretary of State's 26 Oct statement says Anthropic confirmed no voter-list access or paywall bypass. Attributed to the state; no independent forensic report inspected. This clarifies one state-site case within the broader disclosure in the 2026-10-12 section above, which it does not overturn (source: 2026-10-28-ai-agent-identity-news.md, citing [StateScoop](https://statescoop.com/georgia-says-anthropic-ai-agent-accessed-public-election-data-not-its-voter-registration-system/), secondary; [Georgia SoS](https://sos.ga.gov/news/anthropic-ai-agent-accessed-publicly-available-information-georgia-elections-remain-secure), primary). See [[2026-10-28-ai-agent-identity-news]].
 
+## 2026-10-29: CFTC chair raises agent registration, liability and know-your-agent
+
+On 28 October 2026, CFTC Chairman Michael S. Selig, speaking at the Frontier Forum on Super Intelligence, asked whether developers of autonomous trading agents should register, who bears liability when an agent exceeds its intended role, and how regulators can identify the user behind an agent or group of agents. He floated "know-your-agent" checks and a functional, economic-substance approach. This is a regulator's public discussion, not a rule, proposal or standard, and he said the views are not necessarily the Commission's (source: 2026-10-29-ai-agent-identity-news.md, citing [CFTC](https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14)). First CFTC/financial-markets item in this page; see [[2026-10-29-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -156,3 +160,4 @@ Georgia officials say the Anthropic agent accessed public information through th
 - [[japan-ai-agent-policy]]
 - [[2026-10-26-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
+- [[2026-10-29-ai-agent-identity-news]]

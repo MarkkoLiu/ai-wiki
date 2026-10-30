@@ -4,6 +4,19 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-29
+
+**Source ingested**: `raw/2026-10-29-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-29-ai-agent-identity-news.md` — dated digest.
+
+**Pages updated**: `united-states-ai-agent-policy.md` (CFTC chair remarks), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions found**: none. Caveat: CFTC speech publication hour unavailable; it is discussion, not policy.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-28
 
 **Source ingested**: `raw/2026-10-28-ai-agent-identity-news.md`

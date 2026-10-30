@@ -41,6 +41,7 @@ Table of contents for the LLM Wiki.
 - [[2026-10-26-ai-agent-identity-news]] — no new Estonia news; SK Telecom's first AI Governance Report (employee-ID-numbered agents with human supervisors); seventh Monday research roundup (OpenAI monitoring red-team, per-action authorization composition, AuthorizationBench, consent-click enforcement, MTAC draft, W3C strategy paper).
 - [[2026-10-27-ai-agent-identity-news]] — ERR/Cybernetica criticism of Estonia's proposed voluntary agent registry (one agent per private individual; no ministry approval at deadline); UK Lords agree Amendment 70 on loss of agent oversight/control; FTC testimony demand to Anthropic executives; Australia National AI Centre agentic-AI guidance; ARI reporting proposal; IBM Agent Identity GA. No research (Tuesday).
 - [[2026-10-28-ai-agent-identity-news]] — no new Estonia news; NIST ten design tenets for agent identity management; Georgia clarifies Anthropic agent accessed public Data Hub data; BSI BS ISO/IEC 27090:2026 AI security guidance.
+- [[2026-10-29-ai-agent-identity-news]] — no new Estonia news; CFTC chair Selig raises agent registration, liability and know-your-agent questions (US).
 
 ## Concept pages
 

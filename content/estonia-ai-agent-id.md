@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-10-29
 
 ---
 
@@ -129,6 +129,10 @@ ERR reports (26 Oct) that Cybernetica's Arne Ansper wants the voluntary registry
 
 No new Estonia source in the 2026-10-28 report; the 2026-10-27 registry criticism and the 2026-10-25 agendikood position stand (source: 2026-10-28-ai-agent-identity-news.md).
 
+## 2026-10-29: no new development
+
+No new Estonia source in the 2026-10-29 report; the ministry FAQ (last updated 27 Oct) and RIA Aruait page (21 Oct) were checked but predate the window and show no new legislative step. The 2026-10-27 registry criticism and 2026-10-25 agendikood position stand (source: 2026-10-29-ai-agent-identity-news.md).
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -146,3 +150,4 @@ No new Estonia source in the 2026-10-28 report; the 2026-10-27 registry criticis
 - [[japan-ai-agent-policy]]
 - [[2026-10-26-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
+- [[2026-10-29-ai-agent-identity-news]]

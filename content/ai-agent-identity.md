@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-10-29
 
 ---
 
@@ -50,6 +50,10 @@ Cybernetica's Arne Ansper distinguishes legal personhood from technical identity
 
 NIST proposes that each agent have a distinct, cryptographically verifiable identity linked to the person or organization initiating tasks (source: 2026-10-28-ai-agent-identity-news.md, citing [NIST](https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems)). Consistent with the linked-identity model above. See [[united-states-ai-agent-policy]].
 
+## 2026-10-29: "Know-your-agent" floated by CFTC
+
+CFTC Chairman Selig floated "know-your-agent" checks and asked whether agent developers should register, in remarks on 28 October. Discussion only, not a requirement (source: 2026-10-29-ai-agent-identity-news.md, citing [CFTC](https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14)). See [[united-states-ai-agent-policy]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -65,3 +69,4 @@ NIST proposes that each agent have a distinct, cryptographically verifiable iden
 - [[south-korea-ai-agent-policy]]
 - [[2026-10-26-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
+- [[2026-10-29-ai-agent-identity-news]]
