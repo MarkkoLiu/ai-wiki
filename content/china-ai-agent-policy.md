@@ -2,9 +2,9 @@
 
 **Summary**: China reportedly introduced a national standard for AI-agent interconnection that includes unified identity management and identity-code provisions for AI agents (2026-06-26).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-11-04
 
 ---
 
@@ -20,8 +20,15 @@ The specific content of the standard (scope, enforcement mechanism, which agenci
 
 On 15 October 2026 (14:30 HKT) the Hong Kong Monetary Authority announced its Accountability, Resilience and Trust (ART) framework for responsible AI adoption, new AI supervisory guidance and further agentic-AI sandbox testing (GenA.I. Sandbox++). An upcoming discussion paper will explore accountability anchored in intent, a registry of material AI agents and effective intervention mechanisms. These are proposals to explore; no registry or agent-specific rule has been imposed (source: 2026-10-16-ai-agent-identity-news.md and 2026-10-18-ai-agent-identity-news.md, citing [HKMA — ART Framework](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/) and [HK Government release](https://www.info.gov.hk/gia/general/202610/15/P2026101500186.htm), primary). Hong Kong is a separate regulatory jurisdiction from the mainland national standard described above; the mainland and HKMA approaches are not shown to be coordinated (**needs verification**). The report variously writes "Resilience" (2026-10-16-ai-agent-identity-news.md) and "Resiliency" (2026-10-18-ai-agent-identity-news.md).
 
+## 2026-11-04: Hong Kong SAR — HKMA Project SAGE
+
+On 2 November 2026 HKMA launched Project SAGE and an Agentic Finance Expert Group. Work areas: practical financial use cases; verification of agent identity and delegated authority (including Know Your Agent and authentication); interoperability standards; legal questions on governance, liability and consumer protection. A companion announcement confirms publication of a discussion paper on banks' use of agentic AI (source: 2026-11-04-ai-agent-identity-news.md, citing [HKMA Project SAGE](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-4/) and [HKMA FinTech Week announcement](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3), primary). 
+
+**Relation to earlier claim**: the 15 October ART announcement (above) said a discussion paper was *upcoming*; it is now reported published. That is a progression, not a contradiction; the earlier proposals-only status of a registry stands. Still no adopted KYA standard, registry or binding identity requirement, and the discussion paper's proposals were not inspected (source: 2026-11-04-ai-agent-identity-news.md). Publication hour unavailable.
+
 ## Related pages
 
 - [[ai-agent-identity]]
 - [[estonia-ai-agent-id]]
 - [[2026-09-04-ai-agent-identity-news]]
+- [[2026-11-04-ai-agent-identity-news]]

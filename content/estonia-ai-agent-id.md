@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-11-04
 
 ---
 
@@ -137,6 +137,10 @@ No new Estonia source in the 2026-10-29 report; the ministry FAQ (last updated 2
 
 No new Estonia development was verified; the agent-code proposal, ministry FAQ, RIA Aruait page and ERR/Cybernetica debate stand as recorded (source: 2026-10-30-ai-agent-identity-news.md).
 
+## Update 2026-11-04: no change
+
+No new Estonia development was verified in the 2 or 4 November reports; the agent-code proposal, MKM FAQ (updated 27 Oct), RIA Aruait page (updated 21 Oct) and ERR/Cybernetica debate stand as recorded (source: 2026-11-02-ai-agent-identity-news.md; 2026-11-04-ai-agent-identity-news.md).
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -156,3 +160,5 @@ No new Estonia development was verified; the agent-code proposal, ministry FAQ, 
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-10-29-ai-agent-identity-news]]
 - [[2026-10-30-ai-agent-identity-news]]
+- [[2026-11-02-ai-agent-identity-news]]
+- [[2026-11-04-ai-agent-identity-news]]

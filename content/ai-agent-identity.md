@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-11-04
 
 ---
 
@@ -58,6 +58,10 @@ CFTC Chairman Selig floated "know-your-agent" checks and asked whether agent dev
 
 A disputed WIRED report ties agent permissions and credential handling to contractor accountability in a US defense setting; see [[united-states-ai-agent-policy]] (source: 2026-10-30-ai-agent-identity-news.md, citing [WIRED](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)). Estonia: no change.
 
+## Update 2026-11-04
+
+HKMA's Project SAGE names agent identity, delegated-authority verification and Know Your Agent as a regulatory work area ([[china-ai-agent-policy]]; source: 2026-11-04-ai-agent-identity-news.md, citing [HKMA](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-4/)). UK regulators' DRCF statement stresses deployer accountability ([[united-kingdom-ai-agent-policy]]; source: 2026-11-02-ai-agent-identity-news.md). Estonia: no change.
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -75,3 +79,5 @@ A disputed WIRED report ties agent permissions and credential handling to contra
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-10-29-ai-agent-identity-news]]
 - [[2026-10-30-ai-agent-identity-news]]
+- [[2026-11-02-ai-agent-identity-news]]
+- [[2026-11-04-ai-agent-identity-news]]

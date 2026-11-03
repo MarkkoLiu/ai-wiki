@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-04
 
 ---
 
@@ -55,6 +55,12 @@ On 26 October 2026 the House of Lords agreed government Amendment 70 to the Cybe
 
 BSI announced BS ISO/IEC 27090:2026 (27 Oct) on threats across the AI-system lifecycle, including prompt injection and information leakage. Broader AI security rather than agent identity or delegation; the standard itself was not inspected (source: 2026-10-28-ai-agent-identity-news.md, citing [BSI](https://www.bsigroup.com/en-GB/insights-and-media/media-centre/press-releases/2026/october/new-international-guidance-to-help-organizations-protect-ai-from-security-threats/), primary). See [[2026-10-28-ai-agent-identity-news]].
 
+## 2026-11-02 / 2026-11-04: DRCF joint statement and NCSC Cyber Shield
+
+On 30 October 2026 the CMA, FCA, ICO and Ofcom, via the Digital Regulation Cooperation Forum, jointly stated that existing legal frameworks apply to personal AI agents and that autonomy does not reduce deployers' compliance responsibilities; firms should address user-granted authority, understanding of agent actions and data use, commercial influences, accountability and redress. A supervisory position, not a new obligation or agent-ID standard; publication hour unavailable (source: 2026-11-02-ai-agent-identity-news.md, citing [DRCF announcement](https://www.drcf.org.uk/publications/joint-statements/joint-statement-on-protecting-people-and-businesses-in-an-agentic-economy) and [full statement](https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-joint-statement-protecting-people-and-businesses-in-and-agentic-economy3.pdf?v=427454), primary). This sits alongside the ICO call for evidence above.
+
+On 3 November 2026 the NCSC set out Cyber Shield, a five-year programme connecting defensive agents with national cyber intelligence (NCSC platform and data fusion; industry-built agents; consultation on protocols, standards and data models; autonomous remediation awaiting stronger assurance). Not an agent-identification law or finished standard (source: 2026-11-04-ai-agent-identity-news.md, citing [NCSC](https://www.ncsc.gov.uk/collection/annual-review-2026/future-cyber-defence/cyber-shield), primary; direct retrieval was unavailable to the report's author).
+
 ## Related pages
 
 
@@ -70,3 +76,5 @@ BSI announced BS ISO/IEC 27090:2026 (27 Oct) on threats across the AI-system lif
 - [[2026-10-09-ai-agent-identity-news]]
 - [[2026-10-20-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
+- [[2026-11-02-ai-agent-identity-news]]
+- [[2026-11-04-ai-agent-identity-news]]

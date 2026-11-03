@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-11-04
 
 ---
 
@@ -226,6 +226,14 @@ The CFTC chair's remarks pose the delegation-accountability question directly fo
 
 The disputed WIRED report of a personal coding agent holding administrative access to a Defense Department environment illustrates the delegated-credential, attribution and contractor-accountability questions discussed on this page; it is unproven and establishes no rule (source: 2026-10-30-ai-agent-identity-news.md, citing [WIRED](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)). See [[united-states-ai-agent-policy]].
 
+## Update 2026-11-04: regulator statements and research on authority
+
+- UK DRCF (30 Oct): existing law applies to personal agents; deployers stay responsible; firms should address how users grant authority and redress (source: 2026-11-02-ai-agent-identity-news.md, citing [DRCF](https://www.drcf.org.uk/publications/joint-statements/joint-statement-on-protecting-people-and-businesses-in-an-agentic-economy)). See [[united-kingdom-ai-agent-policy]].
+- India TRAI draft (30 Oct): operators accountable for AI outcomes; incident reporting; proposal only (source: 2026-11-02-ai-agent-identity-news.md, citing [TRAI](https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and)). See [[india-ai-agent-policy]].
+- HKMA Project SAGE (2 Nov): agent identity and delegated authority, KYA and authentication named as a work area (source: 2026-11-04-ai-agent-identity-news.md, citing [HKMA](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-4/)). See [[china-ai-agent-policy]].
+- Abu Dhabi (2 Nov, issuer claim): decisions linked to governing clauses, officials keep final responsibility, high-stakes autonomous determinations excluded (source: 2026-11-04-ai-agent-identity-news.md, citing [ZAWYA](https://www.zawya.com/en/press-release/companies-news/openai-and-abu-dhabi-government-launch-worlds-first-ai-native-machine-readable-government-initiative-1869353)). See [[united-arab-emirates-ai-agent-policy]].
+- Research: route-bound authorization across interfaces, human approval that an agent cannot reach, and commit-boundary guardrails for identity records; see [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -272,3 +280,6 @@ The disputed WIRED report of a personal coding agent holding administrative acce
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-10-29-ai-agent-identity-news]]
 - [[2026-10-30-ai-agent-identity-news]]
+- [[2026-11-02-ai-agent-identity-news]]
+- [[2026-11-04-ai-agent-identity-news]]
+- [[united-arab-emirates-ai-agent-policy]]

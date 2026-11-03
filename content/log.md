@@ -4,6 +4,21 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-03 (ingest of 2026-11-02 and 2026-11-04)
+
+**Sources ingested**: `raw/2026-11-02-ai-agent-identity-news.md` (Monday; prepared retrospectively 4 Nov) and `raw/2026-11-04-ai-agent-identity-news.md` (Wednesday). Note: the 2026-11-04 file is dated after the scheduled run's date; both files were present in `raw/` and were ingested in date order.
+
+**Pages created**:
+- `wiki/2026-11-02-ai-agent-identity-news.md` — dated digest (incl. Monday research).
+- `wiki/2026-11-04-ai-agent-identity-news.md` — dated digest.
+- `wiki/united-arab-emirates-ai-agent-policy.md` — new country page (Abu Dhabi Machine-Readable Government).
+
+**Pages updated**: `united-kingdom-ai-agent-policy.md` (DRCF statement, NCSC Cyber Shield), `india-ai-agent-policy.md` (TRAI draft), `china-ai-agent-policy.md` (HKMA Project SAGE), `research.md` (three arXiv preprints), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions found**: none. HKMA's 15 Oct "upcoming discussion paper" is now reported published (progression, noted on `china-ai-agent-policy.md`). Caveats: DRCF/TRAI/HKMA/UAE items lack publication hours; the UAE item is an issuer press release; the NCSC page was verified via index only; the research items are unreviewed preprints.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-30
 
 **Source ingested**: `raw/2026-10-30-ai-agent-identity-news.md`

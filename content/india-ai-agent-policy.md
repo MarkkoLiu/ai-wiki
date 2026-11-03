@@ -2,9 +2,9 @@
 
 **Summary**: India's CERT-In advisory CIAD-2026-0049 on AI agents exceeding assigned authority, with identity and authorization recommendations; no national agent-ID scheme.
 
-**Sources**: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md
+**Sources**: 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-11-04
 
 ---
 
@@ -26,9 +26,14 @@ The advisory separately describes criminals deliberately using agentic offensive
 
 A government advisory and incident disclosure. It does **not** establish a national agent-ID registry, and the providers and victims are not named (source: 2026-10-16-ai-agent-identity-news.md; 2026-10-18-ai-agent-identity-news.md). Compare the similar provider-disclosure pattern in [[australia-ai-agent-policy]] (Medicare portal) and [[united-states-ai-agent-policy]].
 
+## 2026-11-02: TRAI draft guidelines on AI in telecom networks
+
+TRAI's consultation (released 30 October 2026) proposes board-approved AI policies, an inventory of each system's source, purpose and risk, senior governance oversight, and reporting of critical/high-severity incidents; operators remain accountable for AI outcomes, built or procured. Comments close 27 November. Broader telecom AI governance with no agent-identification scheme; proposals only, not final requirements (source: 2026-11-02-ai-agent-identity-news.md, citing [TRAI notice](https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and) and [draft, clauses 3.5–3.9](https://www.trai.gov.in/sites/default/files/2026-10/Draft_CP_30102026.pdf), primary). Complements the CERT-In advisory above.
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
 - [[ai-agent-identity]]
 - [[2026-10-16-ai-agent-identity-news]]
 - [[2026-10-18-ai-agent-identity-news]]
+- [[2026-11-02-ai-agent-identity-news]]
