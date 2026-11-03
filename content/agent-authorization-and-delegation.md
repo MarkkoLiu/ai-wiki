@@ -2,9 +2,9 @@
 
 **Summary**: The principle, appearing across multiple countries' proposals, that AI agents should receive narrowly scoped, auditable permissions delegated from a responsible human or organization — rather than full access to that party's rights or credentials.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-23-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-29
+**Last updated**: 2026-10-30
 
 ---
 
@@ -222,6 +222,10 @@ NIST's proposed tenets call for progressively narrower delegated authority, no p
 
 The CFTC chair's remarks pose the delegation-accountability question directly for trading agents: who is liable when an agent exceeds its intended role, and how to identify the user represented by an agent or group of agents. Exploratory only; no rule proposed (source: 2026-10-29-ai-agent-identity-news.md, citing [CFTC](https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14)). See [[united-states-ai-agent-policy]].
 
+## Update 2026-10-30: delegated credentials in a contractor setting
+
+The disputed WIRED report of a personal coding agent holding administrative access to a Defense Department environment illustrates the delegated-credential, attribution and contractor-accountability questions discussed on this page; it is unproven and establishes no rule (source: 2026-10-30-ai-agent-identity-news.md, citing [WIRED](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)). See [[united-states-ai-agent-policy]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -267,3 +271,4 @@ The CFTC chair's remarks pose the delegation-accountability question directly fo
 - [[south-korea-ai-agent-policy]]
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-10-29-ai-agent-identity-news]]
+- [[2026-10-30-ai-agent-identity-news]]

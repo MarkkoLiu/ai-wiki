@@ -4,6 +4,19 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-10-30
+
+**Source ingested**: `raw/2026-10-30-ai-agent-identity-news.md`
+
+**Pages created**:
+- `wiki/2026-10-30-ai-agent-identity-news.md` — dated digest.
+
+**Pages updated**: `united-states-ai-agent-policy.md` (disputed WIRED Pentagon/contractor report), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions found**: none. Caveat: WIRED allegations are disputed by Accenture; treated as unproven.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-10-29
 
 **Source ingested**: `raw/2026-10-29-ai-agent-identity-news.md`
