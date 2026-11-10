@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-09
 
 ---
 
@@ -141,6 +141,17 @@ No new Estonia development was verified; the agent-code proposal, ministry FAQ, 
 
 No new Estonia development was verified in the 2 or 4 November reports; the agent-code proposal, MKM FAQ (updated 27 Oct), RIA Aruait page (updated 21 Oct) and ERR/Cybernetica debate stand as recorded (source: 2026-11-02-ai-agent-identity-news.md; 2026-11-04-ai-agent-identity-news.md).
 
+## 2026-11-03 to 2026-11-06: Tallinn "Agentic State" declaration signed
+
+- **Announcement (3 Nov)**: the ministry announced that digital leaders of nine countries would sign an updated Digital Nations charter and a declaration on responsible public-sector use of autonomous AI (source: 2026-11-04-ai-agent-identity-news.md, citing [Ministry](https://www.justdigi.ee/uudised/uheksa-riigi-digijuhid-votavad-tallinnas-vastu-tehisaru-kasutamist-puudutava-deklaratsiooni)). As of 5 Nov the signing was unverified and the summit was only scheduled (source: 2026-11-05-ai-agent-identity-news.md).
+- **Signing confirmed (5 Nov, 19:43)**: Estonia, Canada, Israel, Mexico, New Zealand, Portugal, South Korea, the UK and Brazil signed "Agentic State: Going Beyond the Hype"; Uruguay to join later. Stresses transparency, traceability and human supervision; the minister says public-sector agents must have an identifiable natural person and defined responsibility behind their actions (source: 2026-11-06-ai-agent-identity-news.md, citing [Ministry](https://www.justdigi.ee/uudised/fotod-uheksa-digiriigi-juhi-avaldus-tallinnas-tehisaru-arendamisel-peab-inimene-alati-jaama)). The DOCX text was not reviewed. This is a non-binding intergovernmental declaration; it is consistent with, and does not change, the person-linked accountability model (agendikood proposal, no isikukood for agents) above.
+- **Pakosta remarks (5 Nov, 12:18)**: public-sector agents limited to explicitly permitted actions; AI will not be given the right to apply a person's digital signature on their behalf; strict risk assessment and human control (source: 2026-11-06-ai-agent-identity-news.md, citing [Ministry](https://www.justdigi.ee/uudised/liisa-pakosta-tallinn-digital-summiti-avapaneelis-kasutame-tehisaru-selleks-et-inimene-ei)). Reported policy position, not an enacted rule.
+- **Contradictions**: none. Progression only: "signing unverified" (5 Nov) is resolved by the confirmed signing (6 Nov). The 2026-11-04 digest originally omitted the 3 Nov announcement; corrected there.
+
+## Update 2026-11-09: no change
+
+No new Estonia development was verified (source: 2026-11-09-ai-agent-identity-news.md). No new legislative step or registry launch.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -162,3 +173,6 @@ No new Estonia development was verified in the 2 or 4 November reports; the agen
 - [[2026-10-30-ai-agent-identity-news]]
 - [[2026-11-02-ai-agent-identity-news]]
 - [[2026-11-04-ai-agent-identity-news]]
+- [[2026-11-05-ai-agent-identity-news]]
+- [[2026-11-06-ai-agent-identity-news]]
+- [[2026-11-09-ai-agent-identity-news]]

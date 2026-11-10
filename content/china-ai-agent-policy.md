@@ -2,9 +2,9 @@
 
 **Summary**: China reportedly introduced a national standard for AI-agent interconnection that includes unified identity management and identity-code provisions for AI agents (2026-06-26).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-09
 
 ---
 
@@ -26,9 +26,21 @@ On 2 November 2026 HKMA launched Project SAGE and an Agentic Finance Expert Grou
 
 **Relation to earlier claim**: the 15 October ART announcement (above) said a discussion paper was *upcoming*; it is now reported published. That is a progression, not a contradiction; the earlier proposals-only status of a registry stands. Still no adopted KYA standard, registry or binding identity requirement, and the discussion paper's proposals were not inspected (source: 2026-11-04-ai-agent-identity-news.md). Publication hour unavailable.
 
+## 2026-11-04: CAC intelligent-internet cooperation initiative
+
+At the Wuzhen summit CAC and partners proposed international cooperation including open interoperability standards (interfaces, protocols, semantics, workflows) and a trust framework for agent discovery, negotiation and execution so cross-platform interactions can be verified and traced, plus safety provisions on data poisoning and loss of control. A cooperation proposal, not an adopted specification, operational identity registry or enforcement mechanism; no personal-identification-code requirement. Chinese-language primary text summarized in English (source: 2026-11-05-ai-agent-identity-news.md, citing [CAC](https://www.cac.gov.cn/2026-11/04/c_1795548985565845.htm); [Jiangsu republication](https://jswx.gov.cn/zhengce/fagui/202611/t20261104_1370276.shtml) is the same text). Note this does not confirm or modify the June 2026 interconnection-standard identity-code provisions recorded above.
+
+## 2026-11-05: CAICT and Zetrix Know-Your-Agent cross-border pilot
+
+Zetrix (Malaysia-linked issuer) announced with CAICT a KYA service tying verifiable agent identities to authenticated individuals or organizations, with scoped, revocable permissions, limits on onward delegation and signed activity records; a planned pilot across China, ASEAN, the Middle East and Africa keeps local trust decisions; participants unconfirmed. Findings intended for ITU-T SG17's Focus Group on Trust and Identity for Humans and Agentic AI. Issuer claims, not independently validated; not an adopted standard or mandate (source: 2026-11-06-ai-agent-identity-news.md, citing [Zetrix](https://www.zetrix.com/zetrix-ai-and-china-academy-of-information-and-communications-technology-unveil-know-your-agent-kya-service-to-bring-trust-and-accountability-to-ai-agents/)). See also [[malaysia-ai-agent-policy]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
 - [[estonia-ai-agent-id]]
 - [[2026-09-04-ai-agent-identity-news]]
 - [[2026-11-04-ai-agent-identity-news]]
+- [[2026-11-05-ai-agent-identity-news]]
+- [[2026-11-06-ai-agent-identity-news]]
+- [[malaysia-ai-agent-policy]]
+- [[agent-standards-and-interoperability]]

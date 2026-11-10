@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -139,6 +139,10 @@ On 28 October 2026, CFTC Chairman Michael S. Selig, speaking at the Frontier For
 
 WIRED reports (29 Oct) that an Accenture contractor gave a personal Claude Code agent administrative access to a Defense Department environment with controlled unclassified information; sources allege credentials and network details reached an outside website. Accenture says an independent investigation found the allegations without merit; the Pentagon declined comment. Disputed claims, no new rule (source: 2026-10-30-ai-agent-identity-news.md, citing [WIRED](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)).
 
+## 2026-11-04: OCC examiner framework for AI and agentic systems
+
+The OCC (news release 2026-97; Bulletin 2026-54) issued an examiner framework linking risk assessment to potential consequences, transfer of agency and human oversight; controls scale with the consequences of agent failure or misuse; examiners should not treat the technology as a separate risk category. Expressly an examiner resource, not new supervisory expectations or enforceable standards; no agent-ID mandate. The documents use "Super Intelligence" in place of "Artificial Intelligence", which does not establish a capability level (source: 2026-11-05-ai-agent-identity-news.md, citing [OCC release](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html) and [Bulletin 2026-54](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html)). Compare the CFTC chair's remarks (29 Oct) above.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -166,3 +170,4 @@ WIRED reports (29 Oct) that an Accenture contractor gave a personal Claude Code 
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-10-29-ai-agent-identity-news]]
 - [[2026-10-30-ai-agent-identity-news]]
+- [[2026-11-05-ai-agent-identity-news]]

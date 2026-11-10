@@ -4,6 +4,30 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-10 (ingest of 2026-11-10)
+
+**Source ingested**: `raw/2026-11-10-ai-agent-identity-news.md` (Tuesday; no research section).
+
+**Pages created**: `wiki/2026-11-10-ai-agent-identity-news.md`.
+
+**Pages updated**: `australia-ai-agent-policy.md` (rapid review accepted; proposed regulator and duties), `agent-authorization-and-delegation.md`, `index.md`.
+
+**Contradictions**: none. Noted that the 2026-09-25 end-2026/early-2027 legislation timetable is not confirmed by the new primary releases (retained as earlier stated intention). Estonia: no new development.
+
+**Not modified**: nothing in `raw/` was altered.
+
+## 2026-11-09 (catch-up ingest of 2026-11-05, 2026-11-06 and 2026-11-09)
+
+**Sources ingested** (in date order): `raw/2026-11-05-ai-agent-identity-news.md`, `raw/2026-11-06-ai-agent-identity-news.md`, `raw/2026-11-09-ai-agent-identity-news.md` (Monday; has research). The 11-05 and 11-06 reports had not been ingested earlier.
+
+**Pages created**: `wiki/2026-11-05-ai-agent-identity-news.md`, `wiki/2026-11-06-ai-agent-identity-news.md`, `wiki/2026-11-09-ai-agent-identity-news.md` (dated digests).
+
+**Pages updated**: `estonia-ai-agent-id.md` (Tallinn declaration signed; Pakosta remarks), `united-kingdom-ai-agent-policy.md` (National Agentic Security Unit; declaration signatory), `united-states-ai-agent-policy.md` (OCC framework), `china-ai-agent-policy.md` (CAC initiative; Zetrix/CAICT KYA), `malaysia-ai-agent-policy.md`, `singapore-ai-agent-policy.md`, `research.md` (four preprints + WIMSE rev. 01), `agent-standards-and-interoperability.md`, `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `2026-11-04-ai-agent-identity-news.md` (correction note), `index.md`.
+
+**Contradictions / corrections**: no factual contradictions. (1) Progression: the 5 Nov "Tallinn signing unverified" is resolved by the 6 Nov confirmed signing. (2) Omission correction: the current raw 2026-11-04 file contains a 3 Nov Digital Nations announcement item that the earlier 11-04 digest lacked; added to that digest with a correction note. (3) Gap: Singapore CSA advisory AD-2026-015 (6 Nov) was excluded by the source reports, so it is unrecorded (flagged on `singapore-ai-agent-policy.md`).
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-11-03 (ingest of 2026-11-02 and 2026-11-04)
 
 **Sources ingested**: `raw/2026-11-02-ai-agent-identity-news.md` (Monday; prepared retrospectively 4 Nov) and `raw/2026-11-04-ai-agent-identity-news.md` (Wednesday). Note: the 2026-11-04 file is dated after the scheduled run's date; both files were present in `raw/` and were ingested in date order.

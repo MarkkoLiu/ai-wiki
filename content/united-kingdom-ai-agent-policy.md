@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-09
 
 ---
 
@@ -61,6 +61,14 @@ On 30 October 2026 the CMA, FCA, ICO and Ofcom, via the Digital Regulation Coope
 
 On 3 November 2026 the NCSC set out Cyber Shield, a five-year programme connecting defensive agents with national cyber intelligence (NCSC platform and data fusion; industry-built agents; consultation on protocols, standards and data models; autonomous remediation awaiting stronger assurance). Not an agent-identification law or finished standard (source: 2026-11-04-ai-agent-identity-news.md, citing [NCSC](https://www.ncsc.gov.uk/collection/annual-review-2026/future-cyber-defence/cyber-shield), primary; direct retrieval was unavailable to the report's author).
 
+## 2026-11-05/06: UK signs the Tallinn declaration
+
+The UK is listed among the nine signatories of the Digital Nations "Agentic State" declaration (source: 2026-11-06-ai-agent-identity-news.md, citing [Estonian ministry](https://www.justdigi.ee/uudised/fotod-uheksa-digiriigi-juhi-avaldus-tallinnas-tehisaru-arendamisel-peab-inimene-alati-jaama)). Non-binding; see [[estonia-ai-agent-id]].
+
+## 2026-11-06: National Agentic Security Unit and proposed intervention powers
+
+In a written answer (6 Nov; no publication hour) Ian Murray told Wendy Morton that NCSC and DCMS are establishing a National Agentic Security Unit to investigate and respond to agentic incidents, citing an earlier announcement and a £40 million Budget allocation (not new funding). He also described proposed national-security direction powers under the Cyber Security and Resilience Bill: subject to legal tests, responses to loss of control could include isolating systems, restricting data flows or suspending automated actions. No launch date; unit not shown to be operating; powers proposed, not enacted. Distinct from NCSC Cyber Shield (source: 2026-11-09-ai-agent-identity-news.md, citing [UK Parliament WQ 29990](https://questions-statements.parliament.uk/written-questions/detail/2026-09-15/29990)). Relates to the Lords Amendment 70 on loss of oversight above. No contradiction with the earlier £115M incident-response commitment; the £40M figure is a separate allocation per the answer (needs verification of how the two relate).
+
 ## Related pages
 
 
@@ -78,3 +86,5 @@ On 3 November 2026 the NCSC set out Cyber Shield, a five-year programme connecti
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-11-02-ai-agent-identity-news]]
 - [[2026-11-04-ai-agent-identity-news]]
+- [[2026-11-09-ai-agent-identity-news]]
+- [[2026-11-06-ai-agent-identity-news]]

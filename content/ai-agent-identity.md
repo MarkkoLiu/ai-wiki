@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-09
 
 ---
 
@@ -62,6 +62,10 @@ A disputed WIRED report ties agent permissions and credential handling to contra
 
 HKMA's Project SAGE names agent identity, delegated-authority verification and Know Your Agent as a regulatory work area ([[china-ai-agent-policy]]; source: 2026-11-04-ai-agent-identity-news.md, citing [HKMA](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-4/)). UK regulators' DRCF statement stresses deployer accountability ([[united-kingdom-ai-agent-policy]]; source: 2026-11-02-ai-agent-identity-news.md). Estonia: no change.
 
+## Update 2026-11-09
+
+Between 4 and 9 Nov: nine countries signed the Tallinn "Agentic State" declaration, centred on a named natural person behind public-sector agents (non-binding; 2026-11-06-ai-agent-identity-news.md); the OCC and CAC published consequence-scaled oversight and trust-framework material without agent-ID mandates (2026-11-05-ai-agent-identity-news.md); Singapore and the Zetrix/CAICT pilot explored cross-border agent verification (2026-11-06-ai-agent-identity-news.md); the UK named a National Agentic Security Unit (2026-11-09-ai-agent-identity-news.md). Still no jurisdiction shown to have enacted agent identity codes beyond what is recorded on [[estonia-ai-agent-id]] and [[china-ai-agent-policy]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -81,3 +85,6 @@ HKMA's Project SAGE names agent identity, delegated-authority verification and K
 - [[2026-10-30-ai-agent-identity-news]]
 - [[2026-11-02-ai-agent-identity-news]]
 - [[2026-11-04-ai-agent-identity-news]]
+- [[2026-11-05-ai-agent-identity-news]]
+- [[2026-11-06-ai-agent-identity-news]]
+- [[2026-11-09-ai-agent-identity-news]]

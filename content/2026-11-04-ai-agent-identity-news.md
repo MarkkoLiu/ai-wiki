@@ -10,7 +10,9 @@
 
 ## Section 1 — Estonia
 
-No new relevant, non-duplicate Estonia source was verified. The [MKM agent-code FAQ](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood) (primary; last updated 27 Oct 2026) and [RIA Aruait page](https://ria.ee/riigi-infosusteem/tehisaru/aruait) (primary; last updated 21 Oct 2026) retain pre-window dates; no new legislative step was established; ERR/Cybernetica coverage was excluded as duplicate (source: 2026-11-04-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
+**Correction (added 2026-11-09):** the current `raw/2026-11-04-ai-agent-identity-news.md` also contains an Estonia item that this digest originally omitted (the raw file had been updated with a morning addition): the ministry's [3 Nov announcement](https://www.justdigi.ee/uudised/uheksa-riigi-digijuhid-votavad-tallinnas-vastu-tehisaru-kasutamist-puudutava-deklaratsiooni) (primary; 10:36) that digital leaders of nine countries would meet in Tallinn to sign an updated Digital Nations charter and a declaration on responsible public-sector use of autonomous AI, stressing continuously tested identity management, open standards and human control of final decisions. It announced intended commitments only; the ministry said "tomorrow" while the Digital Nations homepage listed 5 November (source: 2026-11-04-ai-agent-identity-news.md). Outcome: signed 5 Nov, see [[2026-11-06-ai-agent-identity-news]]. The "no new Estonia development" statement in the summary above therefore does not hold for this item; the other statements below stand.
+
+Otherwise no new relevant Estonia source was verified. The [MKM agent-code FAQ](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood) (primary; last updated 27 Oct 2026) and [RIA Aruait page](https://ria.ee/riigi-infosusteem/tehisaru/aruait) (primary; last updated 21 Oct 2026) retain pre-window dates; no new legislative step was established; ERR/Cybernetica coverage was excluded as duplicate (source: 2026-11-04-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
 
 ## Section 2 — Other countries
 

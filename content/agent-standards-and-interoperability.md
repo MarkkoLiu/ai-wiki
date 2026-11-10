@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-09
 
 ---
 
@@ -113,6 +113,13 @@ IBM announced general availability of Agent Identity (from September private pre
 
 NIST's ten design tenets are a government design vision that existing standards cannot yet fully meet (source: 2026-10-28-ai-agent-identity-news.md, citing [NIST](https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems)). BSI announced BS ISO/IEC 27090:2026 on AI-system security: adjacent to, not a specification of, agent identity (source: same report, citing [BSI](https://www.bsigroup.com/en-GB/insights-and-media/media-centre/press-releases/2026/october/new-international-guidance-to-help-organizations-protect-ai-from-security-threats/)).
 
+## 2026-11-04 to 2026-11-09: WIMSE rev. 01, ITU-T focus group, CAC trust framework
+
+- WIMSE AI Identity Management System draft revision 01 (2 Nov) adds deprovisioning, session re-authorization and a per-trust-domain policy-system section; still an Informational draft (source: 2026-11-09-ai-agent-identity-news.md, citing [draft -01](https://www.ietf.org/archive/id/draft-ietf-wimse-aims-01.html)). See [[research]].
+- Zetrix/CAICT intend KYA pilot findings to feed ITU-T SG17's Focus Group on Trust and Identity for Humans and Agentic AI — pre-standardisation input only (source: 2026-11-06-ai-agent-identity-news.md). See [[china-ai-agent-policy]].
+- CAC's 4 Nov initiative proposes open interoperability standards and a verifiable, traceable trust framework for agent discovery, negotiation and execution — a proposal, not a specification (source: 2026-11-05-ai-agent-identity-news.md).
+- Singapore (MDDI, 5 Nov) warns against incompatible sector-specific frameworks and plans regional standards work in 2027 (source: 2026-11-06-ai-agent-identity-news.md). See [[singapore-ai-agent-policy]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -136,3 +143,6 @@ NIST's ten design tenets are a government design vision that existing standards 
 - [[2026-10-21-ai-agent-identity-news]]
 - [[2026-10-26-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
+- [[2026-11-09-ai-agent-identity-news]]
+- [[china-ai-agent-policy]]
+- [[singapore-ai-agent-policy]]

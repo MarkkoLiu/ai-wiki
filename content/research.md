@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-09
 
 ---
 
@@ -157,6 +157,25 @@ All three are arXiv preprints (primary; peer review not established; abstract-le
 ### Constraining the commit boundary for agentic entity resolution
 [arXiv:2610.37407](https://arxiv.org/abs/2610.37407) (27 Oct, v1; Beránek): a two-phase supervisor separates evidence an agent may reason over from evidence eligible to authorize persistent identity-record changes (adequate claim-specific support, resolved conflicts, authorized scope, valid versions; otherwise defer). A conceptual architecture without implementation or empirical validation; it does not prevent mistaken identity hypotheses. See [[ai-agent-identity]].
 
+## 2026-11-09: persistent access control, multi-hop delegation, learned permissions, authorization drift, WIMSE rev. 01
+
+All four arXiv items are unreviewed preprints judged from abstracts/submission histories (source: 2026-11-09-ai-agent-identity-news.md).
+
+### Access control must persist throughout an agent workflow
+Zhou and Zhang's survey, [Rethinking Access Control for AI Agents](https://arxiv.org/abs/2611.06764) (4 Nov, v1), links policy definition, identity and delegation, runtime enforcement and information-flow control; argues authorization cannot be a one-time tool permission, and separates contextual evidence from permission. A map of gaps, not a validated system. Relates to [[agent-authorization-and-delegation]].
+
+### Authenticating an intermediary does not prove inherited authority
+Donno, Mehmood and Kralevska, [Authorization Propagation in Agent2Agent Systems](https://arxiv.org/abs/2611.07050) (4 Nov, v1): in a synthetic four-party healthcare-reimbursement prototype, 14 of 15 adversarial conditions were rejected, but a delegation-path test exposed missing semantic limits on onward authority, and an intermediary with a shared evidence key could alter represented authority and still produce valid evidence. Bounded to the prototype, not all A2A deployments.
+
+### Procedural skills can train narrower subagent permissions
+Yu et al., [From Procedures to Permissions](https://arxiv.org/abs/2611.08905) (6 Nov, v1): for Qwen3.5-35B-A3B on ClawArena-Team the authors report +13.4 points tool-permission precision, +24.1 workspace-permission precision and +11.6 task success. Author-reported; not a substitute for external enforcement.
+
+### Authorization drift can arise without an attacker
+Cao et al., [Authorization Drift in LLM Agents](https://arxiv.org/abs/2611.09113) (6 Nov, v1): the Authorization Drift Benchmark (648 samples, 13 models, three frameworks, 25,207 trajectories) reports drift rates of 43–61% for frontier-capable models, dominated by early data over-collection; 86.18% of tasks had at least one compliant success. Benchmark outcomes, not deployment incident rates; legal mapping flags concerns, not violations.
+
+### WIMSE AIMS draft revision 01 (standards research)
+[draft-ietf-wimse-aims-01](https://www.ietf.org/archive/id/draft-ietf-wimse-aims-01.html) (2 Nov; Informational Internet-Draft, not an RFC) adds deprovisioning, re-checking authorization for sessions outliving their opening credentials, responses to changed runtime posture, and a policy-system section where each trust domain keeps its own policy. Compared with [revision 00](https://www.ietf.org/archive/id/draft-ietf-wimse-aims-00.txt) (15 Sept; covered 21 Sept). Cross-link: [[agent-standards-and-interoperability]].
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
@@ -172,3 +191,5 @@ All three are arXiv preprints (primary; peer review not established; abstract-le
 - [[2026-10-26-ai-agent-identity-news]]
 - [[south-korea-ai-agent-policy]]
 - [[2026-11-02-ai-agent-identity-news]]
+- [[2026-11-09-ai-agent-identity-news]]
+- [[united-kingdom-ai-agent-policy]]
