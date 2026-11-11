@@ -1,10 +1,10 @@
 # Estonia's AI Agent ID Proposal
 
-**Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
+**Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry; on 2026-11-10 the cabinet discussed a Public Information Act amendment giving agent-code registration a legal basis (discussion only) — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-11
 
 ---
 
@@ -152,6 +152,14 @@ No new Estonia development was verified in the 2 or 4 November reports; the agen
 
 No new Estonia development was verified (source: 2026-11-09-ai-agent-identity-news.md). No new legislative step or registry launch.
 
+## 2026-11-11: cabinet discusses legal basis for agent-code registration
+
+**New primary source.** On 10 November the cabinet discussed (agenda item 4) a draft amendment to **Public Information Act § 43(10)** creating a legal basis for registering AI agent codes. The government's explanation describes a unique code linked to a person that lets services identify when an AI agent acts on that person's behalf, with transparency, security and responsibility as objectives (source: 2026-11-11-ai-agent-identity-news.md, citing [Government of Estonia — Cabinet meeting agenda, 10 November 2026, item 4](https://valitsus.ee/uudised/valitsuse-kabinetinoupidamise-paevakord-10-november-2026)).
+
+- **What it establishes**: a dated, cabinet-level discussion of the legislative proposal — the first government-level step recorded here beyond the MKM FAQ (2026-10-25) and the Tallinn declaration (2026-11-05).
+- **What it does not establish**: cabinet approval of a final bill, submission to the Riigikogu, passage, commencement or a live registry; nor that agents receive an isikukood, nor that the code alone grants authority to act (source: 2026-11-11-ai-agent-identity-news.md).
+- **Consistency check**: agrees with the 2026-10-25 agendikood position (person-linked code, distinct from isikukood) and leaves the 2026-09-08 isikukood correction intact. **No contradiction.** The 2026-10-27 report's hoped-for early-November parliamentary submission (ERR, secondary) is not confirmed by this source and stays recorded as reported intention. Earlier sources referred to a "digital-identity bill"; whether that is the same draft as this Public Information Act amendment **needs verification**. See [[2026-11-11-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -176,3 +184,5 @@ No new Estonia development was verified (source: 2026-11-09-ai-agent-identity-ne
 - [[2026-11-05-ai-agent-identity-news]]
 - [[2026-11-06-ai-agent-identity-news]]
 - [[2026-11-09-ai-agent-identity-news]]
+- [[2026-11-10-ai-agent-identity-news]]
+- [[2026-11-11-ai-agent-identity-news]]

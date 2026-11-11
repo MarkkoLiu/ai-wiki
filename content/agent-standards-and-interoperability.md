@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-11
 
 ---
 
@@ -120,6 +120,11 @@ NIST's ten design tenets are a government design vision that existing standards 
 - CAC's 4 Nov initiative proposes open interoperability standards and a verifiable, traceable trust framework for agent discovery, negotiation and execution — a proposal, not a specification (source: 2026-11-05-ai-agent-identity-news.md).
 - Singapore (MDDI, 5 Nov) warns against incompatible sector-specific frameworks and plans regional standards work in 2027 (source: 2026-11-06-ai-agent-identity-news.md). See [[singapore-ai-agent-policy]].
 
+## 2026-11-11: Agent Name Service launches as a Linux Foundation project
+
+- The Linux Foundation announced (10 Nov) that **Agent Name Service (ANS)** has launched as a foundation project, formalising a June announcement of intent. ANS uses DNS and certificate-based signals for agent identity, verification and discovery; its seven-document specification covers naming and registration, versioning, DNS publication, log auditing, integrity monitoring and agent-to-agent authentication, under a technical steering committee. The issuer reports eleven supporting organisations and early interoperability work with AGNTCY and Agentic Resource Discovery (source: 2026-11-11-ai-agent-identity-news.md, citing [Linux Foundation — Agent Name Service launch, via PR Newswire](https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html), primary issuer release, not independent reporting).
+- **Status and layer**: open, foundation-governed identity infrastructure rather than a proprietary product — but not a government scheme, statutory requirement or final IETF/ISO standard; adoption claims are untested. Consistent with this page's recurring finding, identity/discovery does not by itself establish delegated permission or accountability ([[agent-authorization-and-delegation]]). See [[2026-11-11-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -146,3 +151,4 @@ NIST's ten design tenets are a government design vision that existing standards 
 - [[2026-11-09-ai-agent-identity-news]]
 - [[china-ai-agent-policy]]
 - [[singapore-ai-agent-policy]]
+- [[2026-11-11-ai-agent-identity-news]]

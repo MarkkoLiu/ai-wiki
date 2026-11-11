@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-11 (ingest of 2026-11-11)
+
+**Source ingested**: `raw/2026-11-11-ai-agent-identity-news.md` (Wednesday; no research section).
+
+**Pages created**: `wiki/2026-11-11-ai-agent-identity-news.md`.
+
+**Pages updated**: `estonia-ai-agent-id.md` (cabinet discussion of Public Information Act § 43(10) agent-code amendment; summary line), `agent-standards-and-interoperability.md` (Agent Name Service launch), `ai-agent-identity.md`, `agent-authorization-and-delegation.md`, `index.md`.
+
+**Contradictions**: none. The 2026-10-27 hoped-for early-November Riigikogu submission (ERR, secondary) is not confirmed by the 10 Nov cabinet agenda; retained as reported intention. Whether the earlier-reported "digital-identity bill" is the same draft as the Public Information Act amendment needs verification. The isikukood correction (2026-09-08) and agendikood position (2026-10-25) stand.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-11-10 (ingest of 2026-11-10)
 
 **Source ingested**: `raw/2026-11-10-ai-agent-identity-news.md` (Tuesday; no research section).
