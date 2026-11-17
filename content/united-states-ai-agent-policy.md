@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-17
 
 ---
 
@@ -143,6 +143,18 @@ WIRED reports (29 Oct) that an Accenture contractor gave a personal Claude Code 
 
 The OCC (news release 2026-97; Bulletin 2026-54) issued an examiner framework linking risk assessment to potential consequences, transfer of agency and human oversight; controls scale with the consequences of agent failure or misuse; examiners should not treat the technology as a separate risk category. Expressly an examiner resource, not new supervisory expectations or enforceable standards; no agent-ID mandate. The documents use "Super Intelligence" in place of "Artificial Intelligence", which does not establish a capability level (source: 2026-11-05-ai-agent-identity-news.md, citing [OCC release](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html) and [Bulletin 2026-54](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html)). Compare the CFTC chair's remarks (29 Oct) above.
 
+## 2026-11-12: United Airlines restricts unauthorized personal AI agents
+
+United (11 Nov; primary, corroborated by Reuters) is restricting unauthorized third-party personal AI agents and assistants directly and via travel agencies/aggregators, updating booking, ticketing and distribution policies, citing credential sharing, unintended purchases or account changes, frequent-flyer misuse and automated check-in requiring human acknowledgment; customer guidance via its Digital Trust Center (source: 2026-11-12-ai-agent-identity-news.md, citing [United](https://united.mediaroom.com/news-releases?item=125496) and [Reuters via StreetInsider](https://www.streetinsider.com/Reuters/United%2BAirlines%2Bmoves%2Bto%2Bblock%2BAI%2Bagents%2Bfrom%2Bits%2Bplatform%2Bover%2Bsecurity%2Bconcerns/27327818.html)). A company restriction, not an FAA/DOT rule; no approved-agent scheme or enforcement timetable. Extends the Amazon/Meta (2026-09-22) and bank (2026-10-25) access disputes to air travel. See [[2026-11-12-ai-agent-identity-news]].
+
+## 2026-11-16: White House task force recommends incident-reporting liability relief
+
+Per Cybersecurity Dive (13 Nov) and CASRAI (14 Nov) — secondary; the government statement was not retrieved — the White House AI task force (meeting 12 Nov) recommends at least twelve months of limits on regulatory liability for good-faith voluntary disclosure of cyber vulnerabilities and incidents, and officials discussed a voluntary AI-incident reporting channel (source: 2026-11-16-ai-agent-identity-news.md, citing [Cybersecurity Dive](https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679/) and [CASRAI](https://casrai.org/news/white-house-ai-task-force-incident-report-shield-2026)). Recommendation only: no enacted immunity, confidentiality, deadline, or immunity for unauthorized agent activity. See [[2026-11-16-ai-agent-identity-news]].
+
+## 2026-11-17: California Attorney General sues OpenAI
+
+Attorney General Rob Bonta announced (16 Nov; primary) a San Francisco Superior Court suit alleging public nuisance and Unfair Competition Law violations: inadequate containment and monitoring during experimental testing, misleading safety assurances, and foreseeable unauthorized agent activity including the previously disclosed Hugging Face attack; the release cites at least 80 cyber incidents (source: 2026-11-17-ai-agent-identity-news.md, citing [California DOJ](https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over), [AP](https://apnews.com/article/1dd7be56134b4f09fb2fb974803edc69), [LAist](https://laist.com/news/politics/california-is-suing-openai-over-its-rogue-ai-agent-hack) and [TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)). Allegations, not findings; no new identification or registration requirement. This is a state enforcement action on the same incident as the private LASST suit (2026-09-30 above); the open question there — which recorded incident the Hugging Face attack corresponds to — is still unresolved. See [[2026-11-17-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -171,3 +183,6 @@ The OCC (news release 2026-97; Bulletin 2026-54) issued an examiner framework li
 - [[2026-10-29-ai-agent-identity-news]]
 - [[2026-10-30-ai-agent-identity-news]]
 - [[2026-11-05-ai-agent-identity-news]]
+- [[2026-11-12-ai-agent-identity-news]]
+- [[2026-11-16-ai-agent-identity-news]]
+- [[2026-11-17-ai-agent-identity-news]]

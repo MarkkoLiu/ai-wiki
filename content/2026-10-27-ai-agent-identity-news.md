@@ -4,7 +4,7 @@
 
 **Sources**: 2026-10-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-17
 
 ---
 
@@ -29,6 +29,10 @@ Omitted (Tuesday).
 ## Contradictions
 
 None. Refinement only: the registry is described as voluntary, initially for private individuals with one agent per person, and the draft lacked ministry approval at the deadline; this adds detail to the "proposed registry" already recorded and does not overturn the 2026-10-25 agendikood position.
+
+## Later update (2026-11-17)
+
+The minister's reported "one registered agent per person" initial arrangement is now in tension with RIA's statement (TV3, 13 Nov, reported in [[2026-11-16-ai-agent-identity-news]]) that one-code-per-person vs one-per-agent is still under discussion; it is retained as a reported initial-scope intention, not a settled design. The hoped-for early-November submission is consistent with the government's 12 November approval and the ministry's statement that the bill is moving to Parliament, but formal introduction is unverified ([[2026-11-13-ai-agent-identity-news]]). See [[estonia-ai-agent-id]].
 
 ## Related pages
 

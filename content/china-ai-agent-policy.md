@@ -2,9 +2,9 @@
 
 **Summary**: China reportedly introduced a national standard for AI-agent interconnection that includes unified identity management and identity-code provisions for AI agents (2026-06-26).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-17
 
 ---
 
@@ -34,6 +34,11 @@ At the Wuzhen summit CAC and partners proposed international cooperation includi
 
 Zetrix (Malaysia-linked issuer) announced with CAICT a KYA service tying verifiable agent identities to authenticated individuals or organizations, with scoped, revocable permissions, limits on onward delegation and signed activity records; a planned pilot across China, ASEAN, the Middle East and Africa keeps local trust decisions; participants unconfirmed. Findings intended for ITU-T SG17's Focus Group on Trust and Identity for Humans and Agentic AI. Issuer claims, not independently validated; not an adopted standard or mandate (source: 2026-11-06-ai-agent-identity-news.md, citing [Zetrix](https://www.zetrix.com/zetrix-ai-and-china-academy-of-information-and-communications-technology-unveil-know-your-agent-kya-service-to-bring-trust-and-accountability-to-ai-agents/)). See also [[malaysia-ai-agent-policy]].
 
+## 2026-11-13: items surfaced but not counted as new (needs verification)
+
+- CAICT announced an agent-collaboration and MCP application-security standards project; initiation traces to a 3 Nov ministry plan, with no in-window approval, final standard or operative requirement shown (source: 2026-11-13-ai-agent-identity-news.md, citing [CAICT](https://aihub.caict.ac.cn/docs/TCS5VZ6QmVGR)).
+- Secondary commentary describes a "first national AI agent policy framework" dated **8 May 2026** (source: 2026-11-13-ai-agent-identity-news.md, citing [Present of AI](https://presentofai.mataroa.blog/blog/china-publishes-first-national-ai-agent-policy-framework/)). This wiki otherwise records a June 2026 national *standard* (SCMP, above). Whether the May framework and the June standard are distinct instruments **needs verification**; neither is confirmed from primary text. See [[2026-11-13-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -44,3 +49,4 @@ Zetrix (Malaysia-linked issuer) announced with CAICT a KYA service tying verifia
 - [[2026-11-06-ai-agent-identity-news]]
 - [[malaysia-ai-agent-policy]]
 - [[agent-standards-and-interoperability]]
+- [[2026-11-13-ai-agent-identity-news]]

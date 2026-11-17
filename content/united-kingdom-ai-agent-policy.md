@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-17
 
 ---
 
@@ -69,6 +69,10 @@ The UK is listed among the nine signatories of the Digital Nations "Agentic Stat
 
 In a written answer (6 Nov; no publication hour) Ian Murray told Wendy Morton that NCSC and DCMS are establishing a National Agentic Security Unit to investigate and respond to agentic incidents, citing an earlier announcement and a £40 million Budget allocation (not new funding). He also described proposed national-security direction powers under the Cyber Security and Resilience Bill: subject to legal tests, responses to loss of control could include isolating systems, restricting data flows or suspending automated actions. No launch date; unit not shown to be operating; powers proposed, not enacted. Distinct from NCSC Cyber Shield (source: 2026-11-09-ai-agent-identity-news.md, citing [UK Parliament WQ 29990](https://questions-statements.parliament.uk/written-questions/detail/2026-09-15/29990)). Relates to the Lords Amendment 70 on loss of oversight above. No contradiction with the earlier £115M incident-response commitment; the £40M figure is a separate allocation per the answer (needs verification of how the two relate).
 
+## 2026-11-12: Bank of England FPC member on agent identity and authority
+
+Jonathan Hall (external FPC member; speech, 11 Nov) argues alignment is insufficient and firms need access controls, least-privilege sandboxes, secure credentials and scalable monitoring; unique identities enable audit trails and revocation; permissions beyond trade execution should not be overly broad or persistent. He reads existing UK algorithm-identification requirements as applying naturally to AI trading agents and warns of financial-stability risk from correlated agent behaviour (source: 2026-11-12-ai-agent-identity-news.md, citing [Bank of England — Principals and Agents](https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop)). Policy discussion, not a binding rule; complements the FCA's 2026-10-19 framework commitment above. See [[2026-11-12-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -88,3 +92,4 @@ In a written answer (6 Nov; no publication hour) Ian Murray told Wendy Morton th
 - [[2026-11-04-ai-agent-identity-news]]
 - [[2026-11-09-ai-agent-identity-news]]
 - [[2026-11-06-ai-agent-identity-news]]
+- [[2026-11-12-ai-agent-identity-news]]

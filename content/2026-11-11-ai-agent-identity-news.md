@@ -4,7 +4,7 @@
 
 **Sources**: 2026-11-11-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-11
+**Last updated**: 2026-11-17
 
 ---
 
@@ -32,6 +32,10 @@ The report excluded as already covered or not qualifying: Australia's review res
 ## Contradictions
 
 None. The 2026-10-27 report's hoped-for "early-November parliamentary submission" (secondary, ERR) is **not confirmed** by this source, which shows only a 10 November cabinet discussion; the earlier hope is retained as reported intention, not overturned. Earlier coverage described a "digital-identity bill"; this source frames the legal basis as an amendment to Public Information Act § 43(10). Whether these are the same draft **needs verification**.
+
+## Later update (2026-11-17)
+
+The "needs verification" question above is largely answered by the 2026-11-13 report: the ministry says consultation led it to abandon the initial digital-identity framing, and the government approved the bill on 12 November under a revised title (bill supplementing the Public Information Act on agent codes). See [[2026-11-13-ai-agent-identity-news]] and [[estonia-ai-agent-id]].
 
 ## Related pages
 

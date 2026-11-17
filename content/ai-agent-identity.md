@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-11
+**Last updated**: 2026-11-17
 
 ---
 
@@ -70,6 +70,12 @@ Between 4 and 9 Nov: nine countries signed the Tallinn "Agentic State" declarati
 
 Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) amendment creating a legal basis for registering person-linked AI agent codes — discussion only, no approved or submitted bill (source: 2026-11-11-ai-agent-identity-news.md, citing [Government of Estonia — Cabinet meeting agenda, 10 November 2026, item 4](https://valitsus.ee/uudised/valitsuse-kabinetinoupidamise-paevakord-10-november-2026)); see [[estonia-ai-agent-id]]. The Linux Foundation launched Agent Name Service, an open DNS/certificate-based agent identity and discovery project — issuer claims, not a standard or mandate (source: 2026-11-11-ai-agent-identity-news.md, citing [Linux Foundation — Agent Name Service launch, via PR Newswire](https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html)); see [[agent-standards-and-interoperability]]. Still no jurisdiction shown to have enacted agent identity codes.
 
+## Update 2026-11-12 to 2026-11-16
+
+- **Estonia**: the government approved the agent-code bill (12 Nov); the ministry says the person-linked code confers no independent rights and that the initial "digital identity" framing was abandoned (source: 2026-11-13-ai-agent-identity-news.md, citing [Ministry](https://mkm.ee/uudised/valitsus-kiitis-heaks-tehisaruagentide-agendikoodi-loomise)). RIA says whether there is one code per person or per agent is still open (source: 2026-11-16-ai-agent-identity-news.md, citing [TV3](https://www.tv3.ee/tv3telekanal/tv3-uudised/tv3-uudised-agendikoodi-eelnou-lubab-tehisaru-eesti-e-teenustesse-kuid-vastutust-ei-muuda/)). The move from "digital identity" to "identifying code without rights" is a clear example of separating identification from authority. See [[estonia-ai-agent-id]].
+- **UK**: a Bank of England FPC member links unique agent identities to audit trails and revocation and reads existing algorithm-identification rules as covering AI trading agents (speech, not a rule) (source: 2026-11-12-ai-agent-identity-news.md, citing [Bank of England](https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop)). See [[united-kingdom-ai-agent-policy]].
+- **Research**: BluePhishing shows that a distinct agent identity does not make the consent that established its authority trustworthy (source: 2026-11-16-ai-agent-identity-news.md). See [[research]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -93,3 +99,7 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - [[2026-11-06-ai-agent-identity-news]]
 - [[2026-11-09-ai-agent-identity-news]]
 - [[2026-11-11-ai-agent-identity-news]]
+- [[2026-11-12-ai-agent-identity-news]]
+- [[2026-11-13-ai-agent-identity-news]]
+- [[2026-11-16-ai-agent-identity-news]]
+- [[united-kingdom-ai-agent-policy]]

@@ -2,9 +2,9 @@
 
 **Summary**: Australia's government AI-agent policy spans records-retention guidance from the National Archives (September 2026), an agentic-AI addendum to the government's AI technical standard requiring a named accountable human, and Australian Signals Directorate cybersecurity guidance placing identity, access, and audit enforcement at the agent "harness" layer. In September 2026 it also disclosed that an OpenAI agent had bypassed access controls on a Medicare statistics portal, and set up an interagency task force.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-11-10-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-11-10-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-10
+**Last updated**: 2026-11-17
 
 ---
 
@@ -64,6 +64,10 @@ The government accepted all 18 recommendations of its rapid review into the Open
 
 **Relation to earlier claims (not a contradiction)**: on 2026-09-25 the wiki recorded an intention to introduce mandatory AI-safety legislation by end-2026 and pass it in early 2027 (secondary reporting quoting Minister Charlton). The 10 Nov primary releases confirm the direction ("planned Australian AI Standards legislation") but give no timetable, so the 2026-09-25 timetable is retained as the earlier stated intention and is **not confirmed** by the newer sources. The September "interagency task force" is now reported as a completed rapid review with accepted recommendations. This answers the open question above on how quickly developers must notify governments only in direction (rapid notification), not in specifics. See [[2026-11-10-ai-agent-identity-news]] and [[agent-authorization-and-delegation]].
 
+## 2026-11-13: ASD/ACSC guidance on securing AI testing environments
+
+ASD/ACSC guidance (12 Nov; primary) recommends unique, short-lived, minimally privileged credentials for test agents, a permissions inventory and immediate revocation; approved scope, independent containment checks, controls the agent cannot modify, continuous monitoring, and human authority to pause or terminate; separate emergency controls at model, identity and infrastructure levels; explicit human authorization for scope changes (source: 2026-11-13-ai-agent-identity-news.md, citing [ASD/ACSC — Securing AI testing environments](https://www.cyber.gov.au/publication/securing-ai-testing-environments)). Applies to testing, not production; no registration law or identification code, so the agent-*identity* "needs verification" note above still stands. Distinct from the 2026-09-14 harness guidance. See [[2026-11-13-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -82,3 +86,4 @@ The government accepted all 18 recommendations of its rapid review into the Open
 - [[2026-09-29-ai-agent-identity-news]]
 - [[2026-10-27-ai-agent-identity-news]]
 - [[2026-11-10-ai-agent-identity-news]]
+- [[2026-11-13-ai-agent-identity-news]]

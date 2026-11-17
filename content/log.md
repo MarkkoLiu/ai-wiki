@@ -4,6 +4,23 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-17 (catch-up ingest of 2026-11-12, 2026-11-13, 2026-11-16 and 2026-11-17)
+
+**Sources ingested** (in date order): `raw/2026-11-12-ai-agent-identity-news.md` (Thursday), `raw/2026-11-13-ai-agent-identity-news.md` (Friday; saved 14 Nov), `raw/2026-11-16-ai-agent-identity-news.md` (Monday; has research), `raw/2026-11-17-ai-agent-identity-news.md` (Tuesday). None had been ingested earlier.
+
+**Pages created**: `wiki/2026-11-12-ai-agent-identity-news.md`, `wiki/2026-11-13-ai-agent-identity-news.md`, `wiki/2026-11-16-ai-agent-identity-news.md`, `wiki/2026-11-17-ai-agent-identity-news.md` (dated digests). No new concept or country pages.
+
+**Pages updated**: `estonia-ai-agent-id.md` (bill scheduled 11 Nov and approved 12 Nov under revised title; ministry clarification; TV3 follow-up with tension table; summary), `united-states-ai-agent-policy.md` (United Airlines restrictions; White House task force recommendation; California AG v. OpenAI), `united-kingdom-ai-agent-policy.md` (Bank of England FPC speech), `australia-ai-agent-policy.md` (ASD/ACSC testing-environment guidance), `china-ai-agent-policy.md` (CAICT project and May 2026 framework claim, needs verification), `research.md` (seven items), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `agent-standards-and-interoperability.md`, `2026-11-11-ai-agent-identity-news.md` and `2026-10-27-ai-agent-identity-news.md` (later-update notes), `index.md`.
+
+**Contradictions / corrections**:
+- *Resolved open question*: the 2026-11-11 "is the digital-identity bill the same draft as the Public Information Act amendment?" is largely answered — the ministry (primary, 12 Nov) says the initial digital-identity framing was abandoned after consultation; noted on the 11-11 digest.
+- *Tension 1 (Estonia)*: 2026-10-27 ERR (secondary) "one registered agent per person" vs RIA via TV3 (secondary, 13 Nov) that one-code-per-person vs per-agent is undecided. RIA preferred on architecture (responsible body, later); earlier claim retained as reported initial-scope intention; noted on the 10-27 digest.
+- *Tension 2 (Estonia)*: MKM FAQ (primary, Oct) permission mechanics (strictest limit applies, revocation) vs the minister (TV3) saying the bill does not regulate delegated permissions. Treated as reconcilable (FAQ = intended operation, bill = no statutory permission rules); statutory basis needs verification against the bill text.
+- No standing claim overturned; the 2026-09-08 isikukood correction and 2026-10-25 agendikood position stand.
+- *Gaps*: eBay (10 Nov) and OpenAI Control Room (9 Nov) are described by the reports as already covered but are absent from this wiki; Biometric Update World Bank/ITU item (16 Nov, 18:45 Helsinki) fell inside the 11-16 window but was not included there and is excluded by 11-17 as pre-window — unrecorded. Singapore CSA AD-2026-015 remains a known gap.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-11-11 (ingest of 2026-11-11)
 
 **Source ingested**: `raw/2026-11-11-ai-agent-identity-news.md` (Wednesday; no research section).

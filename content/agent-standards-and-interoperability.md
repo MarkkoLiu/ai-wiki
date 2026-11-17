@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-11
+**Last updated**: 2026-11-17
 
 ---
 
@@ -125,6 +125,11 @@ NIST's ten design tenets are a government design vision that existing standards 
 - The Linux Foundation announced (10 Nov) that **Agent Name Service (ANS)** has launched as a foundation project, formalising a June announcement of intent. ANS uses DNS and certificate-based signals for agent identity, verification and discovery; its seven-document specification covers naming and registration, versioning, DNS publication, log auditing, integrity monitoring and agent-to-agent authentication, under a technical steering committee. The issuer reports eleven supporting organisations and early interoperability work with AGNTCY and Agentic Resource Discovery (source: 2026-11-11-ai-agent-identity-news.md, citing [Linux Foundation — Agent Name Service launch, via PR Newswire](https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html), primary issuer release, not independent reporting).
 - **Status and layer**: open, foundation-governed identity infrastructure rather than a proprietary product — but not a government scheme, statutory requirement or final IETF/ISO standard; adoption claims are untested. Consistent with this page's recurring finding, identity/discovery does not by itself establish delegated permission or accountability ([[agent-authorization-and-delegation]]). See [[2026-11-11-ai-agent-identity-news]].
 
+## 2026-11-13 / 2026-11-16: CAICT project noted; capability-token and consent research
+
+- A CAICT agent-collaboration and MCP application-security standards project was surfaced, but its initiation traces to a 3 Nov ministry plan and the accessible text shows no approval or final standard; the report did not count it as new (source: 2026-11-13-ai-agent-identity-news.md, citing [CAICT](https://aihub.caict.ac.cn/docs/TCS5VZ6QmVGR)). Status **needs verification**. See [[china-ai-agent-policy]].
+- Research relevant to this layer: AgentCap enforces short-lived capability tokens at an MCP wrapper; BluePhishing shows consent abuse against Microsoft Entra agent identity blueprints (source: 2026-11-16-ai-agent-identity-news.md). See [[research]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -152,3 +157,5 @@ NIST's ten design tenets are a government design vision that existing standards 
 - [[china-ai-agent-policy]]
 - [[singapore-ai-agent-policy]]
 - [[2026-11-11-ai-agent-identity-news]]
+- [[2026-11-13-ai-agent-identity-news]]
+- [[2026-11-16-ai-agent-identity-news]]

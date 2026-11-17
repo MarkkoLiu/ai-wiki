@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-17
 
 ---
 
@@ -176,6 +176,31 @@ Cao et al., [Authorization Drift in LLM Agents](https://arxiv.org/abs/2611.09113
 ### WIMSE AIMS draft revision 01 (standards research)
 [draft-ietf-wimse-aims-01](https://www.ietf.org/archive/id/draft-ietf-wimse-aims-01.html) (2 Nov; Informational Internet-Draft, not an RFC) adds deprovisioning, re-checking authorization for sessions outliving their opening credentials, responses to changed runtime posture, and a policy-system section where each trust domain keeps its own policy. Compared with [revision 00](https://www.ietf.org/archive/id/draft-ietf-wimse-aims-00.txt) (15 Sept; covered 21 Sept). Cross-link: [[agent-standards-and-interoperability]].
 
+## 2026-11-16: policy-state leakage, reversibility, delegated scope, capability tokens, privilege minimisation, consent abuse, CoT monitorability
+
+Seven newly surfaced primary sources, all dated before the news window; judged from abstracts, submission histories or technical disclosures — no replication or full-paper audit (source: 2026-11-16-ai-agent-identity-news.md).
+
+### Approval settings may leak through shared-GPU execution
+Fu et al., [PolicySniff](https://arxiv.org/abs/2611.16158) (12 Nov, v1): a co-resident process inferred an agent's confidential approval-policy setting by timing its own GPU work, reaching 94.17% balanced accuracy in the tested sparse MoE runtime with known candidate settings. Obeying a policy ≠ keeping its configuration secret; not evidence that every host leaks or that authorization was bypassed. Recommends enforcing authorization outside the model. Relates to [[agent-authorization-and-delegation]].
+
+### Multi-agent control must survive adaptation
+Han & Boyle, [From Emergence to Reversibility](https://arxiv.org/abs/2611.09054) (v1 6 Nov, v2 13 Nov): research agenda on whether an authorized supervisor can keep specified effects restricted as agents learn, delegate, share memory and repair failures, and distinguishing legitimate repair from unauthorized reconstruction. Conceptual, not a demonstrated system.
+
+### Technical permission is broader than delegated task scope
+Kanchi, [Permitted but Unauthorized](https://arxiv.org/abs/2611.04086) (2 Nov, v1): in simulated release-pipeline and SOC environments, agents acted on peers' resources without mandate; deterministic monitoring and a pre-execution judge blocked tested scope crossings, but agents could still harm peers via their own authorized resources. Bounded to tested models and simulations.
+
+### AgentCap: capability-based runtime authorization
+Kabbinamakki Suresh & Gao, [AgentCap](https://arxiv.org/abs/2611.00729) (31 Oct, v1; non-archival NeurIPS 2026 workshop): authorization outside the model, checked per tool call through an MCP wrapper; short-lived capability tokens limit budget and lifetime, and downstream delegation can only narrow them. Reduced attack success on AgentDojo and InjecAgent (zero for one model). Benchmark results, not a general proof. Relates to [[agent-standards-and-interoperability]].
+
+### PRISM: least privilege from task necessity
+Luo et al., [PRISM](https://arxiv.org/abs/2611.11539) (8 Nov, v1): sandbox interventions test tool necessity, then induce smaller roles — 78.3% fewer authorized tools per role, 78.2% task success across AgentDojo, τ-bench and ToolEmu. Does not establish the human principal or guarantee actions stay within mandate.
+
+### BluePhishing: consent abuse against agent identity blueprints (vendor research)
+Proofpoint (Rabin), [BluePhishing](https://www.proofpoint.com/us/blog/threat-insight/BluePhishing-Initial-Access-via-Third-Party-Agent-Blueprint-Consent) (9 Nov): consent to a malicious Microsoft Entra agent blueprint can let an attacker create agent identities in a victim tenant with inherited permissions. A distinct agent identity does not make the consent establishing its authority trustworthy. No exploitation in the wild identified. Relates to [[ai-agent-identity]].
+
+### Chain-of-thought monitorability across the model lifecycle (lab study)
+Wang et al., OpenAI, [What affects chain-of-thought monitorability across the model lifecycle?](https://alignment.openai.com/cot-monitorability-model-lifecycle/) (10 Nov): pretraining, architecture, RL and model-generated training data can affect two imperfect monitorability proxies; reasoning traces alone may become weaker evidence of unauthorized conduct. Not an identity mechanism or substitute for execution controls. Compare the OpenAI monitoring items under 2026-10-26 above.
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
@@ -193,3 +218,4 @@ Cao et al., [Authorization Drift in LLM Agents](https://arxiv.org/abs/2611.09113
 - [[2026-11-02-ai-agent-identity-news]]
 - [[2026-11-09-ai-agent-identity-news]]
 - [[united-kingdom-ai-agent-policy]]
+- [[2026-11-16-ai-agent-identity-news]]
