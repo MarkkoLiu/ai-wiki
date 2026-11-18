@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
@@ -73,6 +73,12 @@ In a written answer (6 Nov; no publication hour) Ian Murray told Wendy Morton th
 
 Jonathan Hall (external FPC member; speech, 11 Nov) argues alignment is insufficient and firms need access controls, least-privilege sandboxes, secure credentials and scalable monitoring; unique identities enable audit trails and revocation; permissions beyond trade execution should not be overly broad or persistent. He reads existing UK algorithm-identification requirements as applying naturally to AI trading agents and warns of financial-stability risk from correlated agent behaviour (source: 2026-11-12-ai-agent-identity-news.md, citing [Bank of England — Principals and Agents](https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop)). Policy discussion, not a binding rule; complements the FCA's 2026-10-19 framework commitment above. See [[2026-11-12-ai-agent-identity-news]].
 
+## 2026-11-16 (surfaced 2026-11-18): DRCF joint letter on personal-agent launches
+
+The CMA, FCA, ICO and Ofcom, via the DRCF, wrote to ministers (letter dated **16 November**) that firms preparing UK personal-agent launches have engaged **inconsistently** with relevant regulators. The letter calls for compliance and any required authorization or registration **before launch**, continued review as products evolve, and protection of user control and connected systems; commercial partners retain their obligations when customers use agents; regulators signal readiness to enforce existing law (source: 2026-11-18-ai-agent-identity-news.md, citing [DRCF joint letter](https://www.drcf.org.uk/publications/joint-statements/drcf-joint-letter-personal-ai-agents), primary; [FCA DRCF page](https://www.fca.org.uk/about/how-we-operate/who-work-with/drcf), primary, confirming 16 Nov publication; [LexisNexis](https://www.lexisnexis.co.uk/legal/news/drcf-regulators-set-out-expectations-for-firms-launching-personal-ai-agents) and [Resultsense](https://www.resultsense.com/news/2026-11-17-drcf-regulators-letter-ministers-personal-ai-agents/), secondary, 17 Nov).
+
+- **Status**: newly surfaced coverage of a 16 Nov development; distinct from, and a follow-up to, the 30 Oct DRCF joint statement above. It concerns accountable deployment and authorization to provide regulated services, not an agent identity code; no new legislation, no universal agent-registration duty, and no named firm's breach established (source: 2026-11-18-ai-agent-identity-news.md). See [[2026-11-18-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -93,3 +99,4 @@ Jonathan Hall (external FPC member; speech, 11 Nov) argues alignment is insuffic
 - [[2026-11-09-ai-agent-identity-news]]
 - [[2026-11-06-ai-agent-identity-news]]
 - [[2026-11-12-ai-agent-identity-news]]
+- [[2026-11-18-ai-agent-identity-news]]

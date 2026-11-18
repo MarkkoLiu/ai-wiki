@@ -4,7 +4,7 @@
 
 **Sources**: 2026-11-13-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
@@ -12,7 +12,7 @@
 
 - **Government approves the agent-code bill (12 Nov 2026, 09:44; primary government session-outcome announcement)**: the government approved all sixteen items at its electronic session, including item 6, whose title was revised to a bill *supplementing* the Public Information Act on agent codes, replacing the earlier "amendment of § 43(10) on agent-code registration" title (source: 2026-11-13-ai-agent-identity-news.md, citing [Government of Estonia — Session completed; all items approved](https://www.valitsus.ee/uudised/istung-labi-pressikonverentsil-ligi-tsahkna-leis-ja-terras)). The report records the title change without inferring substantive legal changes.
 - **Ministry clarification — same development (12 Nov 2026, 16:27; primary government source)**: each unique agent code would be linked to a specific person and would confer neither independent rights nor automatic access to data or services. Businesses could choose whether to support it; public agencies would have to permit the relevant agent actions. RIA would develop security criteria and implementation recommendations. The ministry says consultation led it to **abandon the initial digital-identity framing** and narrow the code's use and RIA's tasks; it describes the bill as moving to Parliament, with deployment dependent on legislation and technical readiness (source: 2026-11-13-ai-agent-identity-news.md, citing [Ministry — Government approves creation of AI-agent codes](https://mkm.ee/uudised/valitsus-kiitis-heaks-tehisaruagentide-agendikoodi-loomise)).
-- **Status**: government approval is not parliamentary passage, promulgation, commencement or a live registry; formal introduction in the Riigikogu and the revised bill text are not established. No claim that agents receive isikukood or that registration alone grants permission (source: 2026-11-13-ai-agent-identity-news.md).
+- **Status**: government approval is not parliamentary passage, promulgation, commencement or a live registry; formal introduction in the Riigikogu and the revised bill text are not established. No claim that agents receive isikukood or that registration alone grants permission (source: 2026-11-13-ai-agent-identity-news.md). *(Later update 2026-11-18: formal introduction is now verified — the government initiated the bill on 16 Nov and the Riigikogu accepted it into proceedings on 17 Nov as bill 1092 SE; still not passed. See [[2026-11-18-ai-agent-identity-news]].)*
 - **Effect on earlier wiki notes**: the ministry's statement that the "digital-identity" framing was abandoned answers the 2026-11-11 "needs verification" question — the October "digital-identity bill" (Tikerpe, ERR) is best read as the earlier framing of the same proposal, since narrowed (inference from the ministry's account; bill texts not compared). The 2026-10-27 hoped-for early-November parliamentary submission is consistent with the ministry's "moving to Parliament", but introduction remains unverified. See [[estonia-ai-agent-id]].
 
 ## Section 2 — Other countries

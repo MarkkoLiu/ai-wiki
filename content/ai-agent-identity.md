@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
@@ -76,6 +76,11 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - **UK**: a Bank of England FPC member links unique agent identities to audit trails and revocation and reads existing algorithm-identification rules as covering AI trading agents (speech, not a rule) (source: 2026-11-12-ai-agent-identity-news.md, citing [Bank of England](https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop)). See [[united-kingdom-ai-agent-policy]].
 - **Research**: BluePhishing shows that a distinct agent identity does not make the consent that established its authority trustworthy (source: 2026-11-16-ai-agent-identity-news.md). See [[research]].
 
+## Update 2026-11-18
+
+- **Estonia**: the agent-code bill was accepted into Riigikogu proceedings as bill 1092 SE (17 Nov; Constitutional Committee leads) — a legislative step, not enactment (source: 2026-11-18-ai-agent-identity-news.md, citing [Riigikogu](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-toostusheite-seaduse-muutmiseks/)). Estonia remains the closest jurisdiction to a statutory agent identity code, but none is yet enacted. See [[estonia-ai-agent-id]].
+- **Singapore**: the government frames agent identity as verifying an agent *and its accountable principal*, distinct from authorizing actions, and prioritizes interoperable Know Your Agent arrangements (source: 2026-11-18-ai-agent-identity-news.md, citing [MDDI](https://www.mddi.gov.sg/newsroom/keynote-address-by-sms-tan-kiat-how-at-the-unveiling-of-stablex-agentic-network/)). See [[singapore-ai-agent-policy]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -103,3 +108,4 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - [[2026-11-13-ai-agent-identity-news]]
 - [[2026-11-16-ai-agent-identity-news]]
 - [[united-kingdom-ai-agent-policy]]
+- [[2026-11-18-ai-agent-identity-news]]

@@ -4,13 +4,13 @@
 
 **Sources**: 2026-11-17-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
 ## Section 1 — Estonia
 
-No new relevant, non-duplicate source was verified. The [MKM agent-code FAQ](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood) was last updated 13 November, before this window; the government approval, ministry clarification and TV3 follow-up were already covered. No parliamentary passage or operational registry was verified (source: 2026-11-17-ai-agent-identity-news.md). See [[estonia-ai-agent-id]].
+No new relevant, non-duplicate source was verified. The [MKM agent-code FAQ](https://www.mkm.ee/ettevotlus-ja-innovatsioon/innovatsioon/ai-agendikood) was last updated 13 November, before this window; the government approval, ministry clarification and TV3 follow-up were already covered. No parliamentary passage or operational registry was verified (source: 2026-11-17-ai-agent-identity-news.md). See [[estonia-ai-agent-id]]. *(Later update 2026-11-18: the bill was initiated in the Riigikogu on 16 Nov — date only, so it may have fallen inside this report's window — and accepted into proceedings on 17 Nov as bill 1092 SE. This does not contradict the statement above: it is still not passed. See [[2026-11-18-ai-agent-identity-news]].)*
 
 ## Section 2 — Other countries
 

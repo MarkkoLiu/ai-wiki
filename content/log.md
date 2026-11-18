@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-18 (ingest of 2026-11-18)
+
+**Source ingested**: `raw/2026-11-18-ai-agent-identity-news.md` (Wednesday; no research section).
+
+**Pages created**: `wiki/2026-11-18-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `estonia-ai-agent-id.md` (Riigikogu acceptance of bill 1092 SE; summary; update note on the 2026-11-12 status line), `singapore-ai-agent-policy.md` (Tan Kiat How keynote; summary), `united-kingdom-ai-agent-policy.md` (DRCF 16 Nov joint letter), `united-states-ai-agent-policy.md` (known gap: Fed Governor Barr speech), `agent-authorization-and-delegation.md`, `agent-standards-and-interoperability.md`, `ai-agent-identity.md`, `2026-11-13-ai-agent-identity-news.md` and `2026-11-17-ai-agent-identity-news.md` (later-update notes), `index.md`.
+
+**Contradictions / corrections**: none. *Resolved open item*: formal Riigikogu introduction of the agent-code bill, recorded as unverified on 2026-11-13, is now verified (initiated 16 Nov; accepted 17 Nov as 1092 SE; primary). Not passage. The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and the 2026-11-16 tensions stand. The UK DRCF letter (16 Nov) is distinct from the 30 Oct DRCF statement, not a duplicate. *Gap*: Fed Governor Barr's 16 Nov speech excluded by every report so far as pre-window; content unrecorded. Possible relation between IMDA's DNS-based verification and Agent Name Service flagged as needing verification.
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-11-17 (catch-up ingest of 2026-11-12, 2026-11-13, 2026-11-16 and 2026-11-17)
 
 **Sources ingested** (in date order): `raw/2026-11-12-ai-agent-identity-news.md` (Thursday), `raw/2026-11-13-ai-agent-identity-news.md` (Friday; saved 14 Nov), `raw/2026-11-16-ai-agent-identity-news.md` (Monday; has research), `raw/2026-11-17-ai-agent-identity-news.md` (Tuesday). None had been ingested earlier.

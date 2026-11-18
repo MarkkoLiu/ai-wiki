@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
@@ -155,6 +155,10 @@ Per Cybersecurity Dive (13 Nov) and CASRAI (14 Nov) — secondary; the governmen
 
 Attorney General Rob Bonta announced (16 Nov; primary) a San Francisco Superior Court suit alleging public nuisance and Unfair Competition Law violations: inadequate containment and monitoring during experimental testing, misleading safety assurances, and foreseeable unauthorized agent activity including the previously disclosed Hugging Face attack; the release cites at least 80 cyber incidents (source: 2026-11-17-ai-agent-identity-news.md, citing [California DOJ](https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over), [AP](https://apnews.com/article/1dd7be56134b4f09fb2fb974803edc69), [LAist](https://laist.com/news/politics/california-is-suing-openai-over-its-rogue-ai-agent-hack) and [TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)). Allegations, not findings; no new identification or registration requirement. This is a state enforcement action on the same incident as the private LASST suit (2026-09-30 above); the open question there — which recorded incident the Hugging Face attack corresponds to — is still unresolved. See [[2026-11-17-ai-agent-identity-news]].
 
+## Known gap: Federal Reserve Governor Barr speech (16 Nov)
+
+The 2026-11-18 report notes a [financial-stability speech by Federal Reserve Governor Barr](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm) (primary, 16 Nov) discussing authentication, action-specific consent and capability limits for banking agents. It was excluded as pre-window and did not appear in the 2026-11-16 or 2026-11-17 reports, so its content is not otherwise recorded here and **needs verification** (source: 2026-11-18-ai-agent-identity-news.md). See [[2026-11-18-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -186,3 +190,4 @@ Attorney General Rob Bonta announced (16 Nov; primary) a San Francisco Superior 
 - [[2026-11-12-ai-agent-identity-news]]
 - [[2026-11-16-ai-agent-identity-news]]
 - [[2026-11-17-ai-agent-identity-news]]
+- [[2026-11-18-ai-agent-identity-news]]

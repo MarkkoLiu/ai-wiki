@@ -1,10 +1,10 @@
 # Singapore: AI Agent Governance Sandbox
 
-**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents.
+**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents. Governance remains guidance-led; on 2026-11-17 the government set out interoperable Know Your Agent, continuous assurance and cross-organization trusted-transaction testing as collaboration priorities (no mandate or national registry).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-18
 
 ---
 
@@ -26,6 +26,13 @@ Jasmin Lau (MDDI) said businesses need to know an agent's identity, permitted ac
 
 The 9 Nov report notes a CSA-led advisory ([AD-2026-015](https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/), primary) on personal AI agents, public by 6 Nov morning per [CNA](https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836). It was excluded from both the 6 and 9 Nov reports, so its content is not recorded here and needs verification (source: 2026-11-09-ai-agent-identity-news.md).
 
+## 2026-11-17: interoperable Know Your Agent and mandate checks as government priorities
+
+Senior Minister of State Tan Kiat How, at the unveiling of MetaComp's StableX Agentic Network, named three areas for industry–government collaboration: **interoperable Know Your Agent** arrangements, **continuous assurance**, and **testing trusted transactions across organizations**. He separated *verifying* an agent and its accountable principal from *authorizing* specific actions, emphasizing spending limits, revocation and auditability, and described MAS's **SAFR** work on evaluating proposed agent transactions before execution (including identity and mandate checks) and IMDA's exploration of **DNS-based cross-platform verification** (source: 2026-11-18-ai-agent-identity-news.md, citing [MDDI — keynote by SMS Tan Kiat How](https://www.mddi.gov.sg/newsroom/keynote-address-by-sms-tan-kiat-how-at-the-unveiling-of-stablex-agentic-network/), primary, 17 Nov).
+
+- **Status**: priorities, not an enacted requirement or a chosen national identity architecture; welcoming an industry-led network does not establish a government-operated registry (source: 2026-11-18-ai-agent-identity-news.md).
+- **Consistency**: extends the 2026-11-05 MDDI remarks (MAS/IMDA testing whether existing internet infrastructure can support agent verification; warning against incompatible sector frameworks) and keeps the guidance-led stance above. **No contradiction.** See [[agent-authorization-and-delegation]], [[agent-standards-and-interoperability]] and [[2026-11-18-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -36,3 +43,4 @@ The 9 Nov report notes a CSA-led advisory ([AD-2026-015](https://www.csa.gov.sg/
 - [[2026-09-09-ai-agent-identity-news]]
 - [[2026-11-06-ai-agent-identity-news]]
 - [[agent-standards-and-interoperability]]
+- [[2026-11-18-ai-agent-identity-news]]

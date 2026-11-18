@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-18
 
 ---
 
@@ -130,6 +130,10 @@ NIST's ten design tenets are a government design vision that existing standards 
 - A CAICT agent-collaboration and MCP application-security standards project was surfaced, but its initiation traces to a 3 Nov ministry plan and the accessible text shows no approval or final standard; the report did not count it as new (source: 2026-11-13-ai-agent-identity-news.md, citing [CAICT](https://aihub.caict.ac.cn/docs/TCS5VZ6QmVGR)). Status **needs verification**. See [[china-ai-agent-policy]].
 - Research relevant to this layer: AgentCap enforces short-lived capability tokens at an MCP wrapper; BluePhishing shows consent abuse against Microsoft Entra agent identity blueprints (source: 2026-11-16-ai-agent-identity-news.md). See [[research]].
 
+## 2026-11-18: Singapore on interoperable Know Your Agent and DNS-based verification
+
+Singapore's government named **interoperable Know Your Agent** arrangements and cross-organization trusted-transaction testing as collaboration priorities, and said IMDA is exploring **DNS-based cross-platform agent verification** (source: 2026-11-18-ai-agent-identity-news.md, citing [MDDI](https://www.mddi.gov.sg/newsroom/keynote-address-by-sms-tan-kiat-how-at-the-unveiling-of-stablex-agentic-network/), primary). This is exploratory government work, not a selected standard; whether it relates to the Linux Foundation's DNS-based Agent Name Service (2026-11-11 above) is not stated and **needs verification**. See [[singapore-ai-agent-policy]] and [[2026-11-18-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -159,3 +163,4 @@ NIST's ten design tenets are a government design vision that existing standards 
 - [[2026-11-11-ai-agent-identity-news]]
 - [[2026-11-13-ai-agent-identity-news]]
 - [[2026-11-16-ai-agent-identity-news]]
+- [[2026-11-18-ai-agent-identity-news]]
