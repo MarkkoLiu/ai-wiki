@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry; on 2026-11-10 the cabinet discussed a Public Information Act amendment giving agent-code registration a legal basis, and **on 2026-11-12 the government approved the agent-code bill**, which was initiated in the Riigikogu on 2026-11-16 and accepted into proceedings as **bill 1092 SE** on 2026-11-17 (not yet enacted; the ministry says the code confers no independent rights and the earlier "digital identity" framing was abandoned) — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -191,6 +191,10 @@ No new Estonia development; the MKM FAQ was last updated 13 November, before the
 - **Status**: a parliamentary-process step — **not** passage, promulgation or commencement; it does not create automatic delegated authority and is no evidence of an operational registry (source: 2026-11-18-ai-agent-identity-news.md).
 - **Effect on earlier entries**: resolves the "formal introduction unverified" note in the 2026-11-12 section (and on [[2026-11-13-ai-agent-identity-news]]); consistent with the 2026-10-27 hoped-for parliamentary submission (ERR, secondary), which came about two weeks later than "early November". **No contradiction**: the agendikood position (2026-10-25), the isikukood correction (2026-09-08) and the open questions flagged on 2026-11-16 (one code per person vs per agent; no statutory permission rules) all still stand — the bill record now makes the bill text checkable, but this wiki has not compared it. See [[2026-11-18-ai-agent-identity-news]].
 
+## Update 2026-11-19: no change
+
+No new Estonia development; the bill 1092 SE record still shows it accepted into proceedings (source: 2026-11-19-ai-agent-identity-news.md). Not passed; all standing positions above unchanged.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -222,3 +226,4 @@ No new Estonia development; the MKM FAQ was last updated 13 November, before the
 - [[2026-11-16-ai-agent-identity-news]]
 - [[2026-11-17-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

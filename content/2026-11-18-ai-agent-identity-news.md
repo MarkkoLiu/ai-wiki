@@ -33,6 +33,10 @@ Omitted (Wednesday); no research section in the report.
 
 None. The Riigikogu item resolves an open "unverified" note rather than contradicting any claim. The report notes that it searched for StableX, SAFR and GovHarness as possible duplicates; none are previously recorded in this wiki. The report's statement that it "updated the existing dated report rather than creating a duplicate" refers to its own generation process; only one 2026-11-18 file exists in `raw/`.
 
+## Later update
+
+- **2026-11-19**: MAS expanded SAFR as *Safeguards for Agentic Finance at Runtime* and announced plans for a common agent verification protocol and an Agentic Money Sandbox — consistent with, and extending, the Singapore item above. Estonia's bill 1092 SE unchanged. See [[2026-11-19-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[estonia-ai-agent-id]]
@@ -44,3 +48,4 @@ None. The Riigikogu item resolves an open "unverified" note rather than contradi
 - [[ai-agent-identity]]
 - [[2026-11-13-ai-agent-identity-news]]
 - [[2026-11-17-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -134,6 +134,10 @@ NIST's ten design tenets are a government design vision that existing standards 
 
 Singapore's government named **interoperable Know Your Agent** arrangements and cross-organization trusted-transaction testing as collaboration priorities, and said IMDA is exploring **DNS-based cross-platform agent verification** (source: 2026-11-18-ai-agent-identity-news.md, citing [MDDI](https://www.mddi.gov.sg/newsroom/keynote-address-by-sms-tan-kiat-how-at-the-unveiling-of-stablex-agentic-network/), primary). This is exploratory government work, not a selected standard; whether it relates to the Linux Foundation's DNS-based Agent Name Service (2026-11-11 above) is not stated and **needs verification**. See [[singapore-ai-agent-policy]] and [[2026-11-18-ai-agent-identity-news]].
 
+## 2026-11-19: MAS plans a common agent verification protocol
+
+The next phase of MAS's SAFR programme would develop a **common protocol** for financial institutions to verify who an agent represents, what it is authorized to do and what provenance assurances exist, tested alongside an Agentic Money Sandbox (source: 2026-11-19-ai-agent-identity-news.md, citing [MAS managing director's keynote, paras 49–62](https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026) and [MAS and Future of Finance Institute announcement](https://www.mas.gov.sg/news/media-releases/2026/mas-and-future-of-finance-institute-set-out-initiatives-in-support-of-national-ai-missions), primary). Protocol development, not a finalized standard; a sector-level (finance) counterpart to the interoperable Know Your Agent priority recorded on 2026-11-18. See [[singapore-ai-agent-policy]] and [[2026-11-19-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -164,3 +168,4 @@ Singapore's government named **interoperable Know Your Agent** arrangements and 
 - [[2026-11-13-ai-agent-identity-news]]
 - [[2026-11-16-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

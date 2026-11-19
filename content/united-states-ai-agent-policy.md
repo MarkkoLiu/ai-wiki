@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -159,6 +159,12 @@ Attorney General Rob Bonta announced (16 Nov; primary) a San Francisco Superior 
 
 The 2026-11-18 report notes a [financial-stability speech by Federal Reserve Governor Barr](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm) (primary, 16 Nov) discussing authentication, action-specific consent and capability limits for banking agents. It was excluded as pre-window and did not appear in the 2026-11-16 or 2026-11-17 reports, so its content is not otherwise recorded here and **needs verification** (source: 2026-11-18-ai-agent-identity-news.md). See [[2026-11-18-ai-agent-identity-news]].
 
+## 2026-11-18: Cantwell and Rounds seek NIST limits on agent access and permissions
+
+Senators Maria Cantwell and Mike Rounds urged the White House to coordinate a national AI cyberdefense effort, asking for **NIST security standards preventing autonomous defensive agents from exceeding access and permission limits**, with independent testing, explainability and audits of organizational controls; they cite banks' difficulty distinguishing customer-authorized agents from rogue actors (source: 2026-11-19-ai-agent-identity-news.md, citing [Senate Commerce Committee release](https://www.commerce.senate.gov/press/dem/release/cantwell-rounds-warn-ai-cyber-threats-are-outpacing-u-s-defenses-call-for-urgent-white-house-action-to-protect-critical-infrastructure/) and [original letter](https://www.commerce.senate.gov/wp-content/uploads/2026/11/AI-and-cybersecurity-letter-to-SIF.pdf), primary, 18 Nov).
+
+- **Status**: a bipartisan request for executive action — not adopted standards, legislation or an identity-registration requirement; the cited incidents are the senators' claims. The report says this follows their October letter, which this wiki records only as an unlinked "7 October Cantwell governance proposal" ([[2026-10-09-ai-agent-identity-news]]) — **needs verification**. Relates to the NIST design tenets (2026-10-28) above. See [[2026-11-19-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -191,3 +197,4 @@ The 2026-11-18 report notes a [financial-stability speech by Federal Reserve Gov
 - [[2026-11-16-ai-agent-identity-news]]
 - [[2026-11-17-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

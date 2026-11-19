@@ -1,10 +1,10 @@
 # Singapore: AI Agent Governance Sandbox
 
-**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents. Governance remains guidance-led; on 2026-11-17 the government set out interoperable Know Your Agent, continuous assurance and cross-organization trusted-transaction testing as collaboration priorities (no mandate or national registry).
+**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents. Governance remains guidance-led; on 2026-11-17 the government set out interoperable Know Your Agent, continuous assurance and cross-organization trusted-transaction testing as collaboration priorities (no mandate or national registry); on 2026-11-18/19 MAS announced an Agentic Money Sandbox and plans for a common protocol to verify whom an agent represents, its authority and provenance (planned, not final).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -33,6 +33,13 @@ Senior Minister of State Tan Kiat How, at the unveiling of MetaComp's StableX Ag
 - **Status**: priorities, not an enacted requirement or a chosen national identity architecture; welcoming an industry-led network does not establish a government-operated registry (source: 2026-11-18-ai-agent-identity-news.md).
 - **Consistency**: extends the 2026-11-05 MDDI remarks (MAS/IMDA testing whether existing internet infrastructure can support agent verification; warning against incompatible sector frameworks) and keeps the guidance-led stance above. **No contradiction.** See [[agent-authorization-and-delegation]], [[agent-standards-and-interoperability]] and [[2026-11-18-ai-agent-identity-news]].
 
+## 2026-11-18/19: MAS agent verification protocol and Agentic Money Sandbox
+
+MAS and the Future of Finance Institute announced (18 Nov) an **Agentic Money Sandbox** for corporate treasury and payments use cases, in which participating payment providers would **check agents' identity and authority before executing transactions**. MAS managing director Chia Der Jiun's keynote (19 Nov, paras 49–62) said the next phase of the **Safeguards for Agentic Finance at Runtime (SAFR)** programme would develop a **common protocol** for financial institutions to verify who an agent represents, what it is authorized to do and what assurances exist about its provenance (source: 2026-11-19-ai-agent-identity-news.md, citing [MAS and Future of Finance Institute announcement](https://www.mas.gov.sg/news/media-releases/2026/mas-and-future-of-finance-institute-set-out-initiatives-in-support-of-national-ai-missions), primary; [MAS managing director's keynote, paras 49–62](https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026), primary).
+
+- **Status**: planned tests and protocol development; no finalized protocol and no mandatory national agent registry (source: 2026-11-19-ai-agent-identity-news.md).
+- **Consistency**: makes concrete the SAFR pre-execution identity and mandate checks described in the 17 Nov keynote above. **No contradiction**; governance remains guidance-led. See [[agent-standards-and-interoperability]], [[agent-authorization-and-delegation]] and [[2026-11-19-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -44,3 +51,4 @@ Senior Minister of State Tan Kiat How, at the unveiling of MetaComp's StableX Ag
 - [[2026-11-06-ai-agent-identity-news]]
 - [[agent-standards-and-interoperability]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

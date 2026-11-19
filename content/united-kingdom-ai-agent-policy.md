@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -79,6 +79,12 @@ The CMA, FCA, ICO and Ofcom, via the DRCF, wrote to ministers (letter dated **16
 
 - **Status**: newly surfaced coverage of a 16 Nov development; distinct from, and a follow-up to, the 30 Oct DRCF joint statement above. It concerns accountable deployment and authorization to provide regulated services, not an agent identity code; no new legislation, no universal agent-registration duty, and no named firm's breach established (source: 2026-11-18-ai-agent-identity-news.md). See [[2026-11-18-ai-agent-identity-news]].
 
+## 2026-11-18: HM Treasury on liability for AI-agent financial harm
+
+In two written answers (18 Nov; no publication hour), HM Treasury said it is examining how civil liability applies to AI-caused losses and where gaps may arise. The Commons answer covered transactions involving firms outside the regulated financial sector and confirmed Treasury is reviewing consultation responses on **authentication, consent and liability for unauthorized agent-initiated payments**; the Lords answer said existing obligations continue to apply to regulated firms and described work on **agent identity and delegated authority** (source: 2026-11-19-ai-agent-identity-news.md, citing [Commons written answer 41444](https://questions-statements.parliament.uk/written-questions/detail/2026-11-10/41444) and [Lords written answer HL4984](https://questions-statements.parliament.uk/written-questions/detail/2026-11-04/HL4984), primary).
+
+- **Status**: work underway, no new rule. The underlying consultation is not otherwise recorded in this wiki (needs verification). Complements the FCA's 2026-10-19 agentic-finance framework commitment and the Bank of England FPC remarks (2026-11-12) above. No contradiction. See [[2026-11-19-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -100,3 +106,4 @@ The CMA, FCA, ICO and Ofcom, via the DRCF, wrote to ministers (letter dated **16
 - [[2026-11-06-ai-agent-identity-news]]
 - [[2026-11-12-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]

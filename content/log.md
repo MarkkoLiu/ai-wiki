@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-19 (ingest of 2026-11-19)
+
+**Source ingested**: `raw/2026-11-19-ai-agent-identity-news.md` (Thursday; no research section).
+
+**Pages created**: `wiki/2026-11-19-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `singapore-ai-agent-policy.md` (MAS Agentic Money Sandbox and SAFR common protocol; summary), `united-kingdom-ai-agent-policy.md` (HM Treasury written answers 41444 / HL4984), `united-states-ai-agent-policy.md` (Cantwell–Rounds letter), `agent-authorization-and-delegation.md`, `agent-standards-and-interoperability.md`, `ai-agent-identity.md`, `estonia-ai-agent-id.md` (no-change note), `2026-11-18-ai-agent-identity-news.md` (later-update note), `index.md`.
+
+**Contradictions / corrections**: none. SAFR acronym now expanded (Safeguards for Agentic Finance at Runtime), consistent with 2026-11-18. The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and 2026-11-16 tensions stand. *Gaps*: the UK Treasury consultation on agent-initiated payments and the senators' October Cantwell–Rounds letter are referenced by the report as prior context but are not substantively recorded in this wiki (needs verification).
+
+**Not modified**: nothing in `raw/` was altered.
+
 ## 2026-11-18 (ingest of 2026-11-18)
 
 **Source ingested**: `raw/2026-11-18-ai-agent-identity-news.md` (Wednesday; no research section).

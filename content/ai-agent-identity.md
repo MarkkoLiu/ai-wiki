@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -81,6 +81,12 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - **Estonia**: the agent-code bill was accepted into Riigikogu proceedings as bill 1092 SE (17 Nov; Constitutional Committee leads) — a legislative step, not enactment (source: 2026-11-18-ai-agent-identity-news.md, citing [Riigikogu](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-toostusheite-seaduse-muutmiseks/)). Estonia remains the closest jurisdiction to a statutory agent identity code, but none is yet enacted. See [[estonia-ai-agent-id]].
 - **Singapore**: the government frames agent identity as verifying an agent *and its accountable principal*, distinct from authorizing actions, and prioritizes interoperable Know Your Agent arrangements (source: 2026-11-18-ai-agent-identity-news.md, citing [MDDI](https://www.mddi.gov.sg/newsroom/keynote-address-by-sms-tan-kiat-how-at-the-unveiling-of-stablex-agentic-network/)). See [[singapore-ai-agent-policy]].
 
+## Update 2026-11-19
+
+- **Singapore**: MAS's planned SAFR common protocol would let financial institutions verify who an agent represents, what it is authorized to do and its provenance — identity bound to principal, authority and provenance in one check (source: 2026-11-19-ai-agent-identity-news.md, citing [MAS managing director's keynote, paras 49–62](https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026), primary; planned, not final). See [[singapore-ai-agent-policy]].
+- **UK**: HM Treasury describes work on agent identity and delegated authority in financial services (source: 2026-11-19-ai-agent-identity-news.md, citing [Lords written answer HL4984](https://questions-statements.parliament.uk/written-questions/detail/2026-11-04/HL4984), primary). See [[united-kingdom-ai-agent-policy]].
+- **Estonia**: no change; bill 1092 SE remains in proceedings, not enacted (source: 2026-11-19-ai-agent-identity-news.md). Still no jurisdiction shown to have enacted agent identity codes.
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -109,3 +115,4 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - [[2026-11-16-ai-agent-identity-news]]
 - [[united-kingdom-ai-agent-policy]]
 - [[2026-11-18-ai-agent-identity-news]]
+- [[2026-11-19-ai-agent-identity-news]]
