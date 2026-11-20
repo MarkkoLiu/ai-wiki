@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-20 (ingest of 2026-11-20)
+
+**Source ingested**: `raw/2026-11-20-ai-agent-identity-news.md` (Friday; no research section).
+
+**Pages created**: `wiki/2026-11-20-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `australia-ai-agent-policy.md` (full rapid review — escalation-trigger gap; summary), `united-kingdom-ai-agent-policy.md` (19 Nov Commons debate), `agent-authorization-and-delegation.md`, `estonia-ai-agent-id.md` (no-change note), `index.md`.
+
+**Contradictions / corrections**: none. The Australian full review elaborates the 2026-11-10 acceptance of 18 recommendations. The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and 2026-11-16 tensions stand. *Gap*: the UK "12 October" measures the minister reiterated are not recorded in this wiki (needs verification).
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-19 (ingest of 2026-11-19)
 
 **Source ingested**: `raw/2026-11-19-ai-agent-identity-news.md` (Thursday; no research section).
