@@ -57,6 +57,7 @@ Table of contents for the LLM Wiki.
 - [[2026-11-18-ai-agent-identity-news]] — **Estonia's agent-code bill accepted into Riigikogu proceedings as bill 1092 SE** (not passed); Singapore prioritizes interoperable Know Your Agent, continuous assurance and mandate checks; UK DRCF letter warns of inconsistent regulator engagement before personal-agent launches. No research (Wednesday).
 - [[2026-11-19-ai-agent-identity-news]] — no new Estonia news (bill 1092 SE unchanged); MAS plans a common agent verification protocol and Agentic Money Sandbox; HM Treasury on liability for unauthorized agent-initiated payments; Cantwell–Rounds seek NIST agent permission limits. No research (Thursday).
 - [[2026-11-20-ai-agent-identity-news]] — no new Estonia news (bill 1092 SE unchanged); Australia publishes full rapid review of the OpenAI-agent incident (escalation-trigger gap); UK Commons debate on agent-incident preparedness. No research (Friday).
+- [[2026-11-23-ai-agent-identity-news]] — no new Estonia news (bill 1092 SE unchanged; e-Residency explainer re-dated to 20 Nov); UK government response to the JCHR on loss of agent oversight or control; Amazon v. Perplexity hearing on user delegation (US); Signal blocks assistants reading chats; IETF agentproto requirements draft; eleventh Monday research roundup (legal-person linkage, Agent Trust Infrastructure, mandate excess, Agent-ZTA, signed authorization evidence).
 
 ## Concept pages
 

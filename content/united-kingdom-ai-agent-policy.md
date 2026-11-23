@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-23
 
 ---
 
@@ -89,6 +89,10 @@ In two written answers (18 Nov; no publication hour), HM Treasury said it is exa
 
 MPs questioned whether safeguards can keep pace with autonomous agents acting beyond their intended tasks. Cabinet Office minister Sally Jameson reiterated measures announced on 12 October — wider testing and hardening of government systems and response plans for serious agent incidents. The Commons agreed a resolution recording that it had considered the risks (source: 2026-11-20-ai-agent-identity-news.md, citing [Hansard — AI: Emerging Risks](https://hansard.parliament.uk/Commons/2026-11-19/debates/950A02CE-0D7C-4572-ACF6-11B7E5A8D258/AIEmergingRisks), primary). A debate, not new policy. The 12 October announcement itself is **not recorded in this wiki** and needs verification, including how it relates to the September £115M incident-response commitment above. See [[2026-11-20-ai-agent-identity-news]].
 
+## 2026-11-20: government response to the Joint Committee on Human Rights
+
+The government's response to the JCHR (received 13 Nov, published 20 Nov) describes proposed Cyber Security and Resilience Bill powers for future regulations on incidents affecting essential services after **loss of oversight or control of AI agents**, incident-response planning with government technical bodies, and states that AISI testing informs policy rather than certifying model safety (source: 2026-11-23-ai-agent-identity-news.md, citing [JCHR — Government Response](https://publications.parliament.uk/pa/jt5902/jtselect/jtrights/844/report.html), primary, esp. responses to recommendations 11 and 17). A consolidated formal position, not enactment of the powers or acceptance of every recommendation; it partly repeats the 26 Oct Amendment 70 commitments and the 19 Nov debate above. Concerns oversight and incident accountability, not an identity registry. No contradiction.
+
 ## Related pages
 
 
@@ -112,3 +116,4 @@ MPs questioned whether safeguards can keep pace with autonomous agents acting be
 - [[2026-11-18-ai-agent-identity-news]]
 - [[2026-11-19-ai-agent-identity-news]]
 - [[2026-11-20-ai-agent-identity-news]]
+- [[2026-11-23-ai-agent-identity-news]]

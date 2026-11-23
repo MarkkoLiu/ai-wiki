@@ -2,9 +2,9 @@
 
 **Summary**: Academic papers, preprints, and technical studies on AI-agent identity, authorization, and accountability, surfaced in Monday research roundups.
 
-**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md
+**Sources**: 2026-09-14-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-23
 
 ---
 
@@ -201,6 +201,25 @@ Proofpoint (Rabin), [BluePhishing](https://www.proofpoint.com/us/blog/threat-ins
 ### Chain-of-thought monitorability across the model lifecycle (lab study)
 Wang et al., OpenAI, [What affects chain-of-thought monitorability across the model lifecycle?](https://alignment.openai.com/cot-monitorability-model-lifecycle/) (10 Nov): pretraining, architecture, RL and model-generated training data can affect two imperfect monitorability proxies; reasoning traces alone may become weaker evidence of unauthorized conduct. Not an identity mechanism or substitute for execution controls. Compare the OpenAI monitoring items under 2026-10-26 above.
 
+## 2026-11-23: legal-person linkage, cross-organization trust, mandate excess, chain containment, authorization evidence
+
+Five newly surfaced primary sources; summaries rest on authors' abstracts and records — peer-review status not established (source: 2026-11-23-ai-agent-identity-news.md).
+
+### Law at the Speed of AI: Autonomy Under Law Architecture (preprint)
+Blycha et al., [arXiv:2611.25985](https://arxiv.org/abs/2611.25985) (submitted 19 Nov): registers AI systems and data assets as objects linked to **identified legal persons**, uses digitally linked legal instruments to evaluate delegated authority at the time of action, and records who may bear responsibility or hold rights arising from an action. A proposed architecture. Related: [[ai-agent-identity]], [[estonia-ai-agent-id]] (person-linked agent code).
+
+### Agent Trust Infrastructure (preprint)
+Nguyen and Husain, [arXiv:2611.23202](https://arxiv.org/abs/2611.23202) (submitted 17 Nov): federated organizational certificate authorities, configuration attestation and separate authorization checks before an agent's request executes; better attack containment in a simulated federation with all controls enabled. Simulation and model-based judging do not establish production security. Related: [[agent-standards-and-interoperability]].
+
+### Who Bears the Excess? (legal-analysis preprint)
+Fabiano, [arXiv:2611.20670](https://arxiv.org/abs/2611.20670) (submitted 16 Nov): when an agent exceeds its mandate, look to the party conferring authority, using documented delegation and actual control as evidence; separates attribution of conduct from liability (which depends on applicable law); distinguishes declared, configured and effective boundaries — useful for audit design. An author's argument, not a ruling. Related: [[agent-authorization-and-delegation]], [[united-states-ai-agent-policy]] (Amazon v. Perplexity).
+
+### Agent-ZTA: containment along delegation chains (preprint)
+Khan and Syed, [arXiv:2611.18999](https://arxiv.org/abs/2611.18999) (submitted 13 Nov): effective permissions change when security conditions deteriorate anywhere in a delegation chain, with downstream events propagating upstream; branch-scoped restrictions contain compromise without halting unrelated branches. Properties depend on stated trust assumptions; not evidence of deployment.
+
+### Signed Authorization-Evidence Records for AI Agent Actions (standards research)
+Munoz, [draft-munoz-wimse-authorization-evidence-02](https://www.ietf.org/ietf-ftp/internet-drafts/draft-munoz-wimse-authorization-evidence-02.html) (rev. 02, 20 Nov; individual Internet-Draft, not an RFC): a signed **Permit** for a pre-execution decision paired with a **Closure Record** of dispatch evidence; links workload identity and delegated-subject context to parent–child authorization records. Distinguishes identifiability from evidence of what was permitted; does not prove execution or legal authority. Earlier revisions are not recorded in this wiki. Compare the Agent Authority Transition Receipts draft (2026-09-21). Related: [[agent-standards-and-interoperability]].
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
@@ -219,3 +238,4 @@ Wang et al., OpenAI, [What affects chain-of-thought monitorability across the mo
 - [[2026-11-09-ai-agent-identity-news]]
 - [[united-kingdom-ai-agent-policy]]
 - [[2026-11-16-ai-agent-identity-news]]
+- [[2026-11-23-ai-agent-identity-news]]

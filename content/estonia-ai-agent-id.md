@@ -2,9 +2,9 @@
 
 **Summary**: Estonia will **not** issue personal identification codes (isikukood) to AI agents (2026-09-08, still standing). However, a ministry FAQ updated 2026-10-23 describes a separate, person-linked **agent code (agendikood)** and a proposed registry; on 2026-11-10 the cabinet discussed a Public Information Act amendment giving agent-code registration a legal basis, and **on 2026-11-12 the government approved the agent-code bill**, which was initiated in the Riigikogu on 2026-11-16 and accepted into proceedings as **bill 1092 SE** on 2026-11-17 (not yet enacted; the ministry says the code confers no independent rights and the earlier "digital identity" framing was abandoned) — so the broader "no agent-specific code" reading is superseded (see 2026-10-25 section). Following the 2026-09-08 correction, the actual direction — via the state's Aruait project — is linked, delegated, revocable authority in which an agent acts on a person's behalf while legal responsibility remains with the human.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-18-ai-agent-identity-news.md, 2026-10-19-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-23
 
 ---
 
@@ -199,6 +199,12 @@ No new Estonia development; the bill 1092 SE record still shows it accepted into
 
 No new Estonia development; the bill 1092 SE record still shows it accepted into proceedings (source: 2026-11-20-ai-agent-identity-news.md, citing [Riigikogu bill record](https://www.riigikogu.ee/tegevus/eelnoud/3257efe0-f7c9-42c1-bf63-bb9b4c5188ec/avaliku-teabe-seaduse-taiendamise-seadus-agendikood/), primary). Not passed; all standing positions above unchanged.
 
+## Update 2026-11-23: no change; e-Residency explainer re-dated
+
+No new Estonia development; the bill 1092 SE record still shows it accepted into proceedings after initiation on 16 November (source: 2026-11-23-ai-agent-identity-news.md, citing [Riigikogu bill record](https://www.riigikogu.ee/tegevus/eelnoud/3257efe0-f7c9-42c1-bf63-bb9b4c5188ec/avaliku-teabe-seaduse-taiendamise-seadus-agendikood/), primary). Not passed; all standing positions above unchanged.
+
+The [e-Residency AI strategy explainer](https://www.e-resident.gov.ee/blog/posts/estonia-ai-strategy/) now carries a **20 November** byline; this wiki recorded it on 2026-10-25 as dated **20 October**. The report found the October archive links to the same article and could not verify a substantive change (source: 2026-11-23-ai-agent-identity-news.md). Treated as a re-dated page, not a new development; whether the content was revised **needs verification**. See [[2026-10-25-ai-agent-identity-news]] and [[2026-11-23-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -232,3 +238,4 @@ No new Estonia development; the bill 1092 SE record still shows it accepted into
 - [[2026-11-18-ai-agent-identity-news]]
 - [[2026-11-19-ai-agent-identity-news]]
 - [[2026-11-20-ai-agent-identity-news]]
+- [[2026-11-23-ai-agent-identity-news]]

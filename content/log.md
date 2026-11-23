@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-23 (ingest of 2026-11-23)
+
+**Source ingested**: `raw/2026-11-23-ai-agent-identity-news.md` (Monday; has research section).
+
+**Pages created**: `wiki/2026-11-23-ai-agent-identity-news.md`. No new concept or country pages (research items added to the existing `research.md`).
+
+**Pages updated**: `estonia-ai-agent-id.md` (no-change note; e-Residency explainer re-dated), `united-kingdom-ai-agent-policy.md` (JCHR government response), `united-states-ai-agent-policy.md` (Amazon v. Perplexity hearing; Signal), `agent-standards-and-interoperability.md` (IETF agentproto -00; Munoz WIMSE authorization-evidence rev. 02), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `research.md` (five items), `2026-10-25-ai-agent-identity-news.md` (later-update note), `index.md`.
+
+**Contradictions / corrections**: none of substance. *Minor discrepancy*: the e-Residency AI strategy explainer, recorded on 2026-10-25 as dated 20 October, now shows a 20 November byline; the report found no verifiable substantive change, so the earlier record stands with a note on both pages (content revision needs verification). The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and 2026-11-16 tensions stand. *Gaps*: the original Amazon v. Perplexity suit and the appeals court's vacatur of the preliminary injunction are referenced as prior context but not recorded in this wiki; earlier revisions of the Munoz draft are likewise unrecorded (needs verification).
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-20 (ingest of 2026-11-20)
 
 **Source ingested**: `raw/2026-11-20-ai-agent-identity-news.md` (Friday; no research section).

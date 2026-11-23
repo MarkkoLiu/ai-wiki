@@ -2,9 +2,9 @@
 
 **Summary**: NIST guidance (2026-08) argues AI agents need first-class identities — unique identifiers, credentials, and entitlements bound to a responsible user or system — building on existing standards like OAuth 2.0 and SPIFFE.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-10-ai-agent-identity-news.md, 2026-09-15-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-17-ai-agent-identity-news.md, 2026-09-22-ai-agent-identity-news.md, 2026-09-24-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-30-ai-agent-identity-news.md, 2026-10-01-ai-agent-identity-news.md, 2026-10-02-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-25-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-17-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -165,6 +165,11 @@ Senators Maria Cantwell and Mike Rounds urged the White House to coordinate a na
 
 - **Status**: a bipartisan request for executive action — not adopted standards, legislation or an identity-registration requirement; the cited incidents are the senators' claims. The report says this follows their October letter, which this wiki records only as an unlinked "7 October Cantwell governance proposal" ([[2026-10-09-ai-agent-identity-news]]) — **needs verification**. Relates to the NIST design tenets (2026-10-28) above. See [[2026-11-19-ai-agent-identity-news]].
 
+## 2026-11-20: Amazon v. Perplexity hearing; Signal restricts assistants' screen access
+
+- **Amazon v. Perplexity (secondary)**: at the dismissal hearing Judge Maxine Chesney questioned whether Amazon's amended allegations were sufficient after the appeals court vacated the preliminary injunction; Amazon argued Perplexity's shopping agent reached its site without explicit user instructions — putting the scope of user delegation at issue (source: 2026-11-23-ai-agent-identity-news.md, citing [Bloomberg Law](https://news.bloomberglaw.com/artificial-intelligence/amazon-meets-divided-judge-in-bid-to-block-perplexity-agents), secondary). Oral argument only; disposition unverified. The original suit and the appellate vacatur are **not otherwise recorded in this wiki** (gap; needs verification). Compare Amazon's 2026-09-21 block of Meta's Muse agent above.
+- **Signal (primary + secondary)**: default screenshot blocking on iOS 27 and screen protection on supported Android devices when an assistant tries to read the screen; not achievable on macOS (source: 2026-11-23-ai-agent-identity-news.md, citing [Signal announcement](https://signal.org/blog/protecting-your-privacy/), primary, and [Reuters via Investing.com](https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998), secondary). A company product measure, not policy; it shows app-level limits on agents need OS support.
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -198,3 +203,5 @@ Senators Maria Cantwell and Mike Rounds urged the White House to coordinate a na
 - [[2026-11-17-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
 - [[2026-11-19-ai-agent-identity-news]]
+- [[2026-11-23-ai-agent-identity-news]]
+- [[2026-11-20-ai-agent-identity-news]]

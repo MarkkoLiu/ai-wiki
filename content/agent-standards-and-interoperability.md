@@ -2,9 +2,9 @@
 
 **Summary**: The technical standards layer beneath national policy — runtime control, agent discovery, workload identity, and delegation protocols — and the recurring finding that discovery, identity, authorization, and accountability are distinct layers that are often conflated.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-09-14-ai-agent-identity-news.md, 2026-09-16-ai-agent-identity-news.md, 2026-09-18-ai-agent-identity-news.md, 2026-09-21-ai-agent-identity-news.md, 2026-09-25-ai-agent-identity-news.md, 2026-09-28-ai-agent-identity-news.md, 2026-09-29-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-12-ai-agent-identity-news.md, 2026-10-16-ai-agent-identity-news.md, 2026-10-21-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -138,6 +138,12 @@ Singapore's government named **interoperable Know Your Agent** arrangements and 
 
 The next phase of MAS's SAFR programme would develop a **common protocol** for financial institutions to verify who an agent represents, what it is authorized to do and what provenance assurances exist, tested alongside an Agentic Money Sandbox (source: 2026-11-19-ai-agent-identity-news.md, citing [MAS managing director's keynote, paras 49–62](https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026) and [MAS and Future of Finance Institute announcement](https://www.mas.gov.sg/news/media-releases/2026/mas-and-future-of-finance-institute-set-out-initiatives-in-support-of-national-ai-missions), primary). Protocol development, not a finalized standard; a sector-level (finance) counterpart to the interoperable Know Your Agent priority recorded on 2026-11-18. See [[singapore-ai-agent-policy]] and [[2026-11-19-ai-agent-identity-news]].
 
+## 2026-11-20: IETF agentproto requirements draft; signed authorization-evidence records
+
+- **IETF agentproto, -00 (primary working-group draft)**: *Agentic AI Use Cases and Requirements* proposes baseline requirements for mutual authentication, checking credentials at use, propagating withdrawal of authority through delegation chains, explicit reporting when an action exceeds delegated scope, and addresses privacy risks of persistent identifiers (source: 2026-11-23-ai-agent-identity-news.md, citing [draft-ietf-agentproto-usecases-requirements-00](https://datatracker.ietf.org/doc/draft-ietf-agentproto-usecases-requirements/00/), primary). Guides future protocol design; not an RFC, a universal identity standard or a legal duty, and does not show existing agents comply.
+- **WIMSE authorization-evidence profile, rev. 02 (individual draft)**: a signed Permit for a pre-execution decision paired with a Closure Record of dispatch evidence, linking workload identity and delegated-subject context to parent–child authorization records (source: 2026-11-23-ai-agent-identity-news.md, citing [draft-munoz-wimse-authorization-evidence-02](https://www.ietf.org/ietf-ftp/internet-drafts/draft-munoz-wimse-authorization-evidence-02.html), primary). Separates "agent is identifiable" from "this action was permitted". Detailed on [[research]].
+- Open question: how agentproto's requirements relate to WIMSE AIMS, Agent Name Service and the agent URI draft is not addressed in the source (needs verification).
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -169,3 +175,4 @@ The next phase of MAS's SAFR programme would develop a **common protocol** for f
 - [[2026-11-16-ai-agent-identity-news]]
 - [[2026-11-18-ai-agent-identity-news]]
 - [[2026-11-19-ai-agent-identity-news]]
+- [[2026-11-23-ai-agent-identity-news]]

@@ -2,9 +2,9 @@
 
 **Summary**: Dated digest of `raw/2026-10-25-ai-agent-identity-news.md` (Sunday; covers 20 October 09:04 to 25 October 11:20 Helsinki). **Estonia's Ministry of Economic Affairs and Communications FAQ describes a person-linked agent code (agendikood)** — a partial revision of the 2026-09-08 "no codes" position. Also: Japan Digital Agency council on agent authority and liability; New Jersey A5711; Virginia Executive Directive 6; OpenAI monitoring-weakening disclosure; US bank restrictions on third-party agents. No research (Sunday).
 
-**Sources**: 2026-10-25-ai-agent-identity-news.md
+**Sources**: 2026-10-25-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-11-23
 
 ---
 
@@ -44,6 +44,10 @@ Omitted (Sunday). The METR/Redwood monitoring study (22 October) is reserved for
 
 One: MKM's agent code vs. the 2026-09-08 "no personal identification codes" position, and the 2026-10-18 tension flag. Resolved in part — the isikukood claim stands; the "no agent-specific code" reading is superseded. Full table on [[estonia-ai-agent-id]]. Earlier digests [[2026-09-08-ai-agent-identity-news]] and [[2026-10-18-ai-agent-identity-news]] carry correction notes.
 
+## Later update (2026-11-23)
+
+The e-Residency AI strategy explainer excluded above as dated 20 October now displays a **20 November** byline; the report could not verify a substantive change (source: 2026-11-23-ai-agent-identity-news.md). The 20 October date recorded here reflects what the 2026-10-25 report saw; nothing else on this page is affected. See [[2026-11-23-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[2026-10-21-ai-agent-identity-news]]
@@ -51,3 +55,4 @@ One: MKM's agent code vs. the 2026-09-08 "no personal identification codes" posi
 - [[japan-ai-agent-policy]]
 - [[united-states-ai-agent-policy]]
 - [[agent-authorization-and-delegation]]
+- [[2026-11-23-ai-agent-identity-news]]
