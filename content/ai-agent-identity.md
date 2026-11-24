@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -94,6 +94,12 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - **Privacy of persistent identifiers**: the IETF agentproto -00 draft flags privacy risks from persistent agent identifiers (source: 2026-11-23-ai-agent-identity-news.md, citing [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ietf-agentproto-usecases-requirements/00/), primary).
 - **Estonia**: no change; bill 1092 SE remains in proceedings, not enacted (source: 2026-11-23-ai-agent-identity-news.md). Still no jurisdiction shown to have enacted agent identity codes.
 
+## Update 2026-11-24
+
+- **Key-bound agent credentials**: the OAuth-over-AGTP individual draft ties a token to the agent that proves control of a key — an identity-binding mechanism at the protocol level (source: 2026-11-24-ai-agent-identity-news.md, citing [IETF Datatracker](https://datatracker.ietf.org/doc/draft-hood-oauth-over-agtp/), primary; individual draft).
+- **Estonia**: bill 1092 SE listed as sent to first reading — still not enacted (source: 2026-11-24-ai-agent-identity-news.md, citing [Riigikogu](https://www.riigikogu.ee/tegevus/eelnoud/3257efe0-f7c9-42c1-bf63-bb9b4c5188ec/avaliku-teabe-seaduse-taiendamise-seadus-agendikood/)). Still no jurisdiction shown to have enacted agent identity codes.
+- **UAE Mira**: a government agent for identity-document renewals (Emirates ID, passport), but no agent-identity scheme is described (source: 2026-11-24-ai-agent-identity-news.md). See [[united-arab-emirates-ai-agent-policy]].
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -125,3 +131,5 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - [[2026-11-19-ai-agent-identity-news]]
 - [[2026-11-23-ai-agent-identity-news]]
 - [[research]]
+- [[2026-11-24-ai-agent-identity-news]]
+- [[united-arab-emirates-ai-agent-policy]]

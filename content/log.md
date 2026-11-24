@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-24 (ingest of 2026-11-24)
+
+**Source ingested**: `raw/2026-11-24-ai-agent-identity-news.md` (Tuesday; no research section).
+
+**Pages created**: `wiki/2026-11-24-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `estonia-ai-agent-id.md` (bill 1092 SE sent to first reading; summary), `united-kingdom-ai-agent-policy.md` (HL5114 on agent hallucination liability), `united-arab-emirates-ai-agent-policy.md` (federal AI concierge Mira; summary), `agent-standards-and-interoperability.md` (OAuth-over-AGTP individual draft), `united-states-ai-agent-policy.md` (Bank Policy Institute on agent account access), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `2026-11-23-ai-agent-identity-news.md` (later-update note), `index.md`.
+
+**Contradictions / corrections**: none. The Estonia bill's status moved from "accepted into proceedings" to "sent to first reading" — a progression; earlier records were accurate when written and are kept. The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and 2026-11-16 tensions stand. *Gap*: whether the Agent Transfer Protocol itself is otherwise documented or has working-group status needs verification.
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-23 (ingest of 2026-11-23)
 
 **Source ingested**: `raw/2026-11-23-ai-agent-identity-news.md` (Monday; has research section).

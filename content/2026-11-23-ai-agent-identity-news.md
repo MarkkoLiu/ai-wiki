@@ -16,6 +16,8 @@ No new, non-duplicate Estonia-related source was verified in the window. The Rii
 
 See [[estonia-ai-agent-id]].
 
+> **Later update (2026-11-24)**: by the next report the Riigikogu register listed bill 1092 SE as **sent to first reading** — a progression, not a correction of this page. See [[2026-11-24-ai-agent-identity-news]].
+
 ## Section 2 — Other countries
 
 - **United Kingdom — government response to the Joint Committee on Human Rights (published 20 Nov 2026; primary)**: the response (received 13 Nov) describes proposed powers in the Cyber Security and Resilience Bill for future regulations on incidents affecting essential services after **loss of oversight or control of AI agents**, incident-response planning with government technical bodies, and says AISI testing informs policy rather than certifying model safety (source: 2026-11-23-ai-agent-identity-news.md, citing [JCHR — Government Response](https://publications.parliament.uk/pa/jt5902/jtselect/jtrights/844/report.html), primary, esp. responses to recommendations 11 and 17).
@@ -53,3 +55,4 @@ None of substance. The only discrepancy is the e-Residency explainer's byline (2
 - [[research]]
 - [[2026-10-25-ai-agent-identity-news]]
 - [[2026-11-20-ai-agent-identity-news]]
+- [[2026-11-24-ai-agent-identity-news]]
