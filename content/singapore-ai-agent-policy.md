@@ -1,10 +1,10 @@
 # Singapore: AI Agent Governance Sandbox
 
-**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents. Governance remains guidance-led; on 2026-11-17 the government set out interoperable Know Your Agent, continuous assurance and cross-organization trusted-transaction testing as collaboration priorities (no mandate or national registry); on 2026-11-18/19 MAS announced an Agentic Money Sandbox and plans for a common protocol to verify whom an agent represents, its authority and provenance (planned, not final).
+**Summary**: Singapore's Cyber Security Agency ran an AI Agents Sandbox with Google and Singapore government agencies (reported 2026-05-20), finding gaps in human oversight, cybersecurity, privacy protection, identity/authentication frameworks, and permission controls for agents. Governance remains guidance-led; on 2026-11-17 the government set out interoperable Know Your Agent, continuous assurance and cross-organization trusted-transaction testing as collaboration priorities (no mandate or national registry); on 2026-11-18/19 MAS announced an Agentic Money Sandbox and plans for a common protocol to verify whom an agent represents, its authority and provenance (planned, not final). On 2026-11-24 participants described PathFin.ai trials of pre-execution identity, principal and mandate checks (trials only).
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-09-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-25
 
 ---
 
@@ -40,6 +40,13 @@ MAS and the Future of Finance Institute announced (18 Nov) an **Agentic Money Sa
 - **Status**: planned tests and protocol development; no finalized protocol and no mandatory national agent registry (source: 2026-11-19-ai-agent-identity-news.md).
 - **Consistency**: makes concrete the SAFR pre-execution identity and mandate checks described in the 17 Nov keynote above. **No contradiction**; governance remains guidance-led. See [[agent-standards-and-interoperability]], [[agent-authorization-and-delegation]] and [[2026-11-19-ai-agent-identity-news]].
 
+## 2026-11-24: PathFin.ai trials of identity and mandate checks
+
+Green Link Digital Bank, AXS, Terminal 3 and HSBC Singapore described two controlled trials under MAS's **PathFin.ai** initiative — bill payment and corporate treasury — testing how to establish an agent's identity, verify whom it represents and check requested actions against the client's mandate **before** a request reaches a financial institution; the treasury scenario also tested obtaining client confirmation (source: 2026-11-25-ai-agent-identity-news.md, citing [Fintech News Singapore](https://fintechnews.sg/142186/ai/pathfin-ai-agentic-payments-safeguards-mas/), secondary, publication hour unverified, and [Terminal 3 via PR Newswire](https://www.prnewswire.com/apac/news-releases/terminal-3-partners-with-banks-to-test-safeguards-for-agentic-finance-under-mass-pathfinai-initiative-302948091.html), primary background, 08:00 CST).
+
+- **Status**: controlled trials described by participants; no deployed scheme, mandate or national registry.
+- **Consistency**: matches the SAFR pre-execution identity and mandate checks above. The report frames this as detail for a "previously reported safeguards framework"; PathFin.ai had not been recorded here by name, so its relationship to SAFR **needs verification**. **No contradiction.** See [[agent-authorization-and-delegation]] and [[2026-11-25-ai-agent-identity-news]].
+
 ## Related pages
 
 - [[ai-agent-identity]]
@@ -52,3 +59,4 @@ MAS and the Future of Finance Institute announced (18 Nov) an **Agentic Money Sa
 - [[agent-standards-and-interoperability]]
 - [[2026-11-18-ai-agent-identity-news]]
 - [[2026-11-19-ai-agent-identity-news]]
+- [[2026-11-25-ai-agent-identity-news]]

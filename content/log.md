@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-25 (ingest of 2026-11-25)
+
+**Source ingested**: `raw/2026-11-25-ai-agent-identity-news.md` (Wednesday; no research section).
+
+**Pages created**: `wiki/2026-11-25-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `estonia-ai-agent-id.md` (no-change note), `united-kingdom-ai-agent-policy.md` (ICO/CMA on Meta Muse UK launch; FCA agentic-AI expectations), `singapore-ai-agent-policy.md` (PathFin.ai trials; summary), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `index.md`.
+
+**Contradictions / corrections**: none. The FCA guidance is a progression from its 2026-10-19 framework commitment; the Muse UK launch adds to, and does not conflict with, the 2026-09-22 Amazon–Muse record. The 2026-09-08 isikukood correction, 2026-10-25 agendikood position and 2026-11-16 tensions stand. *Gap*: the report calls PathFin.ai detail for a "previously reported safeguards framework", but PathFin.ai was not previously recorded here by name; its relationship to MAS's SAFR programme needs verification.
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-24 (ingest of 2026-11-24)
 
 **Source ingested**: `raw/2026-11-24-ai-agent-identity-news.md` (Tuesday; no research section).

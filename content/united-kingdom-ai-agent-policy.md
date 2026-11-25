@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-24
+**Last updated**: 2026-11-25
 
 ---
 
@@ -97,6 +97,14 @@ The government's response to the JCHR (received 13 Nov, published 20 Nov) descri
 
 Baroness Lloyd of Effra (answer HL5114, 23 Nov; no publication hour) says existing legal and regulatory frameworks apply to AI agents, including where inaccurate or misleading outputs cause harm; liability depends on the facts, applicable law and the parties' responsibilities (source: 2026-11-24-ai-agent-identity-news.md, citing [UK Parliament — HL5114](https://questions-statements.parliament.uk/written-questions/detail/2026-11-09/HL5114), primary). A clarification only — no new liability regime, strict-liability rule or legal personality for agents. Consistent with, and more direct than, the HM Treasury answers (2026-11-18) and the JCHR response (2026-11-20) above. No contradiction. See [[2026-11-24-ai-agent-identity-news]].
 
+## 2026-11-24: Meta Muse UK launch — ICO monitoring and CMA terms changes
+
+As Meta's Muse personal agent launched in the UK, the ICO said Meta agreed to **voluntary monitoring and reporting** so it can scrutinise how Muse works and what users experience; the CMA said Meta **adjusted its terms** after discussions and that suppliers should explain what happens when users give an agent more access or autonomy. In a parallel notice the ICO reminded developers of consumer agentic services to build in privacy protections by default and meaningful user controls, with **further guidance due spring 2027** (source: 2026-11-25-ai-agent-identity-news.md, citing [ICO statement on Meta Muse](https://cy.ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/), [CMA statement](https://competitionandmarkets.blog.gov.uk/2026/11/24/cma-statement-on-uk-launch-of-meta-muse/) and [ICO expectations for consumer agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/developers-creating-agentic-ai-services-for-consumers-reminded-to-meet-their-data-protection-responsibilities/), primary; [TechRadar](https://www.techradar.com/ai-platforms-assistants/privacy-must-be-built-into-consumer-facing-agentic-products-meta-muse-ai-has-officially-launched-in-the-uk-but-british-data-watchdogs-are-keeping-a-close-eye-on-where-your-data-goes), secondary). A voluntary arrangement and supervisory expectations — not an enforcement finding or new rule. It is the first named launch following the DRCF's 16 Nov letter calling for compliance before launch, and comes after the ICO call for evidence closed (20 Nov). For Muse's earlier US dispute with Amazon, see [[2026-09-22-ai-agent-identity-news]]. No contradiction.
+
+## 2026-11-24: FCA expectations on identifying a customer's agent and verifying consent
+
+The FCA's agentic-AI page says firms should assess whether activities their agents actually perform (payment services, credit broking, financial advice) require **regulatory authorization**, and consider how they will **identify a customer's agent, verify the customer's consent, determine what the agent may do** and provide help when something goes wrong; it plans a **policy sprint** with firms, technology providers and policymakers (source: 2026-11-25-ai-agent-identity-news.md, citing [FCA — agentic AI](https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai), primary, and [Reuters via Euronext](https://live.euronext.com/en/financial-news/ai-financial-services-trigger-regulation-warning-uk-watchdog), secondary). Expectations only; no identity standard set. A concrete step on the agent-identity/delegated-authority framework the FCA committed to on 2026-10-19 (above) — a progression, not a contradiction. See [[agent-authorization-and-delegation]] and [[2026-11-25-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -122,3 +130,5 @@ Baroness Lloyd of Effra (answer HL5114, 23 Nov; no publication hour) says existi
 - [[2026-11-20-ai-agent-identity-news]]
 - [[2026-11-23-ai-agent-identity-news]]
 - [[2026-11-24-ai-agent-identity-news]]
+- [[2026-11-25-ai-agent-identity-news]]
+- [[2026-09-22-ai-agent-identity-news]]
