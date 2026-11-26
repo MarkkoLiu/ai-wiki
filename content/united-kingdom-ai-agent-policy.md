@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md, 2026-11-26-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-25
+**Last updated**: 2026-11-26
 
 ---
 
@@ -105,6 +105,10 @@ As Meta's Muse personal agent launched in the UK, the ICO said Meta agreed to **
 
 The FCA's agentic-AI page says firms should assess whether activities their agents actually perform (payment services, credit broking, financial advice) require **regulatory authorization**, and consider how they will **identify a customer's agent, verify the customer's consent, determine what the agent may do** and provide help when something goes wrong; it plans a **policy sprint** with firms, technology providers and policymakers (source: 2026-11-25-ai-agent-identity-news.md, citing [FCA — agentic AI](https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai), primary, and [Reuters via Euronext](https://live.euronext.com/en/financial-news/ai-financial-services-trigger-regulation-warning-uk-watchdog), secondary). Expectations only; no identity standard set. A concrete step on the agent-identity/delegated-authority framework the FCA committed to on 2026-10-19 (above) — a progression, not a contradiction. See [[agent-authorization-and-delegation]] and [[2026-11-25-ai-agent-identity-news]].
 
+## 2026-11-24/25: Commons agrees the AI-agent loss-of-oversight clause
+
+In the 24 November Commons debate on the Cyber Security and Resilience Bill, MPs agreed to **Lords amendment 33** after voting **278–93** against widening it from "AI agents" to "autonomous systems". The clause gives the Secretary of State functions where loss of oversight or control of an AI agent may compromise a relevant network or information system; definitions are left to regulations, and the government will consult on implementation. Papers published 25 November give the Commons' reasons for disagreeing with Lords amendments 107 and 108 (other matters), returning those to the Lords (source: 2026-11-26-ai-agent-identity-news.md, citing [Parliamentary bill record](https://bills.parliament.uk/bills/4035), [Commons reasons](https://bills.parliament.uk/publications/69022/documents/9119) and [Commons Hansard](https://hansard.parliament.uk/commons/2026-11-24/debates/9696CEE9-A8C3-449D-9B15-89FA9F00CF8E/CyberSecurityAndResilience%28NetworkAndInformationSystems%29Bill), primary). Status: consideration of amendments continues; no Royal Assent, no regulations in force. This is the Commons stage of the clause the Lords agreed on 26 Oct (recorded above as **Amendment 70**); the different number is most likely the usual renumbering when Lords amendments go to the Commons, but the report does not confirm the link — **needs verification**. No contradiction. See [[2026-11-26-ai-agent-identity-news]].
+
 ## Related pages
 
 
@@ -132,3 +136,4 @@ The FCA's agentic-AI page says firms should assess whether activities their agen
 - [[2026-11-24-ai-agent-identity-news]]
 - [[2026-11-25-ai-agent-identity-news]]
 - [[2026-09-22-ai-agent-identity-news]]
+- [[2026-11-26-ai-agent-identity-news]]

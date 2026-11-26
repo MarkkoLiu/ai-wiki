@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-26 (ingest of 2026-11-26)
+
+**Source ingested**: `raw/2026-11-26-ai-agent-identity-news.md` (Thursday; no research section).
+
+**Pages created**: `wiki/2026-11-26-ai-agent-identity-news.md`. No new concept or country pages.
+
+**Pages updated**: `united-kingdom-ai-agent-policy.md` (Commons agrees AI-agent loss-of-oversight clause, 24 Nov vote / 25 Nov papers), `estonia-ai-agent-id.md` (no-change note), `agent-authorization-and-delegation.md`, `index.md`.
+
+**Contradictions / corrections**: none. The Commons vote advances the clause the Lords agreed on 26 Oct. *Gap*: the wiki recorded that clause as Lords "Amendment 70"; this report calls it "Lords amendment 33" — most likely renumbering between Houses, but the link **needs verification**. The 25 Nov WIMSE notice (draft-pandey-agent-identity, dated 17 Nov) and Swiss BACS notice (24 Nov) were excluded by the report and recorded only on the dated page. The 2026-09-08 isikukood correction and 2026-10-25 agendikood position stand.
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-25 (ingest of 2026-11-25)
 
 **Source ingested**: `raw/2026-11-25-ai-agent-identity-news.md` (Wednesday; no research section).
