@@ -2,9 +2,9 @@
 
 **Summary**: The emerging concept of giving AI agents their own verifiable digital identity — separate from, but bound to, the human, company, or institution they act for — so their actions can be scoped, authorized, and audited.
 
-**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md
+**Sources**: 2026-09-04-ai-agent-identity-news.md, 2026-09-07-ai-agent-identity-news.md, 2026-09-08-ai-agent-identity-news.md, 2026-10-26-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-10-29-ai-agent-identity-news.md, 2026-10-30-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-05-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-11-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-13-ai-agent-identity-news.md, 2026-11-16-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md, 2026-11-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-25
+**Last updated**: 2026-11-27
 
 ---
 
@@ -106,6 +106,12 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - **Establishing agent identity in trials (Singapore PathFin.ai)**: trials tested establishing an agent's identity and whom it represents before requests reach a bank (source: 2026-11-25-ai-agent-identity-news.md, citing [Fintech News Singapore](https://fintechnews.sg/142186/ai/pathfin-ai-agentic-payments-safeguards-mas/), secondary). See [[singapore-ai-agent-policy]].
 - **Estonia**: no change; still no jurisdiction shown to have enacted agent identity codes (source: 2026-11-25-ai-agent-identity-news.md).
 
+## Update 2026-11-27
+
+- **Identifiable agents with named owners (Papua New Guinea draft)**: the revised draft National AI Policy would require government agents to be identifiable and have a named human owner — identity bound to a responsible person and organisation (source: 2026-11-27-ai-agent-identity-news.md, citing [DICT consultation draft](https://www.ict.gov.pg/wp-content/uploads/2026/11/PNG_National_AI_Policy_Revised_09Nov2026-1.pdf), primary; draft). See [[papua-new-guinea-ai-agent-policy]].
+- **Traceability "which agent, for whom, with what permissions" (UK FPC)**: the Bank of England FPC treats agent identity as part of a traceability triple linking agent, principal and permissions (source: 2026-11-27-ai-agent-identity-news.md, citing [FPC Record](https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026), primary). See [[united-kingdom-ai-agent-policy]].
+- **Estonia**: no change; still no jurisdiction shown to have enacted agent identity codes (source: 2026-11-27-ai-agent-identity-news.md).
+
 ## Related pages
 
 - [[agent-standards-and-interoperability]]
@@ -140,3 +146,5 @@ Estonia's cabinet discussed (10 Nov) a draft Public Information Act § 43(10) am
 - [[2026-11-24-ai-agent-identity-news]]
 - [[united-arab-emirates-ai-agent-policy]]
 - [[2026-11-25-ai-agent-identity-news]]
+- [[2026-11-27-ai-agent-identity-news]]
+- [[papua-new-guinea-ai-agent-policy]]

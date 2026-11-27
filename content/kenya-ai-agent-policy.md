@@ -2,9 +2,9 @@
 
 **Summary**: Kenya is building a unified government API platform to prepare for AI agents in public-service delivery. The stated control model is bounded, authorized action with audit trails and escalation to human officers (September 2026).
 
-**Sources**: 2026-09-24-ai-agent-identity-news.md
+**Sources**: 2026-09-24-ai-agent-identity-news.md, 2026-11-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-09-24
+**Last updated**: 2026-11-27
 
 ---
 
@@ -28,6 +28,10 @@ This is an implementation direction for bounded delegated authority across publi
 - The only source so far is secondary reporting of a keynote. A primary government document (policy, tender, or technical specification) has not been found.
 - Whether the platform will issue agent-specific identities or credentials is not stated.
 
+## See also (2026-11-27)
+
+Papua New Guinea's revised draft National AI Policy proposes a comparable bounded-authority model for government agents, adding named human owners and per-action user approval in its pilot (source: 2026-11-27-ai-agent-identity-news.md). See [[papua-new-guinea-ai-agent-policy]].
+
 ## Related pages
 
 - [[agent-authorization-and-delegation]]
@@ -36,3 +40,4 @@ This is an implementation direction for bounded delegated authority across publi
 - [[singapore-ai-agent-policy]]
 - [[estonia-ai-agent-id]]
 - [[2026-09-24-ai-agent-identity-news]]
+- [[papua-new-guinea-ai-agent-policy]]

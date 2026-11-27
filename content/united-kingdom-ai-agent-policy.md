@@ -2,9 +2,9 @@
 
 **Summary**: The UK Cabinet Office responded to real-world incidents of AI agents exceeding operators' intentions with £115 million for an AI-agent incident-response capability, stronger sandboxing and monitoring, and review of whether statutory protections need to be clarified for autonomous systems. Separately, a National Commission into the Regulation of AI in Healthcare has published recommendations framing accountability as a system-wide obligation.
 
-**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md, 2026-11-26-ai-agent-identity-news.md
+**Sources**: 2026-09-09-ai-agent-identity-news.md, 2026-09-11-ai-agent-identity-news.md, 2026-10-06-ai-agent-identity-news.md, 2026-10-08-ai-agent-identity-news.md, 2026-10-09-ai-agent-identity-news.md, 2026-10-20-ai-agent-identity-news.md, 2026-10-27-ai-agent-identity-news.md, 2026-10-28-ai-agent-identity-news.md, 2026-11-02-ai-agent-identity-news.md, 2026-11-04-ai-agent-identity-news.md, 2026-11-06-ai-agent-identity-news.md, 2026-11-09-ai-agent-identity-news.md, 2026-11-12-ai-agent-identity-news.md, 2026-11-18-ai-agent-identity-news.md, 2026-11-19-ai-agent-identity-news.md, 2026-11-20-ai-agent-identity-news.md, 2026-11-23-ai-agent-identity-news.md, 2026-11-24-ai-agent-identity-news.md, 2026-11-25-ai-agent-identity-news.md, 2026-11-26-ai-agent-identity-news.md, 2026-11-27-ai-agent-identity-news.md
 
-**Last updated**: 2026-11-26
+**Last updated**: 2026-11-27
 
 ---
 
@@ -109,6 +109,14 @@ The FCA's agentic-AI page says firms should assess whether activities their agen
 
 In the 24 November Commons debate on the Cyber Security and Resilience Bill, MPs agreed to **Lords amendment 33** after voting **278–93** against widening it from "AI agents" to "autonomous systems". The clause gives the Secretary of State functions where loss of oversight or control of an AI agent may compromise a relevant network or information system; definitions are left to regulations, and the government will consult on implementation. Papers published 25 November give the Commons' reasons for disagreeing with Lords amendments 107 and 108 (other matters), returning those to the Lords (source: 2026-11-26-ai-agent-identity-news.md, citing [Parliamentary bill record](https://bills.parliament.uk/bills/4035), [Commons reasons](https://bills.parliament.uk/publications/69022/documents/9119) and [Commons Hansard](https://hansard.parliament.uk/commons/2026-11-24/debates/9696CEE9-A8C3-449D-9B15-89FA9F00CF8E/CyberSecurityAndResilience%28NetworkAndInformationSystems%29Bill), primary). Status: consideration of amendments continues; no Royal Assent, no regulations in force. This is the Commons stage of the clause the Lords agreed on 26 Oct (recorded above as **Amendment 70**); the different number is most likely the usual renumbering when Lords amendments go to the Commons, but the report does not confirm the link — **needs verification**. No contradiction. See [[2026-11-26-ai-agent-identity-news]].
 
+## 2026-11-26: Bank of England FPC record on agent traceability and delegated authority
+
+The FPC's November record (meeting 19 Nov, published 26 Nov) says consumer agents need clear instructions and **limits on delegated authority**, with testing and monitoring of whether their actions match users' intentions; it calls for rapid attention to accountability, liability and redress, and for **traceability of which agent acted, for whom and with what permissions**. It warns of destabilising collective effects (faster deposit movements, investment reallocations) and stresses access controls, monitoring, effective human involvement and system-wide safeguards as autonomy increases (source: 2026-11-27-ai-agent-identity-news.md, citing [Bank of England — FPC Record, November 2026](https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026), primary, paras 41 and 57–58). A financial-stability assessment — not a registry, enacted liability rule or identity specification. It moves the 2026-11-12 entry above (one external member's speech) to the committee level; no contradiction. See [[2026-11-27-ai-agent-identity-news]].
+
+## 2026-11-26: Treasury speech backs the Agentic Policy Sprint
+
+Economic Secretary Lucy Rigby's TechUK speech (delivered 25 Nov, published 26 Nov) names identity, consent, fraud, responsibility and liability as central questions for autonomous payments, and supports government, FCA, technology-provider and financial-sector collaboration through the **Agentic Policy Sprint**, with clear accountability and early regulatory engagement (source: 2026-11-27-ai-agent-identity-news.md, citing [HM Treasury speech](https://www.gov.uk/government/speeches/economic-secretary-to-the-treasury-speech-at-techuk), primary). Supporting coverage for the FCA sprint recorded under 2026-11-24 above and Treasury's 2026-11-18 liability remarks — not a new launch or legislation. No contradiction.
+
 ## Related pages
 
 
@@ -137,3 +145,4 @@ In the 24 November Commons debate on the Cyber Security and Resilience Bill, MPs
 - [[2026-11-25-ai-agent-identity-news]]
 - [[2026-09-22-ai-agent-identity-news]]
 - [[2026-11-26-ai-agent-identity-news]]
+- [[2026-11-27-ai-agent-identity-news]]

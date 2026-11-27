@@ -4,6 +4,18 @@ Append-only record of all operations on this wiki.
 
 ---
 
+## 2026-11-27 (ingest of 2026-11-27)
+
+**Source ingested**: `raw/2026-11-27-ai-agent-identity-news.md` (Friday; no research section).
+
+**Pages created**: `wiki/2026-11-27-ai-agent-identity-news.md`; `wiki/papua-new-guinea-ai-agent-policy.md` (new country page — PNG not previously covered).
+
+**Pages updated**: `united-kingdom-ai-agent-policy.md` (Bank of England FPC November record; HM Treasury TechUK speech on the Agentic Policy Sprint), `estonia-ai-agent-id.md` (no-change note), `agent-authorization-and-delegation.md`, `ai-agent-identity.md`, `kenya-ai-agent-policy.md` (see-also link), `index.md`.
+
+**Contradictions / corrections**: none. The FPC record moves the 2026-11-12 Hall speech to committee level; the Treasury speech supports the FCA sprint recorded 2026-11-25. Australia's National AI Centre resource re-dated 26 Nov was excluded by the report (no verified revision). The 2026-09-08 isikukood correction and 2026-10-25 agendikood position stand.
+
+**Not modified**: nothing in `raw/` was altered. Publishing step not run (per scheduled-task instruction).
+
 ## 2026-11-26 (ingest of 2026-11-26)
 
 **Source ingested**: `raw/2026-11-26-ai-agent-identity-news.md` (Thursday; no research section).
